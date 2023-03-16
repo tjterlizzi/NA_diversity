@@ -1,0 +1,193 @@
+---
+title: "bien_trait_collection"
+author: "Timothy Terlizzi"
+date: "2023-02-14"
+output: html_document
+---
+# Trait Context
+This script is used to access the trait data for the 149 taxa identified in our NAALL_5000.csv (created in the smthdata_v2_Brewer.Rmd script) within the composite folder of the working directory. The trait data for each taxon is accessed via the BIEN database and their r package (BIEN). Once we accessed the trait occurrences for each taxon, we filtered out all the aquatic taxa and only kept records from countries in North and Central America. Central America records were included to add records for taxa located within the Yucatan. We then averaged all the record for the 8 desired traits and created a master list of the 148 taxa and their average trait values. This trait data was then used to calculate the functional Hill numbers outlined in Chui et al., 2014. These functional Hill numbers were used in comparisson to the taxonomic Hill numbers in our study. 
+
+# Library and Packages
+Installing the BIEN package used to import trait data from the BIEN database
+```{r}
+install.packages("BIEN")
+```
+
+The packages used in this script
+```{r}
+library("BIEN")
+library("dplyr")
+library("stringr")
+```
+
+# Raw Data Import
+Importing the list of all the taxa on the NAALL_5000.csv file. The .csv was created manually to separate each taxa into specific columns for species, genus, and family. 
+```{r}
+#Importing a list of all the taxa identified in this study, the list was created by compiling the taxa identified in each site within the rawdata folder in the working directory
+taxa.list<-read.csv("./composite/master_taxa_list_v2.csv", na.strings = "")
+
+taxa.list %>%
+  filter(!is.na(.$Family)) %>%
+  nrow()
+
+7+102+39
+
+taxa.list %>%
+  nrow()
+```
+
+# Trait Import
+*Note this code imports 150 dataframes from the BIEN database, as such the code has a long runtime, only run if you have a strong connection and full battery* This code chunk takes ~25 minutes to run with the 150 taxa of taxa.list and a strong internet connection. The package requires SQL connections, some institutions block these type of connections and may prevent the code from running properly. If you are unable to run the below code, the pft list can be generated in the followed code chunk via the filtered .csv files in the taxa_traits folder in the working directory. Please not that the below code was used to generate the taxa_traits .csv files in the first place. 
+```{r eval=FALSE, include=FALSE}
+pft<-list() #creating a pft list to store the 148 dataframes for each taxon
+
+for (i in 1:nrow(taxa.list)){ #loop through each row of the taxa list
+  ifelse(!is.na(taxa.list[i,3]), #if there is a value for the species column
+        #then import the species record from BIEN
+        pft[[i]]<-BIEN_trait_species(species=taxa.list[i,3],
+                                      #record which countries record are from for future filtering
+                                      political.boundaries = T) 
+         , NA) #else do nothing
+  ifelse(!is.na(taxa.list[i,2]), #if there is a value in the genus column
+         #then access the genus records from BIEN
+         pft[[i]]<-BIEN_trait_genus(genus=taxa.list[i,2],
+                                    political.boundaries = T)
+         , NA)
+  ifelse(!is.na(taxa.list[i,1]), #if there is a value in the family column
+         #then access the family records from BIEN
+         pft[[i]]<-BIEN_trait_family(family=taxa.list[i,1],
+                                     political.boundaries = T)
+         , NA)
+}
+```
+
+### Trait import from .csv
+If you'd like to run the code in the Taxa trait averages section but do not have the means to import the trait data using the above code, this code can be used to import the taxa trait data via the .csv files within the taxa_traits folder in the working directory. These .csv files were created by saving each dataframe within the pft list created above. However, the original pft list was filtered to remove taxa not from North America and remove aquatic taxa. Those filters have already been done on the .csv files in the taxa_traits folder, so the below pft list does not need to be filtered. 
+```{r eval=FALSE, include=FALSE}
+pft<-list() #create list for the dataframes
+myfiles = list.files(path="./taxa_traits", pattern="*.csv", full.names=TRUE) #store the names of all of the .csv files within the taxa_traits folder in the working directory
+
+#for each row in the taxa list, import the csv's from the taxa_traits folder
+for (n in 1:nrow(taxa.list)){
+  pft[[n]]<-read.csv(myfiles[n], na.strings = "NA") 
+}
+```
+
+# Taxa trait averages
+```{r warning=FALSE}
+#creating a dataframe with 9 columns, 1 for the taxa name, 7 for the selected traits we used in our study, and 1 (Error column) for recording if the datasheets are too large to save as a .csv in the taxa_traits folder in the working directory
+trait.list<-data.frame(matrix(ncol = 9))
+colnames(trait.list)<-c("Taxa", "Specific Leaf Area", "Leaf Lifespan", "Max Plant Height", "Max Plant Longevity", "Seed Mass", "Whole Plant Growth Form", "Whole Plant Woodiness", "Error" )
+```
+
+###Trait Selection 
+The below code is used to create our trait list in which each taxon has an average value for each of the selected traits. Note that some of the taxa do not have records for certain traits and are thus left empty. These average trait values were then used in the hill_number_calculations.Rmd script to generate the functional Hill numbers used in this study. This code also saves each filtered dataframe as a .csv within the taxa traits folder, to speed up the runtime of this code chunk, line 174-178 can be commented out and the code will not save new .csv files as the folder already contains them. 
+```{r}
+#we loop through each dataframe within the pft list (148 dataframes)
+for (i in 1:length(pft)){
+  
+  #first we filter current pft dataframe (pft[[i]]) for the records to only include occurrences collected in a country in either North or Central America and store it as a single dataframe called taxa.trait, the taxa.trait dataframe is replaced with a new taxon each iteration of the loop
+  taxa.trait<-pft[[i]] %>%
+    filter((.$country=="United States" | 
+            .$country=="Canada" | 
+            .$country=="Mexico" | 
+            .$country=="Belize" | 
+            .$country=="Guatemala" |
+            .$country=="Costa Rica" |
+            .$country=="El Salvador" |
+            .$country=="Honduras" |
+            .$country=="Nicaragua" |
+            .$country=="Panama") & 
+             #we also remove any records that mention an aquatic habit or have an * following any letter, this is so our later list of growth forms does not include words with * following. 
+           (!grepl("[aA]qua|[aA-zZ][*]", .$trait_value)))
+  
+  #Some taxa do not have any of our desired trait information following being filtered so we decided to use their global data if that is the case
+  #checking to see if there are any records with the variables we are using
+  if(nrow(taxa.trait %>% 
+          filter(.$trait_name=="leaf area per leaf dry mass" |
+                 .$trait_name=="leaf life span" |
+                 .$trait_name=="maximum whole plant height" | 
+                 .$trait_name=="whole plant height" | 
+                 .$trait_name=="maximum whole plant longevity" | 
+                 .$trait_name=="whole plant longevity" | 
+                 .$trait_name=="longest whole plant longevity" | 
+                 .$trait_name=="seed mass" | 
+                 .$trait_name=="whole plant growth form" |
+                 .$trait_name=="whole plant woodiness"))==0)
+  #if the filtered North America dataframe has 0 rows of our desired traits, then we use the original global record and just filter our aquatic record and the records with '*'
+    {taxa.trait<-pft[[i]] %>% 
+      filter(!grepl("[aA]qua|[aA-zZ][*]", .$trait_value))} #if the filtered record does have rows, then we leave it as is and move on to averaging the trait data
+  
+  #the first column of our trait.list dataframe is for taxa names so we take the first row and column of the taxa.trait dataframe (the taxa name) and store it
+  trait.list[i,1]<-taxa.trait[1,1]
+  
+  #the second column of trait.list is for the specific leaf area (SLA) measurements. We filter taxa.trait for only the records of 'leaf area per leaf dry mass' aka SLA and average all of the recorded values and store in column 2 of trait.list
+  trait.list[i,2]<-taxa.trait %>%
+    filter(.$trait_name=="leaf area per leaf dry mass") %>%
+    .$trait_value %>%
+    as.numeric() %>%
+    mean(na.rm=T)
+  
+  #Column 3 of trait.list is for the leaf life span values, we filtered taxa.trait for all the records of leaf life span measurements and averaged all the values together
+  trait.list[i,3]<-taxa.trait %>%
+    filter(.$trait_name=="leaf life span") %>%
+    .$trait_value %>%
+    as.numeric() %>%
+    mean(na.rm=T)
+
+  #Column 4 of trait.list is for max plant height. BIEN has two traits that play a role in this measurement: 'maximum whole plant height' & 'whole plant height,' we searched for records with either measurement and then averaged them all together to get an average plant height
+  trait.list[i,4]<-taxa.trait %>%
+    filter(.$trait_name=="maximum whole plant height" | .$trait_name=="whole plant height") %>%
+    .$trait_value %>%
+    as.numeric() %>%
+    mean(na.rm=T)
+
+  #Column 5 of trait.list is max plant longevity, and as with the above trait, BIEN has 3 traits that could fall under this category: 'maximum whole plant longevity,' 'whole plant longevity,' and 'longest whole plant longevity.' We filtered for records of any of the three and averaged the values all together to be stored within trait.list
+  trait.list[i,5]<-taxa.trait %>%
+    filter(.$trait_name=="maximum whole plant longevity" | 
+           .$trait_name=="whole plant longevity" | 
+           .$trait_name=="longest whole plant longevity") %>%
+    .$trait_value %>%
+    as.numeric() %>%
+    mean(na.rm=T)
+
+  #Column 6 of trait.list is for the seed mass measurements. We filtered taxa.trait for only records of seed mass and averaged the measurements together.
+  trait.list[i,6]<-taxa.trait %>%
+    filter(.$trait_name=="seed mass") %>%
+    .$trait_value %>% 
+    as.numeric() %>%
+    mean(na.rm=T)
+   
+  #Column 7 of trait.list is for the whole plant growth form. This is a discreet variable where all others have been continuous. Rather than average the trait, we create a string of all the possible growth forms the taxon could have. To do this we filter for all the records of while plant growth form, but using a regular expression, we only include the growth forms: tree, herb, shrub, liana, vine, and parasite. *Note the inclusion of ^()$ around the words indicates that growth forms like 'treelike' or 'climbing vine' are also excluded.* All other growth forms are not used. Then we bring all the results to lower case and sort the unique values alphabetically before finally creating a string of all the possible growth forms.  
+  trait.list[i,7]<-taxa.trait %>%
+    filter((.$trait_name=="whole plant growth form") & 
+           (grepl("^([tT]ree)$|^([hH]erb)$|^([sS]hrub)$|^([lL]iana)$|^([vV]ine)$|^([pP]arasite)$", 
+                  .$trait_value))) %>%
+    .$trait_value %>%
+    tolower() %>%
+    unique() %>%
+    sort() %>%
+    toString()
+    
+  #The final trait for trait.list is whole plant woodiness and goes in column 9. Like the above growth form, this is a discreet variable with three possible values: herbaceous, woody, or variable. No record from North America for any of our taxa contained measurements of woodiness, so rather than using the filtered taxa.trait dataframe, we use the original pft[[i]] global record. We filter pft for only records of whole plant woodiness and remove the aquatics as well as the records of variable woodiness. We removed variable because some records have both woody and herbaceous values which we interpret to be redundant with variable values. As with growth form the filtered values are brought to lowercase and the unique values are sorted alphabetically and made into a string
+  trait.list[i,8]<-pft[[i]] %>%
+    filter((.$trait_name=="whole plant woodiness") & 
+           (!grepl("[aA]qua|[vV]ariable", .$trait_value))) %>%
+    .$trait_value %>%
+    tolower() %>%
+    unique() %>%
+    sort() %>%
+    toString()
+  
+#this code below is to save the taxa.trait dataframe to a .csv file within the taxa_traits folder of the working directory.
+  name<-str_glue('./taxa_traits\\{trait.list[i,1]}.csv') #creating a string of the location of the taxa_traits folder and the name of the taxa to be saved as a .csv
+  #This function tries to write the .csv file using name as the location and filename and taxa.trait as the data, however as some of the records, for example: Pinus, are very large they may not be able to be saved as a .csv file, if that is the case the error function occurs
+  tryCatch({
+    write.csv(taxa.trait,name)
+  }, error=function(e){trait.list[i,9]<<-"File too large"}) #if the file is too large to be saved, this records in trait.list column 9 that the file was too large, we know it was unable to be saved as a .csv. In the case of this data, all of the taxa were able to be saved as .csv files but if different filters are applied, that may not be the case.
+}
+
+#This code replaces the NaN values within trait.list with blanks and then saves the dataframe as a .csv within the composite folder of the working directory. This .csv file is what is used in the hill_number_calculations.Rmd file along with the smooth pollen percentages from NAALL_5000.csv to calculate the functional Hill numbers used in the study
+trait.list<-replace(trait.list, (trait.list=="NaN"), "")
+write.csv(trait.list, "./composite/master_trait_data.csv", row.names = F, na = "")
+```
