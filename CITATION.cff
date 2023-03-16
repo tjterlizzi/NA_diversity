@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Terlizzi"
+  given-names: "Timothy"
+  orcid: "https://orcid.org/0009-0009-3348-4930"
+title: "NA_diversity"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2023-03-16
+url: "https://github.com/tjterlizzi/NA_diversity"
