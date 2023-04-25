@@ -1,5 +1,5 @@
 # Terlizzi and Minckley (2023) Supplemental Materials
 This repository contains all of the data and code used in the analysis published in Terlizzi and Minckley (2023) in the journal of ______. 
 ## What can I do with this code? 
-Within this repository are 4 RMarkdown files, each executing different portions of the analysis done in the above paper. The file named smthdata_v2_Brewer.RMD contains code used to smooth each of the sites to 1000-year resolution and to a temporal range from 0 to 150 cal ka BP. 
+Within this repository are 4 RMarkdown files, each executing different portions of the analysis done in the above paper. The file named smthdata_v2_Brewer.RMD contains the code used to smooth each of the sites to 1000-year resolution and to a temporal range from 0 to 150 cal ka BP. A 100000-year sliding window average is used to generate the smoother for each of our selected site pollen records. Within the file named bien_trait_collection.RMD is the code used to access observation data for seven preselected plant functional traits for specific plant taxa from the BIEN trait database. The code is also used to filter out traits for aquatic taxa and taxa not native to North America. Using the trait data imported from BIEN, the code calculates trait averages for each taxa used in the analysis of Terlizzi and Minckley (2023). 
 ## How can I run this code?
