@@ -1,0 +1,4 @@
+"","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Ephedra","Ephedra californica","seed mass","45.005","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4426562
+"2","Ephedra","Ephedra nevadensis","seed mass","26.402","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4426563
+"3","Ephedra","Ephedra viridis","seed mass","77.4","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4423112

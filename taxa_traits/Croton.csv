@@ -1,0 +1,965 @@
+"","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Croton",NA,"whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1863948
+"2","Croton","Croton pseudoniveus","stem wood density","0.6","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3102858
+"3","Croton","Croton capitatus","whole plant height","0.5","m","Maximum height",NA,NA,NA,NA,NA,NA,"United States","Indiana",NA,"public",3149733
+"4","Croton","Croton niveus","stem wood density","0.65","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3162555
+"5","Croton","Croton roxanae","stem wood density","0.55","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3191834
+"6","Croton","Croton niveus","stem wood density","0.64","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3191845
+"7","Croton","Croton billbergianus","leaf area","10920","mm2","Area of dry blade calculated on photographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","Panama",NA,NA,"public",3192427
+"8","Croton","Croton niveus","leaf nitrogen content per leaf dry mass","37","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3192447
+"9","Croton","Croton nitens","stem wood density","0.53","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.234","Lopez-Gonzalez G","G.Lopez-Gonzalez@leeds.ac.uk","Mexico",NA,NA,"public",3192463
+"10","Croton","Croton pseudoniveus","stem wood density","0.59","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3192468
+"11","Croton","Croton pseudoniveus","leaf area per leaf dry mass","23.52","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3192470
+"12","Croton","Croton pseudoniveus","leaf nitrogen content per leaf dry mass","28","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3192471
+"13","Croton","Croton niveus","leaf nitrogen content per leaf dry mass","36","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3224139
+"14","Croton","Croton morifolius","leaf phosphorus content per leaf dry mass","2.15923","mg.g-1",NA,10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3242118
+"15","Croton","Croton pseudoniveus","leaf nitrogen content per leaf dry mass","29","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3255252
+"16","Croton","Croton smithianus","diameter at breast height (1.3 m)","29.5","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",3260834
+"17","Croton","Croton roxanae","leaf area per leaf dry mass","14.06","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3263298
+"18","Croton","Croton roxanae","leaf area per leaf dry mass","27.76","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3263322
+"19","Croton","Croton pseudoniveus","stem wood density","0.59","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3263600
+"20","Croton","Croton pseudoniveus","leaf nitrogen content per leaf dry mass","27","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3263601
+"21","Croton","Croton pseudoniveus","leaf nitrogen content per leaf dry mass","28","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3263602
+"22","Croton","Croton schiedeanus","leaf nitrogen content per leaf dry mass","19.8","mg.g-1","Canopy N% was estimated with the Carnegie Airborne Observatory Airborne Taxonomic Mapping System (CAO-AToMs) onboard a Dornier 228 Aircraft. The sensor configuration used consisted of a high-fidelity imaging spectrometer (HiFIS) and a dual laser, waveform light detection and ranging (LiDAR) sensor.",NA,NA,50,"http://datadryad.org/resource/doi:10.5061/dryad.ck585","Balzotti CS","cbalzotti@carnegiescience.edu","Costa Rica","Puntarenas",NA,"public",3277103
+"23","Croton","Croton roxanae","leaf nitrogen content per leaf dry mass","32","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3678432
+"24","Croton","Croton roxanae","stem wood density","0.59","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3799214
+"25","Croton","Croton niveus","leaf area per leaf dry mass","23.87","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3800863
+"26","Croton","Croton pseudoniveus","stem wood density","0.59","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3801372
+"27","Croton","Croton roxanae","leaf nitrogen content per leaf dry mass","32","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3801374
+"28","Croton","Croton niveus","leaf area per leaf dry mass","30.45","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3801378
+"29","Croton","Croton pseudoniveus","leaf area per leaf dry mass","32.01","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3801398
+"30","Croton","Croton pseudoniveus","leaf area per leaf dry mass","32.01","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3801399
+"31","Croton","Croton pseudoniveus","leaf area per leaf dry mass","23.52","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3801400
+"32","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,NA,NA,NA,"https://www.researchgate.net/profile/Pedro_Dias9/publication/6399685_Foraging_Habits_of_Alouatta_palliata_mexicana_in_Three_Forest_Fragments/links/0c960530e4702898c2000000.pdf","Asensio N",NA,"Mexico",NA,NA,"public",3844610
+"33","Croton","Croton torreyanus","whole plant growth form","shrub",NA,NA,NA,NA,NA,"http://ac.els-cdn.com.ezproxy3.library.arizona.edu/037811279090064I/1-s2.0-037811279090064I-main.pdf?_tid=7fd5d844-5e91-11e7-a5e4-00000aab0f6b&acdnat=1498936646_f1bb5a29cd006ad500b75c57217cdfb9","Reid N",NA,"Mexico",NA,NA,"public",3857873
+"34","Croton","Croton billbergianus","whole plant growth form","tree",NA,NA,NA,NA,NA,"https://www.researchgate.net/profile/Guillermo_Ibarra-Manriquez/publication/257220575_Corrections/links/5489f0110cf2d1800d7aa5a0.pdf","Ibarra-Manriquez G",NA,"Mexico","Veracruz",NA,"public",3861394
+"35","Croton","Croton glandulosus","whole plant height","0.7","m","Maximum height",NA,NA,NA,NA,NA,NA,"United States","Indiana",NA,"public",3866301
+"36","Croton","Croton schiedeanus","leaf nitrogen content per leaf dry mass","25.5","mg.g-1","Canopy N% was estimated with the Carnegie Airborne Observatory Airborne Taxonomic Mapping System (CAO-AToMs) onboard a Dornier 228 Aircraft. The sensor configuration used consisted of a high-fidelity imaging spectrometer (HiFIS) and a dual laser, waveform light detection and ranging (LiDAR) sensor.",NA,NA,50,"http://datadryad.org/resource/doi:10.5061/dryad.ck585","Balzotti CS","cbalzotti@carnegiescience.edu","Costa Rica","Puntarenas",NA,"public",3985407
+"37","Croton","Croton schiedeanus","leaf nitrogen content per leaf dry mass","34.1","mg.g-1","Canopy N% was estimated with the Carnegie Airborne Observatory Airborne Taxonomic Mapping System (CAO-AToMs) onboard a Dornier 228 Aircraft. The sensor configuration used consisted of a high-fidelity imaging spectrometer (HiFIS) and a dual laser, waveform light detection and ranging (LiDAR) sensor.",NA,NA,50,"http://datadryad.org/resource/doi:10.5061/dryad.ck585","Balzotti CS","cbalzotti@carnegiescience.edu","Costa Rica","Puntarenas",NA,"public",3985408
+"38","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","17.5","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4306333
+"39","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","18","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4306338
+"40","Croton","Croton smithianus","diameter at breast height (1.3 m)","42.1","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4306346
+"41","Croton","Croton smithianus","diameter at breast height (1.3 m)","23.5","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4306366
+"42","Croton","Croton smithianus","diameter at breast height (1.3 m)","22.4","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4306381
+"43","Croton","Croton smithianus","diameter at breast height (1.3 m)","37","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4306385
+"44","Croton","Croton smithianus","diameter at breast height (1.3 m)","12","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4306429
+"45","Croton","Croton smithianus","diameter at breast height (1.3 m)","15.6","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4306439
+"46","Croton","Croton smithianus","diameter at breast height (1.3 m)","16","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4306443
+"47","Croton","Croton smithianus","diameter at breast height (1.3 m)","22.5","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4306476
+"48","Croton","Croton smithianus","diameter at breast height (1.3 m)","36.3","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4306477
+"49","Croton","Croton californicus","seed mass","6","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4405904
+"50","Croton","Croton setigerus","seed mass","8.724","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4426695
+"51","Croton","Croton setigerus","seed mass","7.16","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4426721
+"52","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6215814
+"53","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.143460274,-79.88249969,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8844542
+"54","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.147870064,-79.69309998,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11558296
+"55","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.16176033,-79.74530029,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14008025
+"56","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.9","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",34729
+"57","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","13","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",46706
+"58","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","8","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",46707
+"59","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","14","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",46708
+"60","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",46709
+"61","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",71530
+"62","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",71992
+"63","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",71993
+"64","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",73324
+"65","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",73325
+"66","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",73326
+"67","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",73327
+"68","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",73328
+"69","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",73329
+"70","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",73330
+"71","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",73331
+"72","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",73332
+"73","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",73333
+"74","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",73335
+"75","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",73336
+"76","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",114480
+"77","Croton","Croton brevipes","diameter at breast height (1.3 m)","2.5","cm",NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",129686
+"78","Croton","Croton smithianus","diameter at breast height (1.3 m)","18.7","cm",NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",142950
+"79","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",153778
+"80","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",155084
+"81","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",155081
+"82","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",155082
+"83","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",155083
+"84","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",179701
+"85","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",179708
+"86","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",181468
+"87","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",181469
+"88","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",181470
+"89","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",195685
+"90","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","4.9","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",196888
+"91","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",235258
+"92","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",235259
+"93","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",276058
+"94","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",276059
+"95","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.4","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",276060
+"96","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","7.5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",276061
+"97","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","8","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",276062
+"98","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",290448
+"99","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","3.3","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",304645
+"100","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","4.1","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",304646
+"101","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","3","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",304650
+"102","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","16","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",329829
+"103","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","4","cm",NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",329869
+"104","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","3.3","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",344272
+"105","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",370633
+"106","Croton","Croton fragilis","diameter at breast height (1.3 m)","2","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",370634
+"107","Croton","Croton fragilis","diameter at breast height (1.3 m)","2","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",370635
+"108","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",370640
+"109","Croton","Croton billbergianus","diameter at breast height (1.3 m)","19.8","cm",NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",371690
+"110","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",385039
+"111","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","9","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",409981
+"112","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",450257
+"113","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",450273
+"114","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","16","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",450285
+"115","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",450286
+"116","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","17","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",450333
+"117","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","8","cm",NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",505209
+"118","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",505210
+"119","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",517427
+"120","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",517434
+"121","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",517442
+"122","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",517448
+"123","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",517449
+"124","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",517451
+"125","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",519033
+"126","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",519034
+"127","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",519035
+"128","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",519036
+"129","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",519037
+"130","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",519038
+"131","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",519039
+"132","Croton","Croton smithianus","diameter at breast height (1.3 m)","2.5","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",520159
+"133","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","3.3","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",533479
+"134","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","21","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",546967
+"135","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","4.5","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",546971
+"136","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",571174
+"137","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",571191
+"138","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",571194
+"139","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",572952
+"140","Croton","Croton brevipes","diameter at breast height (1.3 m)","2.59","cm",NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",586162
+"141","Croton","Croton smithianus","diameter at breast height (1.3 m)","3","cm",NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",600627
+"142","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",613004
+"143","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","7","cm",NA,8.7,-83.55,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",626864
+"144","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",651803
+"145","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","7","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",651819
+"146","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","7","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",651822
+"147","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",651825
+"148","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",651826
+"149","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",651828
+"150","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",651833
+"151","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",651843
+"152","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",653526
+"153","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","7","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",653527
+"154","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",653528
+"155","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","9","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",653529
+"156","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",653530
+"157","Croton","Croton alamosanus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",666908
+"158","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","5.1","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",668007
+"159","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","5","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",668008
+"160","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",680563
+"161","Croton","Croton brevipes","diameter at breast height (1.3 m)","2.7","cm",NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",707149
+"162","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5.9","cm",NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",735679
+"163","Croton","Croton smithianus","diameter at breast height (1.3 m)","5.8","cm",NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",749271
+"164","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","3.2","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",749342
+"165","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","8.8","cm",NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",762436
+"166","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","3.8","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",816291
+"167","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","5.4","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",816293
+"168","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","14","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",842440
+"169","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","5","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",842441
+"170","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","12","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",842442
+"171","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",842452
+"172","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",842453
+"173","Croton","Croton fragilis","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",842454
+"174","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",842455
+"175","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",842456
+"176","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","3.4","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",843576
+"177","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","8.2","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",843599
+"178","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","6.1","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",870510
+"179","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",870511
+"180","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.7","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",870513
+"181","Croton",NA,"diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",882696
+"182","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",909643
+"183","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","11","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",909644
+"184","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",909645
+"185","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",936604
+"186","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","8.8","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",937750
+"187","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",977304
+"188","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",977305
+"189","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","3","cm",NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1004985
+"190","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","16.1","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1019500
+"191","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1031942
+"192","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1031943
+"193","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1059164
+"194","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","4","cm",NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1085965
+"195","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","4.4","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1087048
+"196","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140090
+"197","Croton","Croton fragilis","diameter at breast height (1.3 m)","2","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140091
+"198","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140092
+"199","Croton","Croton fragilis","diameter at breast height (1.3 m)","2","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140093
+"200","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140094
+"201","Croton","Croton fragilis","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140095
+"202","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140096
+"203","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140097
+"204","Croton","Croton fragilis","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140098
+"205","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140099
+"206","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140100
+"207","Croton","Croton fragilis","diameter at breast height (1.3 m)","2","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140101
+"208","Croton","Croton fragilis","diameter at breast height (1.3 m)","2","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140102
+"209","Croton","Croton draco","diameter at breast height (1.3 m)","30","cm",NA,8.98333,-79.55,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1140118
+"210","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","25","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1151785
+"211","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1166888
+"212","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1166889
+"213","Croton","Croton xalapensis","diameter at breast height (1.3 m)","3.5","cm",NA,10.2908,-84.0606,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1180093
+"214","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","9","cm",NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1180308
+"215","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","9","cm",NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1180309
+"216","Croton","Croton smithianus","diameter at breast height (1.3 m)","15.6","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1181451
+"217","Croton","Croton fragilis","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1193828
+"218","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1193829
+"219","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1193830
+"220","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1193831
+"221","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1193832
+"222","Croton","Croton smithianus","diameter at breast height (1.3 m)","4.8","cm",NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1194893
+"223","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1207416
+"224","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1207417
+"225","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1207410
+"226","Croton","Croton fragilis","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1207411
+"227","Croton","Croton fragilis","diameter at breast height (1.3 m)","9","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1207412
+"228","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1207413
+"229","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1207414
+"230","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1207415
+"231","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.7","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1222189
+"232","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","13","cm",NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1247575
+"233","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","3","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1249049
+"234","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","3.4","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1249056
+"235","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","3.2","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1249057
+"236","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.7","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1249058
+"237","Croton","Croton morifolius","diameter at breast height (1.3 m)","2","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1329609
+"238","Croton","Croton morifolius","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1329610
+"239","Croton","Croton morifolius","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1329611
+"240","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","17","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1356508
+"241","Croton","Croton smithianus","diameter at breast height (1.3 m)","16.2","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1371095
+"242","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","7.5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1383534
+"243","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1383535
+"244","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","7.5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1383536
+"245","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","7.5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1383537
+"246","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","10","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1383538
+"247","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1383539
+"248","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","16","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1383540
+"249","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1383541
+"250","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1394945
+"251","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1395403
+"252","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1395408
+"253","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1395426
+"254","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1395486
+"255","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408832
+"256","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408867
+"257","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408868
+"258","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408872
+"259","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408883
+"260","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408888
+"261","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1421982
+"262","Croton","Croton fragilis","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1421983
+"263","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1423533
+"264","Croton","Croton smithianus","diameter at breast height (1.3 m)","13.7","cm",NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1424668
+"265","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","17","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1450767
+"266","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","10","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1450768
+"267","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1450769
+"268","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","8","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1450770
+"269","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1450771
+"270","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","7.5","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1450772
+"271","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1463955
+"272","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1463956
+"273","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1463957
+"274","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1463958
+"275","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1463959
+"276","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","5.7","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1465129
+"277","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1477251
+"278","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","3.8","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1492175
+"279","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","3.8","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1492176
+"280","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1502670
+"281","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1502917
+"282","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1502921
+"283","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1502922
+"284","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1502924
+"285","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1502958
+"286","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1502980
+"287","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1502981
+"288","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1503013
+"289","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1503025
+"290","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1503029
+"291","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1503030
+"292","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1503032
+"293","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1503043
+"294","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1503045
+"295","Croton","Croton smithianus","diameter at breast height (1.3 m)","22.9","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1519030
+"296","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","4.8","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1519034
+"297","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","3.5","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1519036
+"298","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1531422
+"299","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1531423
+"300","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1531424
+"301","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1531425
+"302","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1531426
+"303","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1531427
+"304","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1531428
+"305","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1531429
+"306","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1531430
+"307","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1531431
+"308","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1531432
+"309","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1531433
+"310","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1531434
+"311","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1531435
+"312","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1531436
+"313","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1558819
+"314","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1558820
+"315","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1558821
+"316","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1570378
+"317","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1570858
+"318","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1570863
+"319","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1570867
+"320","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1571223
+"321","Croton","Croton brevipes","diameter at breast height (1.3 m)","2.9","cm",NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1572089
+"322","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","14.6","cm",NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1572090
+"323","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","21","cm",NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1572283
+"324","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","5","cm",NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1572284
+"325","Croton",NA,"diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1583733
+"326","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1600438
+"327","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1639543
+"328","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","8","cm",NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1639544
+"329","Croton","Croton alamosanus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1653064
+"330","Croton","Croton alamosanus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1653065
+"331","Croton","Croton alamosanus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1653066
+"332","Croton","Croton alamosanus","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1653067
+"333","Croton","Croton alamosanus","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1653068
+"334","Croton","Croton smithianus","diameter at breast height (1.3 m)","23.9","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1654171
+"335","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1677822
+"336","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1677829
+"337","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1677831
+"338","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1678315
+"339","Croton","Croton fragilis","diameter at breast height (1.3 m)","2","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1678326
+"340","Croton","Croton fragilis","diameter at breast height (1.3 m)","2","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1678341
+"341","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1678345
+"342","Croton","Croton fragilis","diameter at breast height (1.3 m)","2","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1678352
+"343","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1678386
+"344","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1678389
+"345","Croton","Croton fragilis","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1678391
+"346","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1678399
+"347","Croton","Croton fragilis","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1678401
+"348","Croton","Croton smithianus","diameter at breast height (1.3 m)","23","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1707915
+"349","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1718687
+"350","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1720228
+"351","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1720229
+"352","Croton","Croton pseudoniveus","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1720230
+"353","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","24","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1732233
+"354","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","4","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1732245
+"355","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","2.5","cm",NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1747899
+"356","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","7.7","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1749033
+"357","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1750834
+"358","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1750835
+"359","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1751102
+"360","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1751103
+"361","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1751104
+"362","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1751105
+"363","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1754596
+"364","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1754597
+"365","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1754598
+"366","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1754599
+"367","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1754600
+"368","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1754601
+"369","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1754602
+"370","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1754603
+"371","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1754604
+"372","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1754605
+"373","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1754607
+"374","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1754608
+"375","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1754609
+"376","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1754610
+"377","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1754611
+"378","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1760094
+"379","Croton","Croton brevipes","whole plant growth form","tree",NA,NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1763318
+"380","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1765047
+"381","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1765048
+"382","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1765416
+"383","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1765417
+"384","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1765418
+"385","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1765419
+"386","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1765420
+"387","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1768774
+"388","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1768775
+"389","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1768776
+"390","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1768777
+"391","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1768778
+"392","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1770644
+"393","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1772265
+"394","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1772266
+"395","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1776177
+"396","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1776178
+"397","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1781721
+"398","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1781722
+"399","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1781723
+"400","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1781724
+"401","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1781725
+"402","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1785054
+"403","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1785055
+"404","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1786958
+"405","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1786959
+"406","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1786960
+"407","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1786963
+"408","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1786964
+"409","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1789130
+"410","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1789173
+"411","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1792419
+"412","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1792420
+"413","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1794732
+"414","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1794733
+"415","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1794734
+"416","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1794739
+"417","Croton","Croton billbergianus","whole plant growth form","tree",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1796112
+"418","Croton","Croton billbergianus","whole plant growth form","tree",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1796113
+"419","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1798087
+"420","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1798088
+"421","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1800366
+"422","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1805664
+"423","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1805665
+"424","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1805666
+"425","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1805667
+"426","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1805668
+"427","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1812958
+"428","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1812959
+"429","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814762
+"430","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814778
+"431","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814779
+"432","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814780
+"433","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814781
+"434","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814782
+"435","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814783
+"436","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814784
+"437","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814785
+"438","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814786
+"439","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814787
+"440","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814788
+"441","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814789
+"442","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1816242
+"443","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1816243
+"444","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1818019
+"445","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1818020
+"446","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1819838
+"447","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1819839
+"448","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1819842
+"449","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1819843
+"450","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1821956
+"451","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1821957
+"452","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1821958
+"453","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1821959
+"454","Croton","Croton brevipes","whole plant growth form","tree",NA,NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1823582
+"455","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1826911
+"456","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1826912
+"457","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1827302
+"458","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,8.7,-83.55,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1829239
+"459","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1832852
+"460","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1832853
+"461","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1832854
+"462","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1832855
+"463","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1832856
+"464","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1832857
+"465","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1832858
+"466","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1832859
+"467","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1832860
+"468","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1832861
+"469","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1832862
+"470","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1832863
+"471","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1832864
+"472","Croton","Croton alamosanus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1834652
+"473","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1836063
+"474","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1836064
+"475","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1836065
+"476","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1836420
+"477","Croton","Croton brevipes","whole plant growth form","tree",NA,NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1839748
+"478","Croton","Croton billbergianus","whole plant growth form","tree",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1845157
+"479","Croton","Croton billbergianus","whole plant growth form","tree",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1845158
+"480","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1846990
+"481","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1846991
+"482","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1847063
+"483","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1847064
+"484","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1848896
+"485","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1848897
+"486","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1856070
+"487","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1856071
+"488","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1856072
+"489","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1858291
+"490","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1858292
+"491","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1858293
+"492","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1858304
+"493","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1858305
+"494","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1858306
+"495","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1858307
+"496","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1858308
+"497","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1859809
+"498","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1859810
+"499","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1859834
+"500","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1859835
+"501","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1863650
+"502","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1863651
+"503","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1863652
+"504","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1863653
+"505","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1867570
+"506","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1867571
+"507","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1867572
+"508","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1871205
+"509","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1872762
+"510","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1872763
+"511","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1876766
+"512","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1876767
+"513","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1880616
+"514","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1883891
+"515","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1883892
+"516","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1884283
+"517","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1884284
+"518","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1887954
+"519","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1891541
+"520","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1892977
+"521","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1892978
+"522","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898704
+"523","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898705
+"524","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898706
+"525","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898708
+"526","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898709
+"527","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898710
+"528","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898711
+"529","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898712
+"530","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898713
+"531","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898714
+"532","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898715
+"533","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898716
+"534","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898717
+"535","Croton","Croton draco","whole plant growth form","tree",NA,NA,8.98333,-79.55,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1898735
+"536","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1900549
+"537","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1902410
+"538","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1902411
+"539","Croton","Croton xalapensis","whole plant growth form","tree",NA,NA,10.2908,-84.0606,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1904015
+"540","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1904280
+"541","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1904281
+"542","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1905792
+"543","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1905793
+"544","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1906080
+"545","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1906081
+"546","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1906082
+"547","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1906083
+"548","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1906084
+"549","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1907495
+"550","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1907496
+"551","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1907878
+"552","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1907879
+"553","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1907880
+"554","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1907881
+"555","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1907882
+"556","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1907883
+"557","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1907884
+"558","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1907885
+"559","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1911262
+"560","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1911263
+"561","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1913117
+"562","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1914925
+"563","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1914926
+"564","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1914931
+"565","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1914932
+"566","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1914933
+"567","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1914934
+"568","Croton","Croton morifolius","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1924625
+"569","Croton","Croton morifolius","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1924626
+"570","Croton","Croton morifolius","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1924627
+"571","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1928272
+"572","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1931543
+"573","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1931545
+"574","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1931873
+"575","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1931874
+"576","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1931875
+"577","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1931876
+"578","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1931877
+"579","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1931878
+"580","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1931879
+"581","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1931880
+"582","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1933655
+"583","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1933670
+"584","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1933671
+"585","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1933673
+"586","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1933674
+"587","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935501
+"588","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935502
+"589","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935503
+"590","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935504
+"591","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935507
+"592","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935508
+"593","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1937314
+"594","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1937315
+"595","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1937316
+"596","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1938836
+"597","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1938837
+"598","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1941175
+"599","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1941176
+"600","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1941177
+"601","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1941178
+"602","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1941179
+"603","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1941180
+"604","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1943094
+"605","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1943095
+"606","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1943096
+"607","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1943097
+"608","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1943098
+"609","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1944608
+"610","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1944609
+"611","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1944959
+"612","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1948331
+"613","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1948332
+"614","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1948333
+"615","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1948625
+"616","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1948626
+"617","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1948627
+"618","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1948628
+"619","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1948629
+"620","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1948630
+"621","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1948631
+"622","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1948632
+"623","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1948633
+"624","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1948634
+"625","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1948635
+"626","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1948636
+"627","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1948637
+"628","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1948639
+"629","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1948640
+"630","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951912
+"631","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951913
+"632","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951916
+"633","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951917
+"634","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951918
+"635","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951919
+"636","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1952210
+"637","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1952211
+"638","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1952212
+"639","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1952213
+"640","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1952214
+"641","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1952215
+"642","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1952216
+"643","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1952217
+"644","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1952218
+"645","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1952219
+"646","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1952220
+"647","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1952221
+"648","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1952222
+"649","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1952223
+"650","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1952224
+"651","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1956041
+"652","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1956042
+"653","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1956043
+"654","Croton","Croton brevipes","whole plant growth form","tree",NA,NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1957642
+"655","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1957643
+"656","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1957811
+"657","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1957814
+"658","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1957816
+"659","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1957817
+"660","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1957818
+"661","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1957852
+"662","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1957853
+"663","Croton",NA,"whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1960589
+"664","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1962885
+"665","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1962887
+"666","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1966791
+"667","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1966792
+"668","Croton","Croton alamosanus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1968539
+"669","Croton","Croton alamosanus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1968540
+"670","Croton","Croton alamosanus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1968541
+"671","Croton","Croton alamosanus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1968542
+"672","Croton","Croton alamosanus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1968543
+"673","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1970028
+"674","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1970029
+"675","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1972097
+"676","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1972098
+"677","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1972099
+"678","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1972100
+"679","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1972101
+"680","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1972107
+"681","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1972108
+"682","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1972109
+"683","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1972110
+"684","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1972111
+"685","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1972112
+"686","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1972113
+"687","Croton","Croton fragilis","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1972114
+"688","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1977322
+"689","Croton","Croton smithianus","whole plant growth form","tree",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1977323
+"690","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1977599
+"691","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1977600
+"692","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1977601
+"693","Croton","Croton pseudoniveus","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1977603
+"694","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1979607
+"695","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1979609
+"696","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1981425
+"697","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1982894
+"698","Croton","Croton schiedeanus","whole plant growth form","tree",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1982895
+"699","Croton","Croton morifolius","leaf nitrogen content per leaf dry mass","30.63819056","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3104112
+"700","Croton","Croton morifolius","leaf carbon content per leaf dry mass","439.512","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3104649
+"701","Croton","Croton morifolius","leaf carbon content per leaf dry mass","390.332","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3108841
+"702","Croton","Croton megistocarpus","leaf area per leaf dry mass","17.31353333","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.4828,-83.95315,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3112075
+"703","Croton","Croton megistocarpus","leaf area per leaf dry mass","23.16607692","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.49824,-84.03149,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3112076
+"704","Croton","Croton megistocarpus","leaf area per leaf dry mass","20.08451923","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.49824,-84.03149,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3119937
+"705","Croton","Croton morifolius","leaf phosphorus content per leaf dry mass","1.70873","mg.g-1",NA,10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3149734
+"706","Croton","Croton setigerus","seed mass","7.94","mg","We used the Jepson Manual (Jepson & Hickman 1993) for vegetative height, seed size and flowering dates and supplemented using other field guides (Smith 1952; Munz 1959), data bases [Ecological Flora Data base (http://ucjeps.berkeley.edu/efc/dbase.html)] and field measurements as needed.",34.67528,-120.0406,NA,"http://datadryad.org/resource/doi:10.5061/dryad.50hd2","Molinari MA","molinari@lifesci.ucsb.edu","United States","California","foothills of the Santa Ynez Mountains","public",3154652
+"707","Croton","Croton billbergianus","leaf nitrogen content per leaf dry mass","37.198","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.54316,-85.16853,431,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Alajuela","Area de Concervacion Guanacaste Sector Rincon Rainforest (Caribe)","public",3194902
+"708","Croton","Croton megistocarpus","leaf area per leaf dry mass","19.38248532","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.4828,-83.95315,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3194922
+"709","Croton","Croton megistocarpus","leaf area per leaf dry mass","23.58209559","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.4828,-83.95315,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3194923
+"710","Croton","Croton megistocarpus","leaf area per leaf dry mass","19.77271739","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.4828,-83.95315,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3194924
+"711","Croton","Croton draco","leaf phosphorus content per leaf dry mass","4.23068","mg.g-1",NA,9.53333,-83.8167,2050,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",3225939
+"712","Croton","Croton morifolius","leaf phosphorus content per leaf dry mass","1.56928","mg.g-1",NA,10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3242143
+"713","Croton","Croton morifolius","leaf carbon content per leaf dry mass","431.332","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3241093
+"714","Croton","Croton billbergianus","leaf phosphorus content per leaf dry mass","1.55060872","mg.g-1",NA,10.54316,-85.16853,431,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Alajuela","Area de Concervacion Guanacaste Sector Rincon Rainforest (Caribe)","public",3246791
+"715","Croton","Croton setigerus","whole plant height","0.1","m","We used the Jepson Manual (Jepson & Hickman 1993) for vegetative height, seed size and flowering dates and supplemented using other field guides (Smith 1952; Munz 1959), data bases [Ecological Flora Data base (http://ucjeps.berkeley.edu/efc/dbase.html)] and field measurements as needed.",34.67528,-120.0406,NA,"http://datadryad.org/resource/doi:10.5061/dryad.50hd2","Molinari MA","molinari@lifesci.ucsb.edu","United States","California","foothills of the Santa Ynez Mountains","public",3251167
+"716","Croton","Croton draco","leaf carbon content per leaf dry mass","453.229663","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",9.53333,-83.8167,2050,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",3260703
+"717","Croton","Croton megistocarpus","leaf area per leaf dry mass","17.97875536","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.4828,-83.95315,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3277095
+"718","Croton","Croton megistocarpus","leaf area per leaf dry mass","19.49067901","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.4828,-83.95315,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3277097
+"719","Croton","Croton megistocarpus","leaf area per leaf dry mass","16.59358255","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.4828,-83.95315,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3277098
+"720","Croton","Croton megistocarpus","leaf area per leaf dry mass","23.76228346","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.4828,-83.95315,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3277099
+"721","Croton","Croton megistocarpus","leaf area per leaf dry mass","20.02715266","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.4828,-83.95315,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3277100
+"722","Croton","Croton megistocarpus","leaf area per leaf dry mass","21.97958549","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.49824,-84.03149,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3277101
+"723","Croton","Croton megistocarpus","leaf area per leaf dry mass","20.66770428","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.49824,-84.03149,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3277102
+"724","Croton","Croton alamosanus","seed length","0.0081","mm",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3962156
+"725","Croton","Croton alamosanus","seed mass","4","mg",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3962255
+"726","Croton","Croton alamosanus","whole plant height","4","m","max height",19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3962256
+"727","Croton","Croton billbergianus","whole plant height","20","m","max height",9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3962271
+"728","Croton","Croton billbergianus","leaf dry mass per leaf fresh mass","273.7","mg.g-1",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3962272
+"729","Croton","Croton niveus","seed mass","5","mg",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3962320
+"730","Croton","Croton niveus","whole plant height","5","m","max height",16.664,-95.01425,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Oaxaca",NA,"public",3962365
+"731","Croton","Croton niveus","whole plant height","7","m","max height",19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3962366
+"732","Croton","Croton niveus","leaf dry mass per leaf fresh mass","0.4","mg.g-1",NA,16.664,-95.01425,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Oaxaca",NA,"public",3962367
+"733","Croton","Croton niveus","seed length","0.0034","mm",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3962368
+"734","Croton","Croton pseudoniveus","seed mass","1","mg",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3962369
+"735","Croton","Croton pseudoniveus","whole plant height","8","m","max height",19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3962385
+"736","Croton","Croton pseudoniveus","seed length","0.0003","mm",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3962386
+"737","Croton","Croton reflexifolius","leaf dry mass per leaf fresh mass","279.9","mg.g-1",NA,20.0846,-89.51128,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Yucatan",NA,"public",3962392
+"738","Croton","Croton roxanae","seed mass","3","mg",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3962394
+"739","Croton","Croton roxanae","whole plant height","8","m","max height",19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3962395
+"740","Croton","Croton roxanae","seed length","0.0042","mm",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3962396
+"741","Croton","Croton schiedeanus","seed mass","53","mg",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3962406
+"742","Croton","Croton schiedeanus","whole plant height","20","m","max height",16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3962407
+"743","Croton","Croton schiedeanus","leaf dry mass per leaf fresh mass","279.8","mg.g-1",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3962408
+"744","Croton","Croton schiedeanus","seed length","8.5","mm",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3962409
+"745","Croton","Croton niveus","whole plant height","7","m","max height",19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3962410
+"746","Croton","Croton suberosus","seed mass","5","mg",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3962414
+"747","Croton","Croton suberosus","whole plant height","3","m","max height",19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3962415
+"748","Croton","Croton suberosus","seed length","0.013","mm",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3962416
+"749","Croton","Croton draco","leaf nitrogen content per leaf dry mass","52.37449168","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",9.53333,-83.8167,2050,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",3985158
+"750","Croton","Croton morifolius","leaf nitrogen content per leaf dry mass","37.65347271","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",4286140
+"751","Croton","Croton morifolius","leaf nitrogen content per leaf dry mass","43.56758557","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",4286148
+"752","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","5005","cm",NA,9.459609985,-79.57379913,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4638693
+"753","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.14673996,-79.71250153,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4648001
+"754","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4719766
+"755","Croton","Croton pachypodus","diameter at breast height (1.3 m)","5005","cm",NA,9.391010284,-79.6556015,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4806013
+"756","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.080479622,-79.64510345,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4919215
+"757","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.144909859,-79.87789917,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4923588
+"758","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.2603302,-79.95600128,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4937088
+"759","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.144909859,-79.87789917,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4946019
+"760","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.168299675,-79.74639893,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4973283
+"761","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4982060
+"762","Croton","Croton astroites","diameter at breast height (1.3 m)","4.572","cm",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5409163
+"763","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.14673996,-79.71250153,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",5598594
+"764","Croton","Croton astroites","diameter at breast height (1.3 m)","2.794","cm",NA,18.481921,-66.959011,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5713200
+"765","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","3.81","cm",NA,18.275321,-65.823554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5713207
+"766","Croton","Croton flavens","diameter at breast height (1.3 m)","3.81","cm",NA,17.950829,-66.966923,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5810806
+"767","Croton","Croton astroites","diameter at breast height (1.3 m)","2.54","cm",NA,18.468674,-67.145209,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5908512
+"768","Croton","Croton flavens","diameter at breast height (1.3 m)","3.3274","cm",NA,18.481921,-66.959011,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5908614
+"769","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6031645
+"770","Croton","Croton astroites","diameter at breast height (1.3 m)","4.0386","cm",NA,17.741934,-64.852953,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6038127
+"771","Croton","Croton astroites","diameter at breast height (1.3 m)","2.794","cm",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6114466
+"772","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","16.51","cm",NA,18.262953,-65.769539,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6212879
+"773","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.141489983,-79.6934967,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6219015
+"774","Croton","Croton astroites","diameter at breast height (1.3 m)","3.048","cm",NA,18.282474,-65.285473,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6310518
+"775","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.2603302,-79.95600128,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6312842
+"776","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","33.274","cm",NA,18.275321,-65.823554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6418512
+"777","Croton","Croton astroites","diameter at breast height (1.3 m)","3.048","cm",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6516242
+"778","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.156499863,-79.74420166,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6544731
+"779","Croton","Croton astroites","diameter at breast height (1.3 m)","2.794","cm",NA,17.741739,-64.754405,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6734052
+"780","Croton","Croton astroites","diameter at breast height (1.3 m)","3.302","cm",NA,17.741739,-64.754405,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6743575
+"781","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.158240318,-79.86119843,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6803233
+"782","Croton","Croton astroites","diameter at breast height (1.3 m)","5.334","cm",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6819982
+"783","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","3.81","cm",NA,18.275321,-65.823554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7015211
+"784","Croton","Croton astroites","diameter at breast height (1.3 m)","3.81","cm",NA,18.282474,-65.285473,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7113868
+"785","Croton","Croton flavens","diameter at breast height (1.3 m)","5.08","cm",NA,18.355004,-64.903066,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7136130
+"786","Croton","Croton astroites","diameter at breast height (1.3 m)","2.54","cm",NA,17.741739,-64.754405,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7341329
+"787","Croton","Croton astroites","diameter at breast height (1.3 m)","6.604","cm",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7622808
+"788","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","3.556","cm",NA,18.275321,-65.823554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7622846
+"789","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.168780327,-79.74069977,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",7718160
+"790","Croton","Croton astroites","diameter at breast height (1.3 m)","5.588","cm",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7720828
+"791","Croton","Croton flavens","diameter at breast height (1.3 m)","5.5626","cm",NA,18.355004,-64.903066,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7840187
+"792","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8234683
+"793","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.168780327,-79.74069977,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8323569
+"794","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","14.986","cm",NA,18.262953,-65.769539,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8621860
+"795","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8723722
+"796","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.16092968,-79.74269867,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8820577
+"797","Croton","Croton astroites","diameter at breast height (1.3 m)","2.794","cm",NA,17.741739,-64.754405,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8846731
+"798","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","3.302","cm",NA,18.275321,-65.823554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8924114
+"799","Croton","Croton astroites","diameter at breast height (1.3 m)","2.54","cm",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8924118
+"800","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","10.414","cm",NA,18.297798,-65.781758,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8924169
+"801","Croton","Croton flavens","diameter at breast height (1.3 m)","5.334","cm",NA,18.115117,-65.473979,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9122796
+"802","Croton","Croton flavens","diameter at breast height (1.3 m)","4.2926","cm",NA,18.355004,-64.903066,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9145227
+"803","Croton","Croton astroites","diameter at breast height (1.3 m)","3.81","cm",NA,18.348518,-65.029944,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9248088
+"804","Croton","Croton flavens","diameter at breast height (1.3 m)","3.048","cm",NA,18.115117,-65.473979,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9525002
+"805","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","18.542","cm",NA,18.275321,-65.823554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9826676
+"806","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","9.144","cm",NA,18.297798,-65.781758,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9926397
+"807","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.16092968,-79.74269867,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9935956
+"808","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.258020401,-79.95290375,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",10155717
+"809","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.144619942,-79.85870361,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",10156574
+"810","Croton","Croton astroites","diameter at breast height (1.3 m)","4.826","cm",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10328740
+"811","Croton","Croton astroites","diameter at breast height (1.3 m)","4.064","cm",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10328741
+"812","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","5005","cm",NA,9.319290161,-79.28679657,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",10504416
+"813","Croton","Croton astroites","diameter at breast height (1.3 m)","2.794","cm",NA,18.331681,-64.873747,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10552579
+"814","Croton","Croton astroites","diameter at breast height (1.3 m)","3.302","cm",NA,18.099916,-65.497369,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10629959
+"815","Croton","Croton astroites","diameter at breast height (1.3 m)","3.81","cm",NA,17.950829,-66.966923,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10931549
+"816","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.123720169,-79.67669678,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11059596
+"817","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11144987
+"818","Croton","Croton astroites","diameter at breast height (1.3 m)","3.81","cm",NA,18.331681,-64.873747,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11255818
+"819","Croton","Croton flavens","diameter at breast height (1.3 m)","3.81","cm",NA,18.370859,-64.749955,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11255848
+"820","Croton","Croton astroites","diameter at breast height (1.3 m)","4.064","cm",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11332670
+"821","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","23.114","cm",NA,18.262953,-65.769539,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11431528
+"822","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.147870064,-79.69309998,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11517342
+"823","Croton","Croton astroites","diameter at breast height (1.3 m)","4.2672","cm",NA,18.331681,-64.873747,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11654692
+"824","Croton","Croton flavens","diameter at breast height (1.3 m)","3.048","cm",NA,18.469445,-66.863474,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11731656
+"825","Croton","Croton astroites","diameter at breast height (1.3 m)","3.048","cm",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11731715
+"826","Croton","Croton astroites","diameter at breast height (1.3 m)","3.302","cm",NA,18.099916,-65.497369,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11731799
+"827","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11860626
+"828","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11942810
+"829","Croton","Croton astroites","diameter at breast height (1.3 m)","2.794","cm",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12033396
+"830","Croton","Croton astroites","diameter at breast height (1.3 m)","5.842","cm",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12232640
+"831","Croton","Croton astroites","diameter at breast height (1.3 m)","3.048","cm",NA,17.741739,-64.754405,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12254551
+"832","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",12260915
+"833","Croton","Croton astroites","diameter at breast height (1.3 m)","3.302","cm",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12433868
+"834","Croton","Croton astroites","diameter at breast height (1.3 m)","3.81","cm",NA,17.741739,-64.754405,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12654706
+"835","Croton","Croton flavens","diameter at breast height (1.3 m)","3.81","cm",NA,18.355004,-64.903066,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12754927
+"836","Croton","Croton matourensis","diameter at breast height (1.3 m)","5005","cm",NA,8.709540367,-80.08450317,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",12856996
+"837","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","24.892","cm",NA,18.317609,-64.849907,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12932615
+"838","Croton","Croton flavens","diameter at breast height (1.3 m)","2.794","cm",NA,18.032882,-66.748582,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13032104
+"839","Croton","Croton astroites","diameter at breast height (1.3 m)","2.794","cm",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13433664
+"840","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.168299675,-79.74639893,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",13664878
+"841","Croton","Croton astroites","diameter at breast height (1.3 m)","2.794","cm",NA,18.282474,-65.285473,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13735761
+"842","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.123720169,-79.67669678,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",13938598
+"843","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",13964788
+"844","Croton","Croton flavens","diameter at breast height (1.3 m)","3.048","cm",NA,18.466142,-67.016759,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14136788
+"845","Croton","Croton astroites","diameter at breast height (1.3 m)","3.556","cm",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14438753
+"846","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.156820297,-79.75170135,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14554620
+"847","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.158240318,-79.86119843,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14725215
+"848","Croton","Croton astroites","diameter at breast height (1.3 m)","3.302","cm",NA,18.00935,-66.648891,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14737900
+"849","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","27.432","cm",NA,18.310462,-65.804107,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14737905
+"850","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","22.606","cm",NA,18.317609,-64.849907,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14737906
+"851","Croton","Croton astroites","diameter at breast height (1.3 m)","2.794","cm",NA,18.344722,-64.93147,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14861389
+"852","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.080479622,-79.64510345,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14965925
+"853","Croton","Croton astroites","diameter at breast height (1.3 m)","4.318","cm",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15038514
+"854","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.16176033,-79.74530029,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",15051900
+"855","Croton","Croton astroites","diameter at breast height (1.3 m)","2.794","cm",NA,17.741739,-64.754405,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15060626
+"856","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",15241386
+"857","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","19.304","cm",NA,18.262953,-65.769539,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15437773
+"858","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","17.272","cm",NA,18.262953,-65.769539,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15836851
+"859","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5000.5","cm",NA,9.156499863,-79.74420166,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",15851316
+"860","Croton","Croton astroites","diameter at breast height (1.3 m)","2.794","cm",NA,17.741739,-64.754405,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16061547
+"861","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","39.878","cm",NA,18.317609,-64.849907,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16139859
+"862","Croton","Croton flavens","diameter at breast height (1.3 m)","2.794","cm",NA,18.466142,-67.016759,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16338868
+"863","Croton","Croton astroites","diameter at breast height (1.3 m)","3.556","cm",NA,17.741934,-64.852953,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16360968
+"864","Croton","Croton billbergianus","diameter at breast height (1.3 m)","5005","cm",NA,9.258020401,-79.95290375,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",16365636
+"865","Croton","Croton schiedeanus","diameter at breast height (1.3 m)","5005","cm",NA,9.28826046,-79.41560364,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",16458343
+"866","Croton","Croton flavens","diameter at breast height (1.3 m)","2.794","cm",NA,18.481921,-66.959011,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16540231
+"867","Croton","Croton astroites","diameter at breast height (1.3 m)","5.08","cm",NA,18.468674,-67.145209,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16540235
+"868","Croton","Croton astroites","diameter at breast height (1.3 m)","4.826","cm",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17042223
+"869","Croton","Croton astroites","diameter at breast height (1.3 m)","9.652","cm",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17042228
+"870","Croton","Croton astroites","diameter at breast height (1.3 m)","4.318","cm",NA,18.282474,-65.285473,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17042234
+"871","Croton","Croton astroites","diameter at breast height (1.3 m)","3.302","cm",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17142312
+"872","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","19.05","cm",NA,18.275321,-65.823554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17444043
+"873","Croton","Croton poecilanthus","diameter at breast height (1.3 m)","33.528","cm",NA,18.275321,-65.823554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17444044
+"874","Croton","Croton astroites","diameter at breast height (1.3 m)","3.2512","cm",NA,18.331681,-64.873747,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17667191
+"875","Croton","Croton astroites","diameter at breast height (1.3 m)","5.334","cm",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17744939
+"876","Croton","Croton astroites","diameter at breast height (1.3 m)","3.048","cm",NA,18.324009,-64.954984,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17767309
+"877","Croton","Croton flavens","diameter at breast height (1.3 m)","3.048","cm",NA,18.481921,-66.959011,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17844802
+"878","Croton","Croton flavens","diameter at breast height (1.3 m)","3.5814","cm",NA,18.481921,-66.959011,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17844869
+"879","Croton","Croton flavens","diameter at breast height (1.3 m)","8.89","cm",NA,18.260158,-66.787786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17944118
+"880","Croton","Croton astroites","whole plant height","4.572","m",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18177665
+"881","Croton","Croton astroites","whole plant height","3.3528","m",NA,18.481921,-66.959011,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18387349
+"882","Croton","Croton poecilanthus","whole plant height","4.2672","m",NA,18.275321,-65.823554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18387358
+"883","Croton","Croton flavens","whole plant height","4.572","m",NA,17.950829,-66.966923,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18455140
+"884","Croton","Croton astroites","whole plant height","3.048","m",NA,18.468674,-67.145209,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18522996
+"885","Croton","Croton flavens","whole plant height","3.048","m",NA,18.481921,-66.959011,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18523100
+"886","Croton","Croton astroites","whole plant height","5.1816","m",NA,17.741934,-64.852953,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18611951
+"887","Croton","Croton astroites","whole plant height","2.7432","m",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18664293
+"888","Croton","Croton poecilanthus","whole plant height","9.7536","m",NA,18.262953,-65.769539,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18732409
+"889","Croton","Croton astroites","whole plant height","3.048","m",NA,18.282474,-65.285473,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18800295
+"890","Croton","Croton poecilanthus","whole plant height","10.0584","m",NA,18.275321,-65.823554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18873945
+"891","Croton","Croton astroites","whole plant height","2.7432","m",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18941923
+"892","Croton","Croton astroites","whole plant height","3.3528","m",NA,17.741739,-64.754405,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19093836
+"893","Croton","Croton astroites","whole plant height","3.048","m",NA,17.741739,-64.754405,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19100112
+"894","Croton","Croton astroites","whole plant height","3.9624","m",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19151435
+"895","Croton","Croton poecilanthus","whole plant height","3.9624","m",NA,18.275321,-65.823554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19286845
+"896","Croton","Croton astroites","whole plant height","4.2672","m",NA,18.282474,-65.285473,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19355417
+"897","Croton","Croton flavens","whole plant height","5.1816","m",NA,18.355004,-64.903066,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19371436
+"898","Croton","Croton astroites","whole plant height","3.048","m",NA,17.741739,-64.754405,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19512731
+"899","Croton","Croton astroites","whole plant height","4.2672","m",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19706123
+"900","Croton","Croton poecilanthus","whole plant height","4.8768","m",NA,18.275321,-65.823554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19706160
+"901","Croton","Croton astroites","whole plant height","4.572","m",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19774065
+"902","Croton","Croton flavens","whole plant height","5.1816","m",NA,18.355004,-64.903066,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19857809
+"903","Croton","Croton poecilanthus","whole plant height","12.4968","m",NA,18.262953,-65.769539,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20397806
+"904","Croton","Croton astroites","whole plant height","3.048","m",NA,17.741739,-64.754405,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20553287
+"905","Croton","Croton poecilanthus","whole plant height","4.8768","m",NA,18.275321,-65.823554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20606405
+"906","Croton","Croton astroites","whole plant height","3.3528","m",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20606410
+"907","Croton","Croton poecilanthus","whole plant height","6.4008","m",NA,18.297798,-65.781758,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20606459
+"908","Croton","Croton flavens","whole plant height","4.8768","m",NA,18.115117,-65.473979,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20744265
+"909","Croton","Croton flavens","whole plant height","3.3528","m",NA,18.355004,-64.903066,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20760494
+"910","Croton","Croton astroites","whole plant height","5.1816","m",NA,18.348518,-65.029944,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20830949
+"911","Croton","Croton flavens","whole plant height","3.9624","m",NA,18.115117,-65.473979,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21022588
+"912","Croton","Croton poecilanthus","whole plant height","7.9248","m",NA,18.275321,-65.823554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21230882
+"913","Croton","Croton poecilanthus","whole plant height","5.7912","m",NA,18.297798,-65.781758,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21300327
+"914","Croton","Croton astroites","whole plant height","4.572","m",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21578441
+"915","Croton","Croton astroites","whole plant height","4.2672","m",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21578477
+"916","Croton","Croton astroites","whole plant height","3.6576","m",NA,18.331681,-64.873747,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21733324
+"917","Croton","Croton astroites","whole plant height","3.9624","m",NA,18.099916,-65.497369,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21786305
+"918","Croton","Croton astroites","whole plant height","3.048","m",NA,17.950829,-66.966923,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21994289
+"919","Croton","Croton astroites","whole plant height","3.9624","m",NA,18.331681,-64.873747,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22219127
+"920","Croton","Croton flavens","whole plant height","3.6576","m",NA,18.370859,-64.749955,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22219143
+"921","Croton","Croton astroites","whole plant height","3.9624","m",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22271940
+"922","Croton","Croton poecilanthus","whole plant height","14.3256","m",NA,18.262953,-65.769539,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22340862
+"923","Croton","Croton astroites","whole plant height","3.9624","m",NA,18.331681,-64.873747,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22495794
+"924","Croton","Croton flavens","whole plant height","3.6576","m",NA,18.469445,-66.863474,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22548594
+"925","Croton","Croton astroites","whole plant height","3.048","m",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22548648
+"926","Croton","Croton astroites","whole plant height","3.9624","m",NA,18.099916,-65.497369,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22548724
+"927","Croton","Croton astroites","whole plant height","3.3528","m",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22756864
+"928","Croton","Croton astroites","whole plant height","3.9624","m",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22895308
+"929","Croton","Croton astroites","whole plant height","3.048","m",NA,17.741739,-64.754405,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22911055
+"930","Croton","Croton astroites","whole plant height","3.048","m",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23034070
+"931","Croton","Croton astroites","whole plant height","3.048","m",NA,17.741739,-64.754405,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23187550
+"932","Croton","Croton flavens","whole plant height","3.3528","m",NA,18.355004,-64.903066,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23256851
+"933","Croton","Croton poecilanthus","whole plant height","13.1064","m",NA,18.317609,-64.849907,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23379153
+"934","Croton","Croton flavens","whole plant height","4.8768","m",NA,18.032882,-66.748582,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23448082
+"935","Croton","Croton astroites","whole plant height","3.048","m",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23725180
+"936","Croton","Croton astroites","whole plant height","3.048","m",NA,18.282474,-65.285473,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23934333
+"937","Croton","Croton flavens","whole plant height","3.048","m",NA,18.466142,-67.016759,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24211900
+"938","Croton","Croton astroites","whole plant height","3.048","m",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24420669
+"939","Croton","Croton astroites","whole plant height","2.4384","m",NA,18.00935,-66.648891,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24627733
+"940","Croton","Croton poecilanthus","whole plant height","14.0208","m",NA,18.310462,-65.804107,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24627739
+"941","Croton","Croton poecilanthus","whole plant height","14.6304","m",NA,18.317609,-64.849907,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24627740
+"942","Croton","Croton astroites","whole plant height","3.6576","m",NA,18.344722,-64.93147,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24713141
+"943","Croton","Croton astroites","whole plant height","4.2672","m",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24835026
+"944","Croton","Croton astroites","whole plant height","2.4384","m",NA,17.741739,-64.754405,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24850856
+"945","Croton","Croton poecilanthus","whole plant height","13.1064","m",NA,18.262953,-65.769539,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25111128
+"946","Croton","Croton poecilanthus","whole plant height","14.0208","m",NA,18.262953,-65.769539,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25386896
+"947","Croton","Croton astroites","whole plant height","3.048","m",NA,17.741739,-64.754405,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25542956
+"948","Croton","Croton poecilanthus","whole plant height","18.8976","m",NA,18.317609,-64.849907,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25596211
+"949","Croton","Croton flavens","whole plant height","3.048","m",NA,18.466142,-67.016759,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25734153
+"950","Croton","Croton astroites","whole plant height","5.1816","m",NA,17.741934,-64.852953,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25750322
+"951","Croton","Croton astroites","whole plant height","4.2672","m",NA,18.468674,-67.145209,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25873274
+"952","Croton","Croton flavens","whole plant height","3.048","m",NA,18.481921,-66.959011,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25873299
+"953","Croton","Croton astroites","whole plant height","3.6576","m",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26220875
+"954","Croton","Croton astroites","whole plant height","5.1816","m",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26220881
+"955","Croton","Croton astroites","whole plant height","3.9624","m",NA,18.282474,-65.285473,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26220888
+"956","Croton","Croton astroites","whole plant height","2.7432","m",NA,18.095165,-66.849649,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26290335
+"957","Croton","Croton poecilanthus","whole plant height","8.2296","m",NA,18.275321,-65.823554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26498550
+"958","Croton","Croton poecilanthus","whole plant height","10.9728","m",NA,18.275321,-65.823554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26498551
+"959","Croton","Croton astroites","whole plant height","3.6576","m",NA,18.331681,-64.873747,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26653674
+"960","Croton","Croton astroites","whole plant height","4.2672","m",NA,18.103279,-65.528553,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26706885
+"961","Croton","Croton astroites","whole plant height","2.4384","m",NA,18.324009,-64.954984,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26722987
+"962","Croton","Croton flavens","whole plant height","3.048","m",NA,18.481921,-66.959011,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26775942
+"963","Croton","Croton flavens","whole plant height","3.048","m",NA,18.481921,-66.959011,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26776013
+"964","Croton","Croton flavens","whole plant height","4.572","m",NA,18.260158,-66.787786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26844438

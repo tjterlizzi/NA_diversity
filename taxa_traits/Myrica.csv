@@ -1,0 +1,120 @@
+"","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Myrica",NA,"diameter at breast height (1.3 m)","8.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",597789
+"2","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814757
+"3","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1833875
+"4","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1834338
+"5","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1834643
+"6","Myrica","Myrica cerifera","whole plant height","8.5344","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",3103045
+"7","Myrica","Myrica inodora","whole plant height","5.4864","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",3147984
+"8","Myrica","Myrica californica","whole plant height","11.5824","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",3148816
+"9","Myrica","Myrica cerifera","whole plant growth form","shrub",NA,NA,NA,NA,NA,"http://onlinelibrary.wiley.com.ezproxy4.library.arizona.edu/doi/10.1111/j.1365-2486.2007.01512.x/full","Knapp AK","aknapp@colostate.edu","United States",NA,NA,"public",3835656
+"10","Myrica","Myrica faya","whole plant growth form","tree",NA,NA,NA,NA,NA,"https://pdfs.semanticscholar.org/b407/4eba9d8ed375b0c6c502501f21f2913d1777.pdf","Smith CW",NA,"United States","Hawaii",NA,"public",3846192
+"11","Myrica","Myrica cerifera","whole plant height","6.096","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",4407953
+"12","Myrica","Myrica californica","seed mass","20.633","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4413870
+"13","Myrica","Myrica cerifera","whole plant height","7.9248","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",4427920
+"14","Myrica","Myrica cerifera","whole plant height","7.62","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",4428350
+"15","Myrica","Myrica californica","seed mass","8.955","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4430308
+"16","Myrica","Myrica pensylvanica","whole plant height","3.9624","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",4427878
+"17","Myrica",NA,"diameter at breast height (1.3 m)","21","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",208928
+"18","Myrica",NA,"diameter at breast height (1.3 m)","4","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",208929
+"19","Myrica",NA,"diameter at breast height (1.3 m)","14","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",208930
+"20","Myrica",NA,"diameter at breast height (1.3 m)","5.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",208931
+"21","Myrica",NA,"diameter at breast height (1.3 m)","6","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",208932
+"22","Myrica",NA,"diameter at breast height (1.3 m)","7","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",409719
+"23","Myrica",NA,"diameter at breast height (1.3 m)","4.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",517414
+"24","Myrica",NA,"diameter at breast height (1.3 m)","2.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",519018
+"25","Myrica",NA,"diameter at breast height (1.3 m)","2.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",519019
+"26","Myrica",NA,"diameter at breast height (1.3 m)","5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",519020
+"27","Myrica",NA,"diameter at breast height (1.3 m)","5.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",517412
+"28","Myrica",NA,"diameter at breast height (1.3 m)","7.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",517413
+"29","Myrica",NA,"diameter at breast height (1.3 m)","3.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",517410
+"30","Myrica",NA,"diameter at breast height (1.3 m)","6.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",517411
+"31","Myrica",NA,"diameter at breast height (1.3 m)","5.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",518978
+"32","Myrica",NA,"diameter at breast height (1.3 m)","4.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",519017
+"33","Myrica",NA,"diameter at breast height (1.3 m)","15","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",598075
+"34","Myrica","Myrica cerifera","diameter at breast height (1.3 m)","16","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",571160
+"35","Myrica",NA,"diameter at breast height (1.3 m)","3","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",665216
+"36","Myrica",NA,"diameter at breast height (1.3 m)","13","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",665217
+"37","Myrica",NA,"diameter at breast height (1.3 m)","13","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",665218
+"38","Myrica",NA,"diameter at breast height (1.3 m)","4.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",665219
+"39","Myrica","Myrica cerifera","diameter at breast height (1.3 m)","2.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",597698
+"40","Myrica",NA,"diameter at breast height (1.3 m)","9","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",597807
+"41","Myrica",NA,"diameter at breast height (1.3 m)","7","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",598005
+"42","Myrica","Myrica cerifera","diameter at breast height (1.3 m)","3","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",598025
+"43","Myrica","Myrica cerifera","diameter at breast height (1.3 m)","3","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",598029
+"44","Myrica","Myrica cerifera","diameter at breast height (1.3 m)","6.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",598032
+"45","Myrica","Myrica cerifera","diameter at breast height (1.3 m)","5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",598036
+"46","Myrica",NA,"diameter at breast height (1.3 m)","5.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",598127
+"47","Myrica",NA,"diameter at breast height (1.3 m)","4","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",666900
+"48","Myrica",NA,"diameter at breast height (1.3 m)","9","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",666901
+"49","Myrica",NA,"diameter at breast height (1.3 m)","15","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",666902
+"50","Myrica",NA,"diameter at breast height (1.3 m)","6","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",599489
+"51","Myrica",NA,"diameter at breast height (1.3 m)","8","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",599492
+"52","Myrica",NA,"diameter at breast height (1.3 m)","10","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",665215
+"53","Myrica",NA,"diameter at breast height (1.3 m)","15","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",666899
+"54","Myrica","Myrica cerifera","diameter at breast height (1.3 m)","3.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1219475
+"55","Myrica","Myrica cerifera","diameter at breast height (1.3 m)","6.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1219480
+"56","Myrica",NA,"diameter at breast height (1.3 m)","2.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408787
+"57","Myrica",NA,"diameter at breast height (1.3 m)","2.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408788
+"58","Myrica",NA,"diameter at breast height (1.3 m)","2.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408770
+"59","Myrica",NA,"diameter at breast height (1.3 m)","3","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408771
+"60","Myrica",NA,"diameter at breast height (1.3 m)","4.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408772
+"61","Myrica",NA,"diameter at breast height (1.3 m)","4","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408773
+"62","Myrica",NA,"diameter at breast height (1.3 m)","5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408786
+"63","Myrica",NA,"diameter at breast height (1.3 m)","4","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408776
+"64","Myrica",NA,"diameter at breast height (1.3 m)","4","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408780
+"65","Myrica",NA,"diameter at breast height (1.3 m)","15","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408783
+"66","Myrica",NA,"diameter at breast height (1.3 m)","4","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408784
+"67","Myrica",NA,"diameter at breast height (1.3 m)","2.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408785
+"68","Myrica",NA,"diameter at breast height (1.3 m)","2.5","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408790
+"69","Myrica","Myrica cerifera","diameter at breast height (1.3 m)","4","cm",NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1745589
+"70","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1772574
+"71","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1772594
+"72","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1772595
+"73","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1772596
+"74","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1772597
+"75","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1800299
+"76","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814761
+"77","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814171
+"78","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814250
+"79","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814685
+"80","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814755
+"81","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814756
+"82","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814758
+"83","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814759
+"84","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1814760
+"85","Myrica","Myrica cerifera","whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1821932
+"86","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1825452
+"87","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1825453
+"88","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1825454
+"89","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1825455
+"90","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1825456
+"91","Myrica","Myrica cerifera","whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1825446
+"92","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1825441
+"93","Myrica","Myrica cerifera","whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1825447
+"94","Myrica","Myrica cerifera","whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1825448
+"95","Myrica","Myrica cerifera","whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1825449
+"96","Myrica","Myrica cerifera","whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1825450
+"97","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1825451
+"98","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1831985
+"99","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1831690
+"100","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1833230
+"101","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1833731
+"102","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1834192
+"103","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1834644
+"104","Myrica","Myrica cerifera","whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1909736
+"105","Myrica","Myrica cerifera","whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1909737
+"106","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935488
+"107","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1934852
+"108","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935489
+"109","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935334
+"110","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935490
+"111","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935462
+"112","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935481
+"113","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935482
+"114","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935483
+"115","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935484
+"116","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935485
+"117","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935486
+"118","Myrica",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935487
+"119","Myrica","Myrica cerifera","whole plant growth form","tree",NA,NA,15.3333,-92.25,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1981363

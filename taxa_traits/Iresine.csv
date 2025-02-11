@@ -1,0 +1,26 @@
+"","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Iresine","Iresine arbuscula","stem wood density","0.48","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.234","Lopez-Gonzalez G","G.Lopez-Gonzalez@leeds.ac.uk","Mexico",NA,NA,"public",3160816
+"2","Iresine","Iresine diffusa","whole plant growth form","herb",NA,NA,NA,NA,NA,"https://www.researchgate.net/profile/Pedro_Dias9/publication/6399685_Foraging_Habits_of_Alouatta_palliata_mexicana_in_Three_Forest_Fragments/links/0c960530e4702898c2000000.pdf","Asensio N",NA,"Mexico",NA,NA,"public",3844573
+"3","Iresine","Iresine interrupta","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",235268
+"4","Iresine","Iresine diffusa","diameter at breast height (1.3 m)","2.7","cm",NA,10.4345,-84.0267,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",708359
+"5","Iresine","Iresine arrecta","diameter at breast height (1.3 m)","2.5","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1262715
+"6","Iresine","Iresine interrupta","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1463954
+"7","Iresine","Iresine arrecta","diameter at breast height (1.3 m)","1.4","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1478417
+"8","Iresine","Iresine arrecta","diameter at breast height (1.3 m)","2","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1505729
+"9","Iresine","Iresine diffusa","diameter at breast height (1.3 m)","1","cm",NA,10.4345,-84.0267,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1532685
+"10","Iresine","Iresine interrupta","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1776186
+"11","Iresine","Iresine diffusa","whole plant growth form","liana",NA,NA,10.4345,-84.0267,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1841391
+"12","Iresine","Iresine diffusa","whole plant growth form","liana",NA,NA,10.4345,-84.0267,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1841392
+"13","Iresine","Iresine arrecta","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1916853
+"14","Iresine","Iresine arrecta","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1916854
+"15","Iresine","Iresine interrupta","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1943093
+"16","Iresine","Iresine arrecta","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1946446
+"17","Iresine","Iresine arrecta","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1946447
+"18","Iresine","Iresine arrecta","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1950214
+"19","Iresine","Iresine arrecta","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1950215
+"20","Iresine","Iresine diffusa","whole plant growth form","liana",NA,NA,10.4345,-84.0267,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1953803
+"21","Iresine","Iresine diffusa","whole plant growth form","liana",NA,NA,10.4345,-84.0267,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1953804
+"22","Iresine","Iresine arbuscula","seed mass","1","mg",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3128725
+"23","Iresine","Iresine arbuscula","seed length","1","mm",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3881102
+"24","Iresine","Iresine arbuscula","whole plant height","24","m","max height",16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3881127
+"25","Iresine","Iresine arbuscula","leaf dry mass per leaf fresh mass","252.8","mg.g-1",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3881128

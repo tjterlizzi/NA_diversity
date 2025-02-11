@@ -1,0 +1,186 @@
+"","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Gustavia","Gustavia superba","leaf area per leaf dry mass","15.94","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3129522
+"2","Gustavia","Gustavia superba","seed mass","5071.186","mg","Mean seed dry mass, measured with a digital scale after drying at 60 C, where seed is defined to include the endosperm and embryo only.",NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.69ph0","Kraft TS","thomas.s.kraft@dartmouth.edu","Panama",NA,NA,"public",3162217
+"3","Gustavia","Gustavia superba","leaf thickness","0.133","mm","lamina thickness is the thickness of the leaf lamina measured in regions that do not include primary or secondary veins.  Species means of the individual means of two leaves per individual for the lamina portion used in shearing test.",9.166667,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.8525","Westbrook JW","jwestbrook@ufl.edu","Panama","Panama",NA,"public",3162233
+"4","Gustavia","Gustavia superba","leaf area","13400","mm2","Area of dry blade calculated on photographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","Panama",NA,NA,"public",3261797
+"5","Gustavia","Gustavia brachycarpa","leaf nitrogen content per leaf dry mass","18.4","mg.g-1","Canopy N% was estimated with the Carnegie Airborne Observatory Airborne Taxonomic Mapping System (CAO-AToMs) onboard a Dornier 228 Aircraft. The sensor configuration used consisted of a high-fidelity imaging spectrometer (HiFIS) and a dual laser, waveform light detection and ranging (LiDAR) sensor.",NA,NA,50,"http://datadryad.org/resource/doi:10.5061/dryad.ck585","Balzotti CS","cbalzotti@carnegiescience.edu","Costa Rica","Puntarenas",NA,"public",3402422
+"6","Gustavia","Gustavia brachycarpa","leaf nitrogen content per leaf dry mass","22.5","mg.g-1","Canopy N% was estimated with the Carnegie Airborne Observatory Airborne Taxonomic Mapping System (CAO-AToMs) onboard a Dornier 228 Aircraft. The sensor configuration used consisted of a high-fidelity imaging spectrometer (HiFIS) and a dual laser, waveform light detection and ranging (LiDAR) sensor.",NA,NA,50,"http://datadryad.org/resource/doi:10.5061/dryad.ck585","Balzotti CS","cbalzotti@carnegiescience.edu","Costa Rica","Puntarenas",NA,"public",3402423
+"7","Gustavia","Gustavia superba","Leaf lamina fracture toughness","517.069","J.m-2","lamina fracture toughness is the work to fracture leaf tissue divided by fracture area (lamina thickness * length of fracture). Species means of the individual means of two leaves per individual.",9.166667,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.8525","Westbrook JW","jwestbrook@ufl.edu","Panama","Panama",NA,"public",3402432
+"8","Gustavia","Gustavia superba","leaf area per leaf dry mass","28.73","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884276
+"9","Gustavia","Gustavia superba","leaf area per leaf dry mass","29.45","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884281
+"10","Gustavia","Gustavia superba","seed mass","5661.72","mg",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884299
+"11","Gustavia","Gustavia superba","leaf area per leaf dry mass","14.66","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884302
+"12","Gustavia","Gustavia superba","leaf area per leaf dry mass","12.77","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884304
+"13","Gustavia","Gustavia superba","leaf area per leaf dry mass","14.78","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884305
+"14","Gustavia","Gustavia superba","leaf area per leaf dry mass","14.98","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884306
+"15","Gustavia","Gustavia superba","leaf area per leaf dry mass","16.27","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884307
+"16","Gustavia","Gustavia superba","leaf area per leaf dry mass","17.62","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884308
+"17","Gustavia","Gustavia superba","leaf area per leaf dry mass","19.46","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884309
+"18","Gustavia","Gustavia superba","leaf area per leaf dry mass","24.48","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884310
+"19","Gustavia","Gustavia superba","leaf area per leaf dry mass","20.49","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884311
+"20","Gustavia","Gustavia superba","leaf area per leaf dry mass","20.59","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884312
+"21","Gustavia","Gustavia superba","leaf area per leaf dry mass","20.84","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884313
+"22","Gustavia","Gustavia superba","leaf area per leaf dry mass","25.18","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884314
+"23","Gustavia","Gustavia superba","leaf area per leaf dry mass","20.95","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884315
+"24","Gustavia","Gustavia superba","leaf area per leaf dry mass","22.48","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884316
+"25","Gustavia","Gustavia superba","leaf area per leaf dry mass","23.16","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884317
+"26","Gustavia","Gustavia superba","leaf area per leaf dry mass","23.63","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884318
+"27","Gustavia","Gustavia superba","leaf area per leaf dry mass","23.65","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884319
+"28","Gustavia","Gustavia superba","leaf area per leaf dry mass","26.79","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884320
+"29","Gustavia","Gustavia superba","leaf area per leaf dry mass","27.35","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884321
+"30","Gustavia","Gustavia superba","leaf area per leaf dry mass","28.56","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884322
+"31","Gustavia","Gustavia superba","leaf area per leaf dry mass","30.14","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884323
+"32","Gustavia","Gustavia superba","leaf area per leaf dry mass","32.22","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884324
+"33","Gustavia","Gustavia superba","leaf area per leaf dry mass","35.65","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884325
+"34","Gustavia","Gustavia superba","leaf area per leaf dry mass","22.3714","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama","Panama",NA,"public",3884326
+"35","Gustavia","Gustavia superba","stem wood density","0.65","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884327
+"36","Gustavia","Gustavia superba","stem wood density","0.5","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884328
+"37","Gustavia","Gustavia superba","stem wood density","0.53","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884329
+"38","Gustavia","Gustavia superba","stem wood density","0.55","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884330
+"39","Gustavia","Gustavia superba","stem wood density","0.59","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884331
+"40","Gustavia","Gustavia superba","stem wood density","0.69","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884332
+"41","Gustavia","Gustavia superba","stem wood density","0.71","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3884333
+"42","Gustavia","Gustavia superba","stem wood density","0.612","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama","Panama",NA,"public",3884334
+"43","Gustavia","Gustavia brachycarpa","leaf nitrogen content per leaf dry mass","21.3","mg.g-1","Canopy N% was estimated with the Carnegie Airborne Observatory Airborne Taxonomic Mapping System (CAO-AToMs) onboard a Dornier 228 Aircraft. The sensor configuration used consisted of a high-fidelity imaging spectrometer (HiFIS) and a dual laser, waveform light detection and ranging (LiDAR) sensor.",NA,NA,50,"http://datadryad.org/resource/doi:10.5061/dryad.ck585","Balzotti CS","cbalzotti@carnegiescience.edu","Costa Rica","Puntarenas",NA,"public",4009101
+"44","Gustavia","Gustavia dubia","diameter at breast height (1.3 m)","5000.5","cm",NA,9.3582201,-79.74810028,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",5924688
+"45","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.144909859,-79.87789917,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",7439427
+"46","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.125260353,-79.88529968,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",7529539
+"47","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.123720169,-79.67669678,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8936769
+"48","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.187879562,-79.82099915,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9090031
+"49","Gustavia","Gustavia fosteri","diameter at breast height (1.3 m)","5000.5","cm",NA,9.332530022,-79.95410156,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9728336
+"50","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.121700287,-79.67310333,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",10031130
+"51","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.147870064,-79.69309998,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",10459400
+"52","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.125260353,-79.88529968,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",12561856
+"53","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.080479622,-79.64510345,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",13407351
+"54","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.156820297,-79.75170135,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14965859
+"55","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.2603302,-79.95600128,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",15156750
+"56","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",15859276
+"57","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.143460274,-79.88249969,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17272761
+"58","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.355830193,-79.72689819,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17422975
+"59","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","7.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",882721
+"60","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","7.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",882722
+"61","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",936619
+"62","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","7.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",936620
+"63","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","7.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",936621
+"64","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",936622
+"65","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",936623
+"66","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1219187
+"67","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1219208
+"68","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1219214
+"69","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1219239
+"70","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","7.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1219240
+"71","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1219922
+"72","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1219923
+"73","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1219924
+"74","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1220357
+"75","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1220404
+"76","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1220866
+"77","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1220877
+"78","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1220947
+"79","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1220971
+"80","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1423564
+"81","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","12","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1423565
+"82","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","10","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1423567
+"83","Gustavia","Gustavia brachycarpa","diameter at breast height (1.3 m)","26","cm",NA,8.7,-83.55,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1531501
+"84","Gustavia","Gustavia brachycarpa","diameter at breast height (1.3 m)","3","cm",NA,8.7,-83.55,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1626319
+"85","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1863972
+"86","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1863973
+"87","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1871216
+"88","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1871217
+"89","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1871218
+"90","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1871219
+"91","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1871220
+"92","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1909776
+"93","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1909777
+"94","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1909778
+"95","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1909779
+"96","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1909780
+"97","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1909781
+"98","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1909782
+"99","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1909783
+"100","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1909784
+"101","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1909785
+"102","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1909786
+"103","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1909787
+"104","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1909788
+"105","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1909789
+"106","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1937346
+"107","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1937347
+"108","Gustavia","Gustavia superba","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1937348
+"109","Gustavia","Gustavia brachycarpa","whole plant growth form","tree",NA,NA,8.7,-83.55,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1952301
+"110","Gustavia","Gustavia brachycarpa","whole plant growth form","tree",NA,NA,8.7,-83.55,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1965059
+"111","Gustavia","Gustavia superba","seed mass","10320.9","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3112716
+"112","Gustavia","Gustavia superba","seed length","32.1","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3119083
+"113","Gustavia","Gustavia superba","seed length","32.4","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3158875
+"114","Gustavia","Gustavia superba","seed mass","14894.3","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3159140
+"115","Gustavia","Gustavia superba","seed length","27.9","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3159183
+"116","Gustavia","Gustavia superba","seed mass","19741.5","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3159196
+"117","Gustavia","Gustavia superba","seed length","40","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3200044
+"118","Gustavia","Gustavia superba","seed mass","13690.4","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3254875
+"119","Gustavia","Gustavia superba","seed mass","6042","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3899116
+"120","Gustavia","Gustavia superba","whole plant height","21","m","max height",9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3899119
+"121","Gustavia","Gustavia superba","leaf dry mass per leaf fresh mass","368.2","mg.g-1",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3899120
+"122","Gustavia","Gustavia dubia","diameter at breast height (1.3 m)","5005","cm",NA,9.355830193,-79.72689819,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4639035
+"123","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.280870438,-79.97470093,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4642668
+"124","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.3229599,-79.96209717,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4644103
+"125","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.355830193,-79.72689819,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4644737
+"126","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.144909859,-79.87789917,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4645054
+"127","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.280870438,-79.97470093,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4647449
+"128","Gustavia","Gustavia dubia","diameter at breast height (1.3 m)","5005","cm",NA,9.355830193,-79.72689819,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4673856
+"129","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4706991
+"130","Gustavia","Gustavia dubia","diameter at breast height (1.3 m)","5005","cm",NA,9.391010284,-79.6556015,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4715944
+"131","Gustavia","Gustavia dubia","diameter at breast height (1.3 m)","5005","cm",NA,9.3582201,-79.74810028,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4716851
+"132","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.141489983,-79.6934967,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4761759
+"133","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.143460274,-79.88249969,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4793428
+"134","Gustavia","Gustavia dubia","diameter at breast height (1.3 m)","5005","cm",NA,9.319290161,-79.28679657,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4805680
+"135","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.147870064,-79.69309998,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4811828
+"136","Gustavia","Gustavia dubia","diameter at breast height (1.3 m)","5000.5","cm",NA,9.355830193,-79.72689819,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4831985
+"137","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.280870438,-79.97470093,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4930102
+"138","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.124699593,-79.90480042,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4930704
+"139","Gustavia","Gustavia fosteri","diameter at breast height (1.3 m)","5000.5","cm",NA,9.3229599,-79.96209717,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4933246
+"140","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.158240318,-79.86119843,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4964490
+"141","Gustavia","Gustavia fosteri","diameter at breast height (1.3 m)","5000.5","cm",NA,9.280870438,-79.97470093,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4972054
+"142","Gustavia","Gustavia dubia","diameter at breast height (1.3 m)","5005","cm",NA,9.3582201,-79.74810028,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4983840
+"143","Gustavia","Gustavia fosteri","diameter at breast height (1.3 m)","5005","cm",NA,9.332530022,-79.95410156,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4990263
+"144","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.121700287,-79.67310333,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4992387
+"145","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.258020401,-79.95290375,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",5424492
+"146","Gustavia","Gustavia fosteri","diameter at breast height (1.3 m)","5000.5","cm",NA,9.280870438,-79.97470093,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",5612816
+"147","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151809692,-79.71579742,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",5702477
+"148","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",5934987
+"149","Gustavia","Gustavia fosteri","diameter at breast height (1.3 m)","5000.5","cm",NA,9.280870438,-79.97470093,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6033904
+"150","Gustavia","Gustavia fosteri","diameter at breast height (1.3 m)","5005","cm",NA,9.3229599,-79.96209717,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6241719
+"151","Gustavia","Gustavia dubia","diameter at breast height (1.3 m)","5005","cm",NA,8.709540367,-80.08450317,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",7239315
+"152","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.3229599,-79.96209717,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8235669
+"153","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.187879562,-79.82099915,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8306764
+"154","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.258020401,-79.95290375,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8507926
+"155","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.280870438,-79.97470093,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9211697
+"156","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9656118
+"157","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.158240318,-79.86119843,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9703931
+"158","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.16176033,-79.74530029,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9756429
+"159","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9939352
+"160","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",10058772
+"161","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",10141830
+"162","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",10238243
+"163","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.2603302,-79.95600128,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",10947271
+"164","Gustavia","Gustavia dubia","diameter at breast height (1.3 m)","5000.5","cm",NA,9.355830193,-79.72689819,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",10947589
+"165","Gustavia","Gustavia dubia","diameter at breast height (1.3 m)","5005","cm",NA,9.418479919,-79.53919983,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11317684
+"166","Gustavia","Gustavia dubia","diameter at breast height (1.3 m)","5000.5","cm",NA,9.3582201,-79.74810028,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11648998
+"167","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.156820297,-79.75170135,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",12121847
+"168","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.080479622,-79.64510345,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",12142385
+"169","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.124699593,-79.90480042,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",12345672
+"170","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",12424696
+"171","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.14673996,-79.71250153,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",12458675
+"172","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.16092968,-79.74269867,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",12954296
+"173","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.280870438,-79.97470093,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",13051120
+"174","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.141489983,-79.6934967,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",13385438
+"175","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.123720169,-79.67669678,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14263140
+"176","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.280870438,-79.97470093,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14263801
+"177","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14365533
+"178","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.144619942,-79.85870361,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14724921
+"179","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.14673996,-79.71250153,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",15339372
+"180","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",15566557
+"181","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.16092968,-79.74269867,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",16040317
+"182","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.151809692,-79.71579742,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",16643683
+"183","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.144619942,-79.85870361,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17070007
+"184","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5000.5","cm",NA,9.16176033,-79.74530029,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17162804
+"185","Gustavia","Gustavia superba","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17340892

@@ -1,0 +1,187 @@
+"","scrubbed_family","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Polygalaceae","Polygala","Polygala alba","plant flowering begin","6/16/1912","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3108409
+"2","Polygalaceae","Polygala","Polygala polygama","whole plant height","0.25","m","Maximum height",NA,NA,NA,NA,NA,NA,"United States","Indiana",NA,"public",3151827
+"3","Polygalaceae","Polygala","Polygala paucifolia","whole plant height","0.1","m","Maximum height",NA,NA,NA,NA,NA,NA,"United States","Indiana",NA,"public",3151826
+"4","Polygalaceae","Polygala","Polygala senega","plant flowering begin","6","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3170593
+"5","Polygalaceae","Polygala","Polygala alba","plant flowering begin","6","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3208560
+"6","Polygalaceae","Polygala","Polygala senega","plant flowering begin","5","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3222816
+"7","Polygalaceae","Polygala","Polygala senega","plant flowering begin","5/28/1939","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3222895
+"8","Polygalaceae","Polygala","Polygala senega","plant flowering begin","6/7/1956","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3222938
+"9","Polygalaceae","Polygala","Polygala senega","plant flowering begin","6","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3222939
+"10","Polygalaceae","Polygala","Polygala senega","plant flowering begin","6/2/1942","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3223023
+"11","Polygalaceae","Polygala","Polygala senega","whole plant height","0.5","m","Maximum height",NA,NA,NA,NA,NA,NA,"United States","Indiana",NA,"public",3243311
+"12","Polygalaceae","Monnina","Monnina ciliolata","whole plant growth form","shrub",NA,NA,NA,NA,NA,"https://www.researchgate.net/profile/Guillermo_Ibarra-Manriquez/publication/257197702_Fruiting_phenology_of_seed_dispersal_syndromes_in_a_Mexican_Neotropical_temperate_forest/links/5665c34e08ae418a786f266d.pdf","Cortés-Flores F",NA,"Mexico",NA,NA,"public",3846718
+"13","Polygalaceae","Polygala","Polygala californica","whole plant growth form","herb",NA,NA,NA,NA,NA,"http://onlinelibrary.wiley.com.ezproxy2.library.arizona.edu/doi/10.2307/1943563/epdf","Whittaker RH",NA,"United States",NA,"Siskiyou Mountains","public",3849344
+"14","Polygalaceae","Polygala","Polygala sanguinea","whole plant height","1.5","m","Maximum height",NA,NA,NA,NA,NA,NA,"United States","Indiana",NA,"public",3900314
+"15","Polygalaceae","Polygala","Polygala verticillata","whole plant height","0.25","m","Maximum height",NA,NA,NA,NA,NA,NA,"United States","Indiana",NA,"public",3900479
+"16","Polygalaceae","Polygala","Polygala cruciata","whole plant height","0.26","m","Maximum height",NA,NA,NA,NA,NA,NA,"United States","Indiana",NA,"public",3907355
+"17","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","0.6","cm",NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",102217
+"18","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","1.6","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",102270
+"19","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","0.9","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",102271
+"20","Polygalaceae","Securidaca","Securidaca diversifolia","diameter at breast height (1.3 m)","6.4","cm",NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",141697
+"21","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","2.2","cm",NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",169410
+"22","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","0.8","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",358477
+"23","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","1.2","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",358479
+"24","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","1.9","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",358600
+"25","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","1","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",371683
+"26","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","1.2","cm",NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",426203
+"27","Polygalaceae","Securidaca","Securidaca diversifolia","diameter at breast height (1.3 m)","2.3","cm",NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",452627
+"28","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","0.6","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",479730
+"29","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","0.6","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",533388
+"30","Polygalaceae","Moutabea","Moutabea longifolia","diameter at breast height (1.3 m)","4.8","cm",NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",559055
+"31","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","2.9","cm",NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",600677
+"32","Polygalaceae","Securidaca","Securidaca diversifolia","diameter at breast height (1.3 m)","4","cm",NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",666750
+"33","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","1.3","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",708374
+"34","Polygalaceae","Securidaca","Securidaca diversifolia","diameter at breast height (1.3 m)","5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",761327
+"35","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","0.6","cm",NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",775779
+"36","Polygalaceae","Moutabea","Moutabea aculeata","diameter at breast height (1.3 m)","2.5","cm",NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",842490
+"37","Polygalaceae","Securidaca","Securidaca diversifolia","diameter at breast height (1.3 m)","12.69","cm",NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",882549
+"38","Polygalaceae","Moutabea","Moutabea aculeata","diameter at breast height (1.3 m)","2.5","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",950328
+"39","Polygalaceae","Moutabea","Moutabea aculeata","diameter at breast height (1.3 m)","5","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",950329
+"40","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","1.2","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",951306
+"41","Polygalaceae","Moutabea","Moutabea aculeata","diameter at breast height (1.3 m)","3","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",977311
+"42","Polygalaceae","Moutabea","Moutabea aculeata","diameter at breast height (1.3 m)","2.5","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",977312
+"43","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","0.6","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",978425
+"44","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","4.3","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1060182
+"45","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","2.3","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1086992
+"46","Polygalaceae","Moutabea","Moutabea aculeata","diameter at breast height (1.3 m)","2.5","cm",NA,8.7,-83.55,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1126725
+"47","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","1.4","cm",NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1141135
+"48","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","2.1","cm",NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1141137
+"49","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","1.9","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1154529
+"50","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","3","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1181385
+"51","Polygalaceae","Securidaca","Securidaca diversifolia","diameter at breast height (1.3 m)","11","cm",NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1193654
+"52","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","1.9","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1194888
+"53","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","4.1","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1222123
+"54","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","0.5","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1249084
+"55","Polygalaceae","Moutabea","Moutabea aculeata","diameter at breast height (1.3 m)","3","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1261449
+"56","Polygalaceae","Moutabea","Moutabea aculeata","diameter at breast height (1.3 m)","4","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1261450
+"57","Polygalaceae","Moutabea","Moutabea aculeata","diameter at breast height (1.3 m)","3","cm",NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1315922
+"58","Polygalaceae","Moutabea","Moutabea aculeata","diameter at breast height (1.3 m)","4","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1356536
+"59","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","10","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1384574
+"60","Polygalaceae","Securidaca","Securidaca diversifolia","diameter at breast height (1.3 m)","0.9","cm",NA,10.4412,-84.0253,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1465089
+"61","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","1.9","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1505708
+"62","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","2.6","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1532704
+"63","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","0.5","cm",NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1532778
+"64","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","2","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1532830
+"65","Polygalaceae","Securidaca","Securidaca diversifolia","diameter at breast height (1.3 m)","10.19","cm",NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1545009
+"66","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","2.3","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1546230
+"67","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","1.1","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1559857
+"68","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","0.5","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1573429
+"69","Polygalaceae","Moutabea","Moutabea aculeata","diameter at breast height (1.3 m)","4","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1599324
+"70","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","2.6","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1613909
+"71","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","3.3","cm",NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1613960
+"72","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","1.3","cm",NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1654172
+"73","Polygalaceae","Moutabea","Moutabea aculeata","diameter at breast height (1.3 m)","2.5","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1666398
+"74","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","1","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1667462
+"75","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","2.6","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1667463
+"76","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","2.3","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1667464
+"77","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","0.6","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1734811
+"78","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","1.7","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1734812
+"79","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","0.7","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1734813
+"80","Polygalaceae","Moutabea","Moutabea gentryi","diameter at breast height (1.3 m)","4.2","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1734814
+"81","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1759759
+"82","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1759760
+"83","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1759796
+"84","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1759798
+"85","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1759799
+"86","Polygalaceae","Securidaca","Securidaca diversifolia","whole plant growth form","liana",NA,NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1763393
+"87","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1768564
+"88","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1768563
+"89","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1794339
+"90","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1794340
+"91","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1794341
+"92","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1794470
+"93","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1794471
+"94","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1796175
+"95","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1796176
+"96","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1803751
+"97","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1803752
+"98","Polygalaceae","Securidaca","Securidaca diversifolia","whole plant growth form","liana",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1807098
+"99","Polygalaceae","Securidaca","Securidaca diversifolia","whole plant growth form","liana",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1807099
+"100","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1810685
+"101","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1810686
+"102","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1817926
+"103","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1817940
+"104","Polygalaceae","Moutabea","Moutabea longifolia","whole plant growth form","liana",NA,NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1819935
+"105","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1826963
+"106","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1826964
+"107","Polygalaceae","Securidaca","Securidaca diversifolia","whole plant growth form","liana",NA,NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1834459
+"108","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1841407
+"109","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1841408
+"110","Polygalaceae","Securidaca","Securidaca diversifolia","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1847389
+"111","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1850627
+"112","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1850628
+"113","Polygalaceae","Moutabea","Moutabea aculeata","whole plant growth form","liana",NA,NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1858350
+"114","Polygalaceae","Securidaca","Securidaca diversifolia","whole plant growth form","liana",NA,NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1863738
+"115","Polygalaceae","Moutabea","Moutabea aculeata","whole plant growth form","liana",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1873099
+"116","Polygalaceae","Moutabea","Moutabea aculeata","whole plant growth form","liana",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1873100
+"117","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1874537
+"118","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1874538
+"119","Polygalaceae","Moutabea","Moutabea aculeata","whole plant growth form","liana",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1876778
+"120","Polygalaceae","Moutabea","Moutabea aculeata","whole plant growth form","liana",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1876779
+"121","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878309
+"122","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878310
+"123","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1889414
+"124","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1889415
+"125","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1892918
+"126","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1892919
+"127","Polygalaceae","Moutabea","Moutabea aculeata","whole plant growth form","liana",NA,NA,8.7,-83.55,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1896970
+"128","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1900271
+"129","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1900272
+"130","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1900274
+"131","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1902038
+"132","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1902039
+"133","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1905722
+"134","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1905723
+"135","Polygalaceae","Securidaca","Securidaca diversifolia","whole plant growth form","liana",NA,NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1905891
+"136","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1907491
+"137","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1907492
+"138","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1911196
+"139","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1911197
+"140","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1914962
+"141","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1914963
+"142","Polygalaceae","Moutabea","Moutabea aculeata","whole plant growth form","liana",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1915260
+"143","Polygalaceae","Moutabea","Moutabea aculeata","whole plant growth form","liana",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1915261
+"144","Polygalaceae","Moutabea","Moutabea aculeata","whole plant growth form","liana",NA,NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1922734
+"145","Polygalaceae","Moutabea","Moutabea aculeata","whole plant growth form","liana",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1928301
+"146","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1933315
+"147","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1933316
+"148","Polygalaceae","Securidaca","Securidaca diversifolia","whole plant growth form","liana",NA,NA,10.4412,-84.0253,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1944567
+"149","Polygalaceae","Securidaca","Securidaca diversifolia","whole plant growth form","liana",NA,NA,10.4412,-84.0253,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1944568
+"150","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1950191
+"151","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1950192
+"152","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1953822
+"153","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1953823
+"154","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1953895
+"155","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1953919
+"156","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1953947
+"157","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1953948
+"158","Polygalaceae","Securidaca","Securidaca diversifolia","whole plant growth form","liana",NA,NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1954043
+"159","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1955603
+"160","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1955604
+"161","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1957442
+"162","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1957443
+"163","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1959354
+"164","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1959355
+"165","Polygalaceae","Moutabea","Moutabea aculeata","whole plant growth form","liana",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1961381
+"166","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1964644
+"167","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1964645
+"168","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1964694
+"169","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1964695
+"170","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1970030
+"171","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1970031
+"172","Polygalaceae","Moutabea","Moutabea aculeata","whole plant growth form","liana",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1970372
+"173","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1971824
+"174","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1971825
+"175","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1971826
+"176","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1971827
+"177","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1981036
+"178","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1981037
+"179","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1981038
+"180","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1981039
+"181","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1981040
+"182","Polygalaceae","Moutabea","Moutabea gentryi","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1981041
+"183","Polygalaceae","Securidaca",NA,"leaf carbon content per leaf dry mass","478.01754","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.9285,-85.4653,1225,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste"," 1 km above Cacao Biological Station. Pacific slope of Cacao Volcano.","public",3170591
+"184","Polygalaceae","Securidaca",NA,"leaf nitrogen content per leaf dry mass","32.4228","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.9285,-85.4653,1225,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste"," 1 km above Cacao Biological Station. Pacific slope of Cacao Volcano.","public",3247502
+"185","Polygalaceae","Polygala","Polygala penaea","diameter at breast height (1.3 m)","14.224","cm",NA,18.452819,-66.58549,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9926341
+"186","Polygalaceae","Polygala","Polygala penaea","whole plant height","14.9352","m",NA,18.452819,-66.58549,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21300275

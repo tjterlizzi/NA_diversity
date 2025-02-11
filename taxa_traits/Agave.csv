@@ -1,0 +1,6 @@
+"","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Agave","Agave palmeri","whole plant growth form","shrub",NA,NA,NA,NA,NA,"http://www.jstor.org.ezproxy4.library.arizona.edu/stable/pdf/40021924.pdf","Whittaker RH",NA,"United States","Arizona","Santa Clarita Mountains","public",3844983
+"2","Agave","Agave schottii","whole plant growth form","shrub",NA,NA,NA,NA,NA,"http://www.jstor.org.ezproxy4.library.arizona.edu/stable/pdf/40021924.pdf","Whittaker RH",NA,"United States","Arizona","Santa Clarita Mountains","public",3845115
+"3","Agave","Agave sisalana","whole plant growth form","succulent",NA,NA,NA,NA,NA,"http://stoppinginvasives.com/dotAsset/bf62d955-67c3-4d09-b961-1bc56149c3c1.pdf","Morton JF",NA,"United States","Florida",NA,"public",3862960
+"4","Agave","Agave deserti","seed mass","10.096","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4429560
+"5","Agave","Agave deserti","seed mass","12.695","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4429617

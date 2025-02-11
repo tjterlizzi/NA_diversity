@@ -1,0 +1,137 @@
+"","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Vitex","Vitex agnus-castus","whole plant height","7.9248","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",4407303
+"2","Vitex","Vitex cooperi","leaf nitrogen content per leaf dry mass","16.5","mg.g-1","Canopy N% was estimated with the Carnegie Airborne Observatory Airborne Taxonomic Mapping System (CAO-AToMs) onboard a Dornier 228 Aircraft. The sensor configuration used consisted of a high-fidelity imaging spectrometer (HiFIS) and a dual laser, waveform light detection and ranging (LiDAR) sensor.",NA,NA,50,"http://datadryad.org/resource/doi:10.5061/dryad.ck585","Balzotti CS","cbalzotti@carnegiescience.edu","Costa Rica","Puntarenas",NA,"public",3400742
+"3","Vitex","Vitex trifolia","whole plant growth form","tree",NA,NA,NA,NA,NA,"http://stoppinginvasives.com/dotAsset/bf62d955-67c3-4d09-b961-1bc56149c3c1.pdf","Morton JF",NA,"United States","Florida",NA,"public",3862910
+"4","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","11.7","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4381130
+"5","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","30","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4381245
+"6","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","44.5","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4381369
+"7","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5005","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11350014
+"8","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5000.5","cm",NA,9.141489983,-79.6934967,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11558002
+"9","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","3.2","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1815
+"10","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","3.2","cm",NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",89017
+"11","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","4.2","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",115640
+"12","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","10.2","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",180821
+"13","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","13.2","cm",NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",358530
+"14","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","4.9","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",479834
+"15","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","3","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",506292
+"16","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","2.7","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",625500
+"17","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5.8","cm",NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",641254
+"18","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","36.9","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",641315
+"19","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5.4","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",667989
+"20","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","10","cm",NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",681665
+"21","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","95","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",775853
+"22","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","6.2","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",802799
+"23","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","4.8","cm",NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",883969
+"24","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","3.5","cm",NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",910767
+"25","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","2.5","cm",NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",951275
+"26","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","68.4","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1060184
+"27","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","37","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1151786
+"28","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","7.7","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1154752
+"29","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","3.5","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1168062
+"30","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","3.4","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1194763
+"31","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","4.8","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1194853
+"32","Vitex","Vitex hemsleyi","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408422
+"33","Vitex","Vitex hemsleyi","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408423
+"34","Vitex","Vitex hemsleyi","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1408426
+"35","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","7.5","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1519023
+"36","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","3.6","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1519024
+"37","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","4.9","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1519025
+"38","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5.7","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1519026
+"39","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","6.2","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1640541
+"40","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","70","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1667368
+"41","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1757947
+"42","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1757948
+"43","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1761597
+"44","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1761598
+"45","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1770199
+"46","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1770200
+"47","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1794397
+"48","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1794398
+"49","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1805397
+"50","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1805434
+"51","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1810796
+"52","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1810797
+"53","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1814423
+"54","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1814424
+"55","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1830727
+"56","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1830728
+"57","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1832521
+"58","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1832522
+"59","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1832585
+"60","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1832586
+"61","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1836043
+"62","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1836044
+"63","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1837894
+"64","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1837895
+"65","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1850631
+"66","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1854278
+"67","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1854279
+"68","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1865422
+"69","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1869042
+"70","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1869043
+"71","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1874502
+"72","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1874503
+"73","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1889416
+"74","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1889417
+"75","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1900550
+"76","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1902192
+"77","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1903925
+"78","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1903926
+"79","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1905763
+"80","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1907436
+"81","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1907454
+"82","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1907455
+"83","Vitex","Vitex hemsleyi","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935522
+"84","Vitex","Vitex hemsleyi","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935523
+"85","Vitex","Vitex hemsleyi","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1935524
+"86","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951905
+"87","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951906
+"88","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951907
+"89","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951908
+"90","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951909
+"91","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1968184
+"92","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1968185
+"93","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1971727
+"94","Vitex","Vitex cooperi","whole plant growth form","tree",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1971728
+"95","Vitex","Vitex lignum-vitae","whole plant height","39.62","m","Maximum height",-28.62389,153,NA,NA,NA,NA,"Canada",NA,"Wiangree State Forest","public",3933290
+"96","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5005","cm",NA,8.985910416,-79.63839722,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4640504
+"97","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5005","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4646495
+"98","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5005","cm",NA,9.332530022,-79.95410156,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4655825
+"99","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5000.5","cm",NA,9.147870064,-79.69309998,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4672180
+"100","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5000.5","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4722685
+"101","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5000.5","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4933245
+"102","Vitex","Vitex cymosa","diameter at breast height (1.3 m)","5005","cm",NA,9.418479919,-79.53919983,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4947451
+"103","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5005","cm",NA,9.147870064,-79.69309998,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4968627
+"104","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5005","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4990262
+"105","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5000.5","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4991752
+"106","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5005","cm",NA,9.141489983,-79.6934967,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",5005113
+"107","Vitex","Vitex divaricata","diameter at breast height (1.3 m)","41.91","cm",NA,18.174614,-66.700315,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8221583
+"108","Vitex","Vitex divaricata","diameter at breast height (1.3 m)","4.572","cm",NA,18.181715,-65.75686,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9122735
+"109","Vitex","Vitex divaricata","diameter at breast height (1.3 m)","40.894","cm",NA,18.174614,-66.700315,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10431495
+"110","Vitex","Vitex divaricata","diameter at breast height (1.3 m)","107.95","cm",NA,18.181715,-65.75686,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10530492
+"111","Vitex","Vitex divaricata","diameter at breast height (1.3 m)","48.514","cm",NA,18.174614,-66.700315,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10931597
+"112","Vitex","Vitex divaricata","diameter at breast height (1.3 m)","28.702","cm",NA,18.174614,-66.700315,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11431486
+"113","Vitex","Vitex divaricata","diameter at breast height (1.3 m)","8.89","cm",NA,18.181715,-65.75686,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12632361
+"114","Vitex","Vitex divaricata","diameter at breast height (1.3 m)","29.464","cm",NA,18.174614,-66.700315,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13635970
+"115","Vitex","Vitex divaricata","diameter at breast height (1.3 m)","14.732","cm",NA,18.181715,-65.75686,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13835587
+"116","Vitex","Vitex divaricata","diameter at breast height (1.3 m)","19.304","cm",NA,18.149709,-66.985066,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14236024
+"117","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5000.5","cm",NA,8.985910416,-79.63839722,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14758756
+"118","Vitex","Vitex divaricata","diameter at breast height (1.3 m)","14.224","cm",NA,18.181715,-65.75686,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14838851
+"119","Vitex","Vitex divaricata","diameter at breast height (1.3 m)","48.006","cm",NA,18.174614,-66.700315,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14938435
+"120","Vitex","Vitex cooperi","diameter at breast height (1.3 m)","5000.5","cm",NA,9.332530022,-79.95410156,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14965593
+"121","Vitex","Vitex divaricata","diameter at breast height (1.3 m)","3.048","cm",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16540362
+"122","Vitex","Vitex divaricata","diameter at breast height (1.3 m)","29.972","cm",NA,18.181715,-65.75686,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17343744
+"123","Vitex","Vitex divaricata","whole plant height","15.8496","m",NA,18.174614,-66.700315,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20121102
+"124","Vitex","Vitex divaricata","whole plant height","5.1816","m",NA,18.181715,-65.75686,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20744204
+"125","Vitex","Vitex divaricata","whole plant height","10.9728","m",NA,18.174614,-66.700315,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21648875
+"126","Vitex","Vitex divaricata","whole plant height","17.0688","m",NA,18.181715,-65.75686,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21717416
+"127","Vitex","Vitex divaricata","whole plant height","15.8496","m",NA,18.174614,-66.700315,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21994349
+"128","Vitex","Vitex divaricata","whole plant height","14.6304","m",NA,18.174614,-66.700315,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22340824
+"129","Vitex","Vitex divaricata","whole plant height","7.62","m",NA,18.181715,-65.75686,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23171581
+"130","Vitex","Vitex divaricata","whole plant height","10.9728","m",NA,18.174614,-66.700315,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23865249
+"131","Vitex","Vitex divaricata","whole plant height","11.8872","m",NA,18.181715,-65.75686,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24003428
+"132","Vitex","Vitex divaricata","whole plant height","10.0584","m",NA,18.149709,-66.985066,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24280825
+"133","Vitex","Vitex divaricata","whole plant height","10.3632","m",NA,18.181715,-65.75686,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24697129
+"134","Vitex","Vitex divaricata","whole plant height","15.8496","m",NA,18.174614,-66.700315,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24765842
+"135","Vitex","Vitex divaricata","whole plant height","3.9624","m",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25873402
+"136","Vitex","Vitex divaricata","whole plant height","14.9352","m",NA,18.181715,-65.75686,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26429259

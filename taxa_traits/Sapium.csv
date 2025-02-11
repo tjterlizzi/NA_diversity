@@ -1,0 +1,899 @@
+"","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Sapium","Sapium sebiferum","whole plant height","20.7264","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",63
+"2","Sapium",NA,"whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1972092
+"3","Sapium","Sapium glandulosum","whole plant height","12","m","Clinometer and distance measurer",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102359
+"4","Sapium","Sapium allenii","leaf nitrogen content per leaf dry mass","31","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103809
+"5","Sapium","Sapium glandulosum","leaf dry mass","0.378","g","Radwag WTB 200 Precision Balance",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109458
+"6","Sapium","Sapium allenii","leaf area","10356","mm2","LICOR-3100 area meter",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3107407
+"7","Sapium","Sapium glandulosum","leaf area","8372.6","mm2","LICOR-3100 area meter",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109491
+"8","Sapium","Sapium allenii","leaf area","20572.7","mm2","LICOR-3100 area meter",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3116785
+"9","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","141.093","mg.g-1","LDMmg/LFMg",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3112930
+"10","Sapium","Sapium glandulosum","stem wood density","0.33","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114098
+"11","Sapium","Sapium glandulosum","leaf thickness","0.24","mm","Mitutoyo 7321 dial thickness gauge",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114591
+"12","Sapium","Sapium laurifolium","leaf area","11290.1","mm2","LICOR-3100 area meter",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3119692
+"13","Sapium","Sapium glandulosum","seed mass","8.957","mg","Mean seed dry mass, measured with a digital scale after drying at 60 C, where seed is defined to include the endosperm and embryo only.",NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.69ph0","Kraft TS","thomas.s.kraft@dartmouth.edu","Panama",NA,NA,"public",3122285
+"14","Sapium","Sapium glandulosum","leaf thickness","0.29","mm","Mitutoyo 7321 dial thickness gauge",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3124116
+"15","Sapium","Sapium allenii","leaf area per leaf dry mass","15.367","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151498
+"16","Sapium","Sapium allenii","leaf phosphorus content per leaf dry mass","1.2","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151590
+"17","Sapium","Sapium glandulosum","leaf area per leaf dry mass","16.701","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152234
+"18","Sapium","Sapium allenii","leaf dry mass","1.083","g","Radwag WTB 200 Precision Balance",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3160675
+"19","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","230.909","mg.g-1","LDMmg/LFMg",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3161758
+"20","Sapium","Sapium glandulosum","leaf dry mass","0.314","g","Radwag WTB 200 Precision Balance",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3161895
+"21","Sapium","Sapium allenii","leaf dry mass","1.162","g","Radwag WTB 200 Precision Balance",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169209
+"22","Sapium","Sapium allenii","leaf dry mass","0.433","g","Radwag WTB 200 Precision Balance",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169491
+"23","Sapium","Sapium allenii","leaf area","9815.3","mm2","LICOR-3100 area meter",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169798
+"24","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","267.429","mg.g-1","LDMmg/LFMg",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169640
+"25","Sapium","Sapium allenii","leaf area","13194.3","mm2","LICOR-3100 area meter",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169666
+"26","Sapium","Sapium allenii","leaf area","15368","mm2","LICOR-3100 area meter",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169702
+"27","Sapium","Sapium glandulosum","leaf area","15815.2","mm2","LICOR-3100 area meter",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169738
+"28","Sapium","Sapium allenii","leaf dry mass","0.597","g","Radwag WTB 200 Precision Balance",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169760
+"29","Sapium","Sapium glandulosum","leaf area","12309.5","mm2","LICOR-3100 area meter",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171204
+"30","Sapium","Sapium glandulosum","leaf dry mass","0.362","g","Radwag WTB 200 Precision Balance",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171381
+"31","Sapium","Sapium allenii","leaf thickness","0.17","mm","Mitutoyo 7321 dial thickness gauge",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3172864
+"32","Sapium","Sapium glandulosum","leaf dry mass","0.281","g","Radwag WTB 200 Precision Balance",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3173125
+"33","Sapium","Sapium allenii","leaf thickness","0.38","mm","Mitutoyo 7321 dial thickness gauge",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3179859
+"34","Sapium","Sapium allenii","leaf dry mass","0.521","g","Radwag WTB 200 Precision Balance",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180203
+"35","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","320.915","mg.g-1","LDMmg/LFMg",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3177515
+"36","Sapium","Sapium allenii","leaf thickness","0.24","mm","Mitutoyo 7321 dial thickness gauge",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180064
+"37","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","365.932","mg.g-1","LDMmg/LFMg",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180173
+"38","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","197.826","mg.g-1","LDMmg/LFMg",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180251
+"39","Sapium","Sapium allenii","diameter at breast height (1.3 m)","15.5","cm","diameter tape",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180380
+"40","Sapium","Sapium allenii","whole plant height","15","m","Clinometer and distance measurer",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180430
+"41","Sapium","Sapium glandulosum","leaf area","8960.1","mm2","LICOR-3100 area meter",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180449
+"42","Sapium","Sapium glandulosum","leaf area","7635.3","mm2","LICOR-3100 area meter",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180455
+"43","Sapium","Sapium allenii","leaf phosphorus content per leaf dry mass","1.3","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180480
+"44","Sapium","Sapium glandulosum","leaf area","7172.2","mm2","LICOR-3100 area meter",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180487
+"45","Sapium","Sapium allenii","leaf area","11711.9","mm2","LICOR-3100 area meter",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180515
+"46","Sapium","Sapium glandulosum","leaf area","7468.1","mm2","LICOR-3100 area meter",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180526
+"47","Sapium","Sapium macrocarpum","stem wood density","0.36","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.234","Lopez-Gonzalez G","G.Lopez-Gonzalez@leeds.ac.uk","Mexico",NA,NA,"public",3180546
+"48","Sapium","Sapium allenii","leaf thickness","0.15","mm","Mitutoyo 7321 dial thickness gauge",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3226857
+"49","Sapium","Sapium allenii","leaf area per leaf dry mass","32.242","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3201302
+"50","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","273.641","mg.g-1","LDMmg/LFMg",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3201457
+"51","Sapium","Sapium glandulosum","leaf area per leaf dry mass","18.184","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3209521
+"52","Sapium","Sapium glandulosum","leaf dry mass","0.854","g","Radwag WTB 200 Precision Balance",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3220279
+"53","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","310.635","mg.g-1","LDMmg/LFMg",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3226848
+"54","Sapium","Sapium allenii","leaf thickness","0.21","mm","Mitutoyo 7321 dial thickness gauge",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3226852
+"55","Sapium","Sapium glandulosum","leaf area","10612.3","mm2","LICOR-3100 area meter",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227096
+"56","Sapium","Sapium glandulosum","leaf thickness","0.29","mm","Mitutoyo 7321 dial thickness gauge",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227109
+"57","Sapium","Sapium glandulosum","leaf thickness","0.24","mm","Mitutoyo 7321 dial thickness gauge",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227540
+"58","Sapium","Sapium glandulosum","leaf thickness","0.27","mm","Mitutoyo 7321 dial thickness gauge",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227545
+"59","Sapium","Sapium glandulosum","stem wood density","0.367","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227621
+"60","Sapium","Sapium glandulosum","leaf nitrogen content per leaf dry mass","18.8","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227625
+"61","Sapium","Sapium glandulosum","leaf fresh mass","1.7","g","Radwag WTB 200 Precision Balance",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3241946
+"62","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","179.965","mg.g-1","LDMmg/LFMg",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3235003
+"63","Sapium","Sapium glandulosum","leaf area per leaf dry mass","11.841","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3241938
+"64","Sapium","Sapium glandulosum","leaf dry mass","0.704","g","Radwag WTB 200 Precision Balance",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3247261
+"65","Sapium","Sapium glandulosum","leaf area","7872.2","mm2","LICOR-3100 area meter",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3252773
+"66","Sapium","Sapium allenii","leaf fresh mass","2.812","g","Radwag WTB 200 Precision Balance",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3261785
+"67","Sapium","Sapium allenii","leaf dry mass","1.492","g","Radwag WTB 200 Precision Balance",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3261834
+"68","Sapium","Sapium allenii","leaf dry mass","1.643","g","Radwag WTB 200 Precision Balance",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3261835
+"69","Sapium","Sapium glandulosum","leaf nitrogen content per leaf dry mass","19.1","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3261981
+"70","Sapium","Sapium glandulosum","leaf thickness","0.118","mm","lamina thickness is the thickness of the leaf lamina measured in regions that do not include primary or secondary veins.  Species means of the individual means of two leaves per individual for the lamina portion used in shearing test.",9.166667,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.8525","Westbrook JW","jwestbrook@ufl.edu","Panama","Panama",NA,"public",3278608
+"71","Sapium","Sapium glandulosum","Leaf lamina fracture toughness","250.05","J.m-2","lamina fracture toughness is the work to fracture leaf tissue divided by fracture area (lamina thickness * length of fracture). Species means of the individual means of two leaves per individual.",9.166667,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.8525","Westbrook JW","jwestbrook@ufl.edu","Panama","Panama",NA,"public",3278611
+"72","Sapium","Sapium glandulosum","leaf nitrogen content per leaf dry mass","16.8","mg.g-1","Canopy N% was estimated with the Carnegie Airborne Observatory Airborne Taxonomic Mapping System (CAO-AToMs) onboard a Dornier 228 Aircraft. The sensor configuration used consisted of a high-fidelity imaging spectrometer (HiFIS) and a dual laser, waveform light detection and ranging (LiDAR) sensor.",NA,NA,50,"http://datadryad.org/resource/doi:10.5061/dryad.ck585","Balzotti CS","cbalzotti@carnegiescience.edu","Costa Rica","Puntarenas",NA,"public",3278613
+"73","Sapium","Sapium allenii","leaf thickness","0.18","mm","Mitutoyo 7321 dial thickness gauge",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3449912
+"74","Sapium","Sapium allenii","leaf thickness","0.18","mm","Mitutoyo 7321 dial thickness gauge",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3451521
+"75","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","296.433","mg.g-1","LDMmg/LFMg",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469232
+"76","Sapium","Sapium allenii","leaf thickness","0.22","mm","Mitutoyo 7321 dial thickness gauge",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3454828
+"77","Sapium","Sapium glandulosum","leaf phosphorus content per leaf dry mass","2.7","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3468899
+"78","Sapium","Sapium allenii","leaf dry mass","2.032","g","Radwag WTB 200 Precision Balance",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3468837
+"79","Sapium","Sapium glandulosum","leaf thickness","0.29","mm","Mitutoyo 7321 dial thickness gauge",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469596
+"80","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","295.42","mg.g-1","LDMmg/LFMg",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469050
+"81","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","275.406","mg.g-1","LDMmg/LFMg",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469371
+"82","Sapium","Sapium glandulosum","leaf thickness","0.28","mm","Mitutoyo 7321 dial thickness gauge",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469373
+"83","Sapium","Sapium glandulosum","leaf fresh mass","3.12","g","Radwag WTB 200 Precision Balance",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469444
+"84","Sapium","Sapium allenii","leaf area","18323","mm2","LICOR-3100 area meter",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469772
+"85","Sapium","Sapium glandulosum","leaf fresh mass","2.36","g","Radwag WTB 200 Precision Balance",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3470228
+"86","Sapium","Sapium glandulosum","leaf thickness","0.26","mm","Mitutoyo 7321 dial thickness gauge",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471035
+"87","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","228.869","mg.g-1","LDMmg/LFMg",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471068
+"88","Sapium","Sapium glandulosum","leaf phosphorus content per leaf dry mass","2.2","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471086
+"89","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","250.445","mg.g-1","LDMmg/LFMg",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471401
+"90","Sapium","Sapium allenii","leaf fresh mass","2.76","g","Radwag WTB 200 Precision Balance",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471489
+"91","Sapium","Sapium allenii","leaf fresh mass","6.904","g","Radwag WTB 200 Precision Balance",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471518
+"92","Sapium","Sapium allenii","leaf fresh mass","5.598","g","Radwag WTB 200 Precision Balance",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471534
+"93","Sapium","Sapium glandulosum","leaf dry mass","0.382","g","Radwag WTB 200 Precision Balance",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471696
+"94","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","18","cm","diameter tape",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471910
+"95","Sapium","Sapium laurifolium","leaf dry mass","0.541","g","Radwag WTB 200 Precision Balance",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3472216
+"96","Sapium","Sapium allenii","leaf area per leaf dry mass","17.46","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3474528
+"97","Sapium","Sapium allenii","leaf fresh mass","3.15","g","Radwag WTB 200 Precision Balance",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3474545
+"98","Sapium","Sapium allenii","leaf area","29482.5","mm2","LICOR-3100 area meter",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477779
+"99","Sapium","Sapium allenii","leaf fresh mass","1.811","g","Radwag WTB 200 Precision Balance",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477790
+"100","Sapium","Sapium glandulosum","leaf dry mass","0.731","g","Radwag WTB 200 Precision Balance",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3478877
+"101","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","220.139","mg.g-1","LDMmg/LFMg",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3480100
+"102","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","198.734","mg.g-1","LDMmg/LFMg",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3480178
+"103","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","289.137","mg.g-1","LDMmg/LFMg",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3478884
+"104","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","278.981","mg.g-1","LDMmg/LFMg",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3478891
+"105","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","307.018","mg.g-1","LDMmg/LFMg",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3478898
+"106","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","9","cm","diameter tape",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3478905
+"107","Sapium","Sapium glandulosum","leaf fresh mass","1.79","g","Radwag WTB 200 Precision Balance",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3484815
+"108","Sapium","Sapium allenii","stem wood density","0.383","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3484826
+"109","Sapium","Sapium glandulosum","leaf thickness","0.26","mm","Mitutoyo 7321 dial thickness gauge",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3484936
+"110","Sapium","Sapium glandulosum","leaf thickness","0.25","mm","Mitutoyo 7321 dial thickness gauge",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485236
+"111","Sapium","Sapium glandulosum","leaf fresh mass","2.217","g","Radwag WTB 200 Precision Balance",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485469
+"112","Sapium","Sapium glandulosum","leaf area per leaf dry mass","10.509","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485486
+"113","Sapium","Sapium glandulosum","leaf fresh mass","2.51","g","Radwag WTB 200 Precision Balance",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485515
+"114","Sapium","Sapium glandulosum","leaf area per leaf dry mass","12.157","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485498
+"115","Sapium","Sapium glandulosum","leaf area per leaf dry mass","16.453","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485509
+"116","Sapium","Sapium glandulosum","leaf fresh mass","2.326","g","Radwag WTB 200 Precision Balance",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485533
+"117","Sapium","Sapium glandulosum","leaf thickness","0.22","mm","Mitutoyo 7321 dial thickness gauge",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485542
+"118","Sapium","Sapium glandulosum","leaf thickness","0.28","mm","Mitutoyo 7321 dial thickness gauge",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485549
+"119","Sapium","Sapium allenii","stem wood density","0.371","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485585
+"120","Sapium","Sapium allenii","leaf phosphorus content per leaf dry mass","3.4","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485595
+"121","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","169.452","mg.g-1","LDMmg/LFMg",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485632
+"122","Sapium","Sapium allenii","stem wood density","0.34","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3657895
+"123","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","18.1","cm","diameter tape",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3673865
+"124","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","367.037","mg.g-1","LDMmg/LFMg",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3678767
+"125","Sapium","Sapium glandulosum","whole plant growth form","tree",NA,NA,NA,NA,NA,"http://download.springer.com.ezproxy3.library.arizona.edu/static/pdf/942/art%253A10.1007%252FBF00380050.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2FBF00380050&token2=exp=1488855667~acl=%2Fstatic%2Fpdf%2F942%2Fart%25253A10.1007%25252FBF00380050.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Farticle%252F10.1007%252FBF00380050*~hmac=dfb0f0402072ba0e7e0cfd8b33af72f12a63efc19be714a470dd3f1d54d185c3","Coley PD",NA,"Panama",NA,NA,"public",3842103
+"126","Sapium","Sapium lateriflorum","whole plant growth form","tree",NA,NA,NA,NA,NA,"http://download.springer.com.ezproxy3.library.arizona.edu/static/pdf/535/chp%253A10.1007%252F978-94-011-1749-4_22.pdf?originUrl=http%3A%2F%2Flink.springer.com%2Fchapter%2F10.1007%2F978-94-011-1749-4_22&token2=exp=1489967978~acl=%2Fstatic%2Fpdf%2F535%2Fchp%25253A10.1007%25252F978-94-011-1749-4_22.pdf%3ForiginUrl%3Dhttp%253A%252F%252Flink.springer.com%252Fchapter%252F10.1007%252F978-94-011-1749-4_22*~hmac=df74317967096f6fb45ba6237e9361355fe9ceb9570bb2ee872d767ae692823f","Guevara S",NA,"Mexico",NA,NA,"public",3843205
+"127","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","330.7","mg.g-1",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3926261
+"128","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9342385
+"129","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11552916
+"130","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.17936039,-79.82959747,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11661298
+"131","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.144619942,-79.85870361,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",12425892
+"132","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.199170113,-79.77410126,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",16648774
+"133","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.144619942,-79.85870361,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17535546
+"134","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","355.365","mg.g-1","LDMmg/LFMg",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",59
+"135","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","308.772","mg.g-1","LDMmg/LFMg",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",60
+"136","Sapium","Sapium glandulosum","leaf thickness","0.21","mm","Mitutoyo 7321 dial thickness gauge",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",65
+"137","Sapium","Sapium allenii","leaf area","28098","mm2","LICOR-3100 area meter",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15028
+"138","Sapium","Sapium allenii","leaf area","12839.6","mm2","LICOR-3100 area meter",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15029
+"139","Sapium","Sapium allenii","leaf thickness","0.26","mm","Mitutoyo 7321 dial thickness gauge",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",14311
+"140","Sapium","Sapium allenii","leaf dry mass","0.536","g","Radwag WTB 200 Precision Balance",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",14329
+"141","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","135.966","mg.g-1","LDMmg/LFMg",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",14332
+"142","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","138.074","mg.g-1","LDMmg/LFMg",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",14336
+"143","Sapium","Sapium glandulosum","leaf area","9330","mm2","LICOR-3100 area meter",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",14360
+"144","Sapium","Sapium allenii","leaf area per leaf dry mass","21.735","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",14361
+"145","Sapium","Sapium allenii","leaf nitrogen content per leaf dry mass","20.7","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",14362
+"146","Sapium","Sapium laurifolium","leaf fresh mass","2.076","g","Radwag WTB 200 Precision Balance",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",14446
+"147","Sapium","Sapium allenii","leaf nitrogen content per leaf dry mass","22.3","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",14448
+"148","Sapium","Sapium glandulosum","leaf area","4009.3","mm2","LICOR-3100 area meter",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",14454
+"149","Sapium","Sapium allenii","leaf nitrogen content per leaf dry mass","28.7","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",14464
+"150","Sapium","Sapium allenii","stem wood density","0.264","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",14466
+"151","Sapium","Sapium allenii","stem wood density","0.467","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",14475
+"152","Sapium","Sapium allenii","leaf thickness","0.31","mm","Mitutoyo 7321 dial thickness gauge",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15044
+"153","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","297.527","mg.g-1","LDMmg/LFMg",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",14793
+"154","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","254.405","mg.g-1","LDMmg/LFMg",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",14795
+"155","Sapium","Sapium allenii","stem wood density","0.309","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",14878
+"156","Sapium","Sapium allenii","leaf area","12579.9","mm2","LICOR-3100 area meter",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15027
+"157","Sapium","Sapium allenii","leaf area","15361.2","mm2","LICOR-3100 area meter",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15021
+"158","Sapium","Sapium allenii","leaf area","31749.4","mm2","LICOR-3100 area meter",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15025
+"159","Sapium","Sapium allenii","leaf area","10484.7","mm2","LICOR-3100 area meter",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15026
+"160","Sapium","Sapium glandulosum","leaf area","5076.3","mm2","LICOR-3100 area meter",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15030
+"161","Sapium","Sapium glandulosum","leaf area","9020.3","mm2","LICOR-3100 area meter",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15031
+"162","Sapium","Sapium glandulosum","leaf area","7913","mm2","LICOR-3100 area meter",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15032
+"163","Sapium","Sapium allenii","leaf area per leaf dry mass","10.362","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15033
+"164","Sapium","Sapium allenii","leaf area per leaf dry mass","9.3761","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15034
+"165","Sapium","Sapium allenii","leaf area per leaf dry mass","27.625","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15037
+"166","Sapium","Sapium allenii","leaf fresh mass","5.22","g","Radwag WTB 200 Precision Balance",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15040
+"167","Sapium","Sapium allenii","leaf thickness","0.24","mm","Mitutoyo 7321 dial thickness gauge",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15041
+"168","Sapium","Sapium allenii","leaf thickness","0.18","mm","Mitutoyo 7321 dial thickness gauge",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15042
+"169","Sapium","Sapium allenii","leaf dry mass","1.064","g","Radwag WTB 200 Precision Balance",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15048
+"170","Sapium","Sapium allenii","leaf dry mass","2.943","g","Radwag WTB 200 Precision Balance",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15051
+"171","Sapium","Sapium allenii","leaf dry mass","1.161","g","Radwag WTB 200 Precision Balance",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15052
+"172","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","296.245","mg.g-1","LDMmg/LFMg",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15053
+"173","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","248.122","mg.g-1","LDMmg/LFMg",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15055
+"174","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","284.016","mg.g-1","LDMmg/LFMg",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15082
+"175","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","226.667","mg.g-1","LDMmg/LFMg",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15057
+"176","Sapium","Sapium allenii","whole plant height","8","m","Clinometer and distance measurer",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15066
+"177","Sapium","Sapium glandulosum","leaf dry mass","0.317","g","Radwag WTB 200 Precision Balance",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15077
+"178","Sapium","Sapium laurifolium","leaf thickness","0.23","mm","Mitutoyo 7321 dial thickness gauge",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15090
+"179","Sapium","Sapium laurifolium","leaf thickness","0.24","mm","Mitutoyo 7321 dial thickness gauge",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15091
+"180","Sapium","Sapium glandulosum","leaf area","11696.3","mm2","LICOR-3100 area meter",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",15095
+"181","Sapium",NA,"diameter at breast height (1.3 m)","8","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",128845
+"182","Sapium","Sapium rigidifolium","diameter at breast height (1.3 m)","61","cm",NA,10.0619,-84.0172,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",141690
+"183","Sapium",NA,"diameter at breast height (1.3 m)","14","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",141845
+"184","Sapium","Sapium macrocarpum","diameter at breast height (1.3 m)","19","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",261546
+"185","Sapium","Sapium macrocarpum","diameter at breast height (1.3 m)","13","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",276067
+"186","Sapium","Sapium rigidifolium","diameter at breast height (1.3 m)","52","cm",NA,10.1825,-84.1069,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",289176
+"187","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","21","cm",NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",329887
+"188","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","18","cm",NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",329888
+"189","Sapium",NA,"diameter at breast height (1.3 m)","12","cm",NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",557403
+"190","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","21.5","cm",NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",653360
+"191","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","15","cm",NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",896239
+"192","Sapium","Sapium rigidifolium","diameter at breast height (1.3 m)","43.5","cm",NA,10.0619,-84.0172,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1383354
+"193","Sapium",NA,"diameter at breast height (1.3 m)","49","cm",NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1678310
+"194","Sapium","Sapium rigidifolium","diameter at breast height (1.3 m)","88","cm",NA,10.0619,-84.0172,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1733574
+"195","Sapium",NA,"whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1763221
+"196","Sapium","Sapium rigidifolium","whole plant growth form","tree",NA,NA,10.0619,-84.0172,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1763385
+"197","Sapium",NA,"whole plant growth form","tree",NA,NA,12.3,-85.4,NA,NA,"James S. MIller",NA,"Nicaragua",NA,NA,"public",1763570
+"198","Sapium","Sapium macrocarpum","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1779971
+"199","Sapium","Sapium macrocarpum","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1781729
+"200","Sapium","Sapium rigidifolium","whole plant growth form","tree",NA,NA,10.1825,-84.1069,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1783419
+"201","Sapium","Sapium glandulosum","whole plant growth form","tree",NA,NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1789192
+"202","Sapium","Sapium glandulosum","whole plant growth form","tree",NA,NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1789193
+"203","Sapium",NA,"whole plant growth form","tree",NA,NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1820129
+"204","Sapium","Sapium glandulosum","whole plant growth form","tree",NA,NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1832659
+"205","Sapium","Sapium glandulosum","whole plant growth form","tree",NA,NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1865706
+"206","Sapium","Sapium rigidifolium","whole plant growth form","tree",NA,NA,10.0619,-84.0172,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1931638
+"207","Sapium","Sapium rigidifolium","whole plant growth form","tree",NA,NA,10.0619,-84.0172,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1979381
+"208","Sapium","Sapium pachystachys","leaf carbon content per leaf dry mass","438.9","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",9.53333,-83.8167,2050,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",3101273
+"209","Sapium","Sapium allenii","leaf dry mass","0.35","g","Radwag WTB 200 Precision Balance",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102336
+"210","Sapium","Sapium allenii","leaf area","9553.7","mm2","LICOR-3100 area meter",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3101916
+"211","Sapium","Sapium allenii","leaf fresh mass","6.33","g","Radwag WTB 200 Precision Balance",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3101937
+"212","Sapium","Sapium allenii","leaf area per leaf dry mass","25.018","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3101952
+"213","Sapium","Sapium glandulosum","leaf dry mass","0.842","g","Radwag WTB 200 Precision Balance",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102037
+"214","Sapium","Sapium allenii","leaf dry mass","2.233","g","Radwag WTB 200 Precision Balance",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102337
+"215","Sapium","Sapium allenii","leaf nitrogen content per leaf dry mass","25.6","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102218
+"216","Sapium","Sapium allenii","leaf area","7607.2","mm2","LICOR-3100 area meter",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102325
+"217","Sapium","Sapium allenii","leaf area per leaf dry mass","24.787","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102328
+"218","Sapium","Sapium glandulosum","leaf thickness","0.27","mm","Mitutoyo 7321 dial thickness gauge",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102329
+"219","Sapium","Sapium allenii","leaf fresh mass","4.457","g","Radwag WTB 200 Precision Balance",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102333
+"220","Sapium","Sapium allenii","leaf area per leaf dry mass","12.521","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102334
+"221","Sapium","Sapium glandulosum","leaf dry mass","0.354","g","Radwag WTB 200 Precision Balance",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102338
+"222","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","143.855","mg.g-1","LDMmg/LFMg",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102339
+"223","Sapium","Sapium glandulosum","leaf area per leaf dry mass","10.13","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102345
+"224","Sapium","Sapium glandulosum","leaf area per leaf dry mass","12.668","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102346
+"225","Sapium","Sapium glandulosum","leaf area per leaf dry mass","13.771","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102347
+"226","Sapium","Sapium glandulosum","leaf fresh mass","1.514","g","Radwag WTB 200 Precision Balance",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102348
+"227","Sapium","Sapium glandulosum","leaf thickness","0.29","mm","Mitutoyo 7321 dial thickness gauge",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102349
+"228","Sapium","Sapium glandulosum","leaf dry mass","0.7","g","Radwag WTB 200 Precision Balance",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102352
+"229","Sapium","Sapium glandulosum","leaf area","7758.6","mm2","LICOR-3100 area meter",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102356
+"230","Sapium","Sapium glandulosum","whole plant height","12","m","Clinometer and distance measurer",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102358
+"231","Sapium","Sapium laurifolium","leaf thickness","0.25","mm","Mitutoyo 7321 dial thickness gauge",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102361
+"232","Sapium","Sapium laurifolium","leaf fresh mass","2.025","g","Radwag WTB 200 Precision Balance",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102362
+"233","Sapium","Sapium glandulosum","leaf phosphorus content per leaf dry mass","1.5","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102363
+"234","Sapium","Sapium glandulosum","leaf nitrogen content per leaf dry mass","16.8","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3102365
+"235","Sapium","Sapium glandulosum","leaf area","7944.9","mm2","LICOR-3100 area meter",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103519
+"236","Sapium","Sapium glandulosum","leaf fresh mass","2.36","g","Radwag WTB 200 Precision Balance",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103715
+"237","Sapium","Sapium allenii","leaf area per leaf dry mass","11.824","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103716
+"238","Sapium","Sapium glandulosum","leaf dry mass","0.373","g","Radwag WTB 200 Precision Balance",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103717
+"239","Sapium","Sapium laurifolium","leaf dry mass per leaf fresh mass","294.815","mg.g-1","LDMmg/LFMg",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103726
+"240","Sapium","Sapium glandulosum","leaf area per leaf dry mass","22.15","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103741
+"241","Sapium","Sapium glandulosum","leaf area per leaf dry mass","12.715","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103742
+"242","Sapium","Sapium glandulosum","leaf area per leaf dry mass","12.742","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103743
+"243","Sapium","Sapium glandulosum","leaf thickness","0.21","mm","Mitutoyo 7321 dial thickness gauge",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103744
+"244","Sapium","Sapium glandulosum","leaf thickness","0.23","mm","Mitutoyo 7321 dial thickness gauge",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103745
+"245","Sapium","Sapium glandulosum","leaf thickness","0.18","mm","Mitutoyo 7321 dial thickness gauge",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103746
+"246","Sapium","Sapium allenii","leaf nitrogen content per leaf dry mass","15.2","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103747
+"247","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","281.448","mg.g-1","LDMmg/LFMg",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103749
+"248","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","305.882","mg.g-1","LDMmg/LFMg",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103751
+"249","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","15.6","cm","diameter tape",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103770
+"250","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","303.311","mg.g-1","LDMmg/LFMg",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3103774
+"251","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","201.606","mg.g-1","LDMmg/LFMg",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3104232
+"252","Sapium","Sapium allenii","leaf dry mass","0.288","g","Radwag WTB 200 Precision Balance",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3104215
+"253","Sapium","Sapium glandulosum","leaf dry mass","0.909","g","Radwag WTB 200 Precision Balance",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3104233
+"254","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","285.714","mg.g-1","LDMmg/LFMg",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3104303
+"255","Sapium","Sapium allenii","leaf area","38942.8","mm2","LICOR-3100 area meter",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3104324
+"256","Sapium","Sapium allenii","leaf area","17194.7","mm2","LICOR-3100 area meter",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3104325
+"257","Sapium","Sapium glandulosum","leaf thickness","0.26","mm","Mitutoyo 7321 dial thickness gauge",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3104326
+"258","Sapium","Sapium glandulosum","leaf thickness","0.29","mm","Mitutoyo 7321 dial thickness gauge",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3104327
+"259","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","370.254","mg.g-1","LDMmg/LFMg",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3107305
+"260","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","269.686","mg.g-1","LDMmg/LFMg",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3107309
+"261","Sapium","Sapium allenii","leaf area","13716.3","mm2","LICOR-3100 area meter",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3107315
+"262","Sapium","Sapium allenii","leaf area","18670.6","mm2","LICOR-3100 area meter",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3107316
+"263","Sapium","Sapium allenii","leaf area","9285.7","mm2","LICOR-3100 area meter",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3107317
+"264","Sapium","Sapium allenii","leaf fresh mass","3.472","g","Radwag WTB 200 Precision Balance",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3107319
+"265","Sapium","Sapium allenii","leaf dry mass","0.859","g","Radwag WTB 200 Precision Balance",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3107321
+"266","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","269.857","mg.g-1","LDMmg/LFMg",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3107323
+"267","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","252.935","mg.g-1","LDMmg/LFMg",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3108252
+"268","Sapium","Sapium glandulosum","leaf dry mass","0.52","g","Radwag WTB 200 Precision Balance",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3108514
+"269","Sapium","Sapium glandulosum","leaf dry mass","0.738","g","Radwag WTB 200 Precision Balance",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3108578
+"270","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","334.661","mg.g-1","LDMmg/LFMg",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3108779
+"271","Sapium","Sapium laurifolium","leaf dry mass per leaf fresh mass","308.087","mg.g-1","LDMmg/LFMg",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3108870
+"272","Sapium","Sapium allenii","leaf area","13241.5","mm2","LICOR-3100 area meter",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109418
+"273","Sapium","Sapium allenii","leaf area","15347.1","mm2","LICOR-3100 area meter",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109419
+"274","Sapium","Sapium allenii","leaf thickness","0.32","mm","Mitutoyo 7321 dial thickness gauge",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109421
+"275","Sapium","Sapium allenii","leaf area per leaf dry mass","14.558","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109422
+"276","Sapium","Sapium allenii","leaf thickness","0.27","mm","Mitutoyo 7321 dial thickness gauge",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109423
+"277","Sapium","Sapium allenii","leaf dry mass","2.477","g","Radwag WTB 200 Precision Balance",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109426
+"278","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","356.846","mg.g-1","LDMmg/LFMg",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109427
+"279","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","143.841","mg.g-1","LDMmg/LFMg",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109429
+"280","Sapium","Sapium allenii","diameter at breast height (1.3 m)","10.8","cm","diameter tape",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109431
+"281","Sapium","Sapium allenii","leaf phosphorus content per leaf dry mass","2.3","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109445
+"282","Sapium","Sapium glandulosum","leaf dry mass","0.502","g","Radwag WTB 200 Precision Balance",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109444
+"283","Sapium","Sapium glandulosum","leaf dry mass","0.895","g","Radwag WTB 200 Precision Balance",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109472
+"284","Sapium","Sapium glandulosum","leaf dry mass","0.722","g","Radwag WTB 200 Precision Balance",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109468
+"285","Sapium","Sapium glandulosum","leaf dry mass","0.406","g","Radwag WTB 200 Precision Balance",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109469
+"286","Sapium","Sapium glandulosum","leaf dry mass","0.362","g","Radwag WTB 200 Precision Balance",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109470
+"287","Sapium","Sapium glandulosum","leaf dry mass","0.876","g","Radwag WTB 200 Precision Balance",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109471
+"288","Sapium","Sapium glandulosum","leaf dry mass","0.594","g","Radwag WTB 200 Precision Balance",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109473
+"289","Sapium","Sapium allenii","leaf dry mass","3.106","g","Radwag WTB 200 Precision Balance",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109480
+"290","Sapium","Sapium glandulosum","leaf area","8073.4","mm2","LICOR-3100 area meter",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109490
+"291","Sapium","Sapium laurifolium","leaf area per leaf dry mass","14.914","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109495
+"292","Sapium","Sapium allenii","leaf area","9648","mm2","LICOR-3100 area meter",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109522
+"293","Sapium","Sapium laurifolium","leaf area","10261.3","mm2","LICOR-3100 area meter",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3109523
+"294","Sapium","Sapium allenii","whole plant height","6","m","Clinometer and distance measurer",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3113544
+"295","Sapium","Sapium allenii","leaf area","11243.3","mm2","LICOR-3100 area meter",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114096
+"296","Sapium","Sapium glandulosum","leaf phosphorus content per leaf dry mass","2.6","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114099
+"297","Sapium","Sapium allenii","leaf fresh mass","2.02","g","Radwag WTB 200 Precision Balance",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114114
+"298","Sapium","Sapium glandulosum","leaf fresh mass","1.307","g","Radwag WTB 200 Precision Balance",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114132
+"299","Sapium","Sapium glandulosum","leaf dry mass","1.374","g","Radwag WTB 200 Precision Balance",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114378
+"300","Sapium","Sapium allenii","leaf area per leaf dry mass","12.977","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114829
+"301","Sapium","Sapium allenii","leaf dry mass","2.33","g","Radwag WTB 200 Precision Balance",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114834
+"302","Sapium","Sapium glandulosum","leaf dry mass","0.84","g","Radwag WTB 200 Precision Balance",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114855
+"303","Sapium","Sapium glandulosum","leaf dry mass","0.381","g","Radwag WTB 200 Precision Balance",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114861
+"304","Sapium","Sapium glandulosum","leaf dry mass","0.503","g","Radwag WTB 200 Precision Balance",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114862
+"305","Sapium","Sapium glandulosum","leaf dry mass","0.991","g","Radwag WTB 200 Precision Balance",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114863
+"306","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","325.665","mg.g-1","LDMmg/LFMg",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114864
+"307","Sapium","Sapium laurifolium","leaf area per leaf dry mass","14.675","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114884
+"308","Sapium","Sapium glandulosum","leaf nitrogen content per leaf dry mass","23.3","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114888
+"309","Sapium","Sapium laurifolium","leaf area per leaf dry mass","16.135","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114889
+"310","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","20.1","cm","diameter tape",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114893
+"311","Sapium","Sapium glandulosum","stem wood density","0.358","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3114897
+"312","Sapium","Sapium allenii","leaf area per leaf dry mass","16.494","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3116798
+"313","Sapium","Sapium glandulosum","leaf area per leaf dry mass","17.449","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3116807
+"314","Sapium","Sapium glandulosum","leaf thickness","0.19","mm","Mitutoyo 7321 dial thickness gauge",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3116835
+"315","Sapium","Sapium glandulosum","leaf area per leaf dry mass","21.917","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3118615
+"316","Sapium","Sapium glandulosum","leaf area per leaf dry mass","9.713","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3118616
+"317","Sapium","Sapium allenii","leaf area","12580.2","mm2","LICOR-3100 area meter",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3116774
+"318","Sapium","Sapium glandulosum","whole plant height","10","m","Clinometer and distance measurer",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3118618
+"319","Sapium","Sapium glandulosum","leaf area","7880.1","mm2","LICOR-3100 area meter",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3116949
+"320","Sapium","Sapium glandulosum","leaf fresh mass","2.51","g","Radwag WTB 200 Precision Balance",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3118613
+"321","Sapium","Sapium allenii","leaf fresh mass","3.37","g","Radwag WTB 200 Precision Balance",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3118614
+"322","Sapium","Sapium allenii","leaf area","16269.4","mm2","LICOR-3100 area meter",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3118897
+"323","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","344.673","mg.g-1","LDMmg/LFMg",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3118901
+"324","Sapium","Sapium glandulosum","leaf thickness","0.3","mm","Mitutoyo 7321 dial thickness gauge",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3118902
+"325","Sapium","Sapium glandulosum","leaf thickness","0.3","mm","Mitutoyo 7321 dial thickness gauge",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3118903
+"326","Sapium","Sapium glandulosum","leaf thickness","0.28","mm","Mitutoyo 7321 dial thickness gauge",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3118907
+"327","Sapium","Sapium glandulosum","leaf dry mass","0.361","g","Radwag WTB 200 Precision Balance",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3118908
+"328","Sapium","Sapium glandulosum","leaf dry mass","0.828","g","Radwag WTB 200 Precision Balance",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3118910
+"329","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","281.006","mg.g-1","LDMmg/LFMg",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3118916
+"330","Sapium","Sapium allenii","leaf dry mass","0.742","g","Radwag WTB 200 Precision Balance",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3119086
+"331","Sapium","Sapium allenii","leaf dry mass","0.929","g","Radwag WTB 200 Precision Balance",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3119078
+"332","Sapium","Sapium allenii","diameter at breast height (1.3 m)","13.1","cm","diameter tape",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3119092
+"333","Sapium","Sapium glandulosum","leaf area","12325.4","mm2","LICOR-3100 area meter",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3119187
+"334","Sapium","Sapium allenii","leaf area","18152.5","mm2","LICOR-3100 area meter",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3119454
+"335","Sapium","Sapium allenii","leaf fresh mass","3.532","g","Radwag WTB 200 Precision Balance",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3119478
+"336","Sapium","Sapium allenii","diameter at breast height (1.3 m)","42.5","cm","diameter tape",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3119480
+"337","Sapium","Sapium laurifolium","leaf fresh mass","1.933","g","Radwag WTB 200 Precision Balance",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3119559
+"338","Sapium","Sapium laurifolium","leaf area","10074.6","mm2","LICOR-3100 area meter",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3119693
+"339","Sapium","Sapium laurifolium","leaf area","8729","mm2","LICOR-3100 area meter",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3119694
+"340","Sapium","Sapium macrocarpum","leaf nitrogen content per leaf dry mass","38.957","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3122288
+"341","Sapium","Sapium pachystachys","leaf nitrogen content per leaf dry mass","26.2","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",9.53333,-83.8167,2050,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",3122287
+"342","Sapium","Sapium glandulosum","leaf area per leaf dry mass","10.213","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3124041
+"343","Sapium","Sapium glandulosum","leaf fresh mass","2.28","g","Radwag WTB 200 Precision Balance",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3124042
+"344","Sapium","Sapium glandulosum","leaf thickness","0.29","mm","Mitutoyo 7321 dial thickness gauge",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3124043
+"345","Sapium","Sapium glandulosum","leaf area","9920.3","mm2","LICOR-3100 area meter",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3124044
+"346","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","177.591","mg.g-1","LDMmg/LFMg",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3124052
+"347","Sapium","Sapium laurifolium","leaf dry mass per leaf fresh mass","333.333","mg.g-1","LDMmg/LFMg",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3124053
+"348","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","228.53","mg.g-1","LDMmg/LFMg",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3124054
+"349","Sapium","Sapium allenii","leaf dry mass","1.362","g","Radwag WTB 200 Precision Balance",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3124000
+"350","Sapium","Sapium allenii","leaf area per leaf dry mass","9.7275","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3124007
+"351","Sapium","Sapium glandulosum","leaf fresh mass","1.404","g","Radwag WTB 200 Precision Balance",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3124089
+"352","Sapium","Sapium glandulosum","leaf area per leaf dry mass","12.886","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3124113
+"353","Sapium","Sapium glandulosum","leaf fresh mass","1.49","g","Radwag WTB 200 Precision Balance",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3124114
+"354","Sapium","Sapium glandulosum","leaf thickness","0.2","mm","Mitutoyo 7321 dial thickness gauge",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3124115
+"355","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","333.628","mg.g-1","LDMmg/LFMg",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3124360
+"356","Sapium","Sapium laurifolium","leaf fresh mass","2.311","g","Radwag WTB 200 Precision Balance",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3124612
+"357","Sapium","Sapium allenii","leaf area","14617","mm2","LICOR-3100 area meter",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152154
+"358","Sapium","Sapium allenii","leaf area","12634.1","mm2","LICOR-3100 area meter",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152155
+"359","Sapium","Sapium allenii","leaf area","11776.9","mm2","LICOR-3100 area meter",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152156
+"360","Sapium","Sapium allenii","leaf fresh mass","2.895","g","Radwag WTB 200 Precision Balance",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152175
+"361","Sapium","Sapium allenii","leaf fresh mass","3.93","g","Radwag WTB 200 Precision Balance",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152176
+"362","Sapium","Sapium allenii","leaf fresh mass","8.28","g","Radwag WTB 200 Precision Balance",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152177
+"363","Sapium","Sapium allenii","leaf fresh mass","4.26","g","Radwag WTB 200 Precision Balance",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152178
+"364","Sapium","Sapium allenii","leaf fresh mass","3.93","g","Radwag WTB 200 Precision Balance",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152179
+"365","Sapium","Sapium allenii","leaf fresh mass","5.17","g","Radwag WTB 200 Precision Balance",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152180
+"366","Sapium","Sapium allenii","leaf fresh mass","10.447","g","Radwag WTB 200 Precision Balance",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152181
+"367","Sapium","Sapium allenii","leaf fresh mass","3.36","g","Radwag WTB 200 Precision Balance",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152182
+"368","Sapium","Sapium allenii","leaf fresh mass","4.94","g","Radwag WTB 200 Precision Balance",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152183
+"369","Sapium","Sapium allenii","leaf fresh mass","5.846","g","Radwag WTB 200 Precision Balance",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152184
+"370","Sapium","Sapium allenii","leaf dry mass","1.047","g","Radwag WTB 200 Precision Balance",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152203
+"371","Sapium","Sapium allenii","leaf dry mass","1.103","g","Radwag WTB 200 Precision Balance",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152204
+"372","Sapium","Sapium allenii","leaf dry mass","0.879","g","Radwag WTB 200 Precision Balance",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151386
+"373","Sapium","Sapium allenii","leaf dry mass","1.007","g","Radwag WTB 200 Precision Balance",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151398
+"374","Sapium","Sapium allenii","leaf area per leaf dry mass","20.523","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151399
+"375","Sapium","Sapium allenii","leaf area per leaf dry mass","24.146","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151400
+"376","Sapium","Sapium allenii","leaf area per leaf dry mass","32.663","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151401
+"377","Sapium","Sapium allenii","leaf area per leaf dry mass","30.298","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151402
+"378","Sapium","Sapium allenii","leaf fresh mass","4.15","g","Radwag WTB 200 Precision Balance",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151403
+"379","Sapium","Sapium laurifolium","leaf dry mass","0.757","g","Radwag WTB 200 Precision Balance",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151404
+"380","Sapium","Sapium allenii","leaf fresh mass","3.47","g","Radwag WTB 200 Precision Balance",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151440
+"381","Sapium","Sapium allenii","leaf fresh mass","2.675","g","Radwag WTB 200 Precision Balance",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151499
+"382","Sapium","Sapium glandulosum","leaf area","7607.1","mm2","LICOR-3100 area meter",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151501
+"383","Sapium","Sapium allenii","leaf area per leaf dry mass","12.445","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151502
+"384","Sapium","Sapium allenii","leaf area per leaf dry mass","17.824","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151503
+"385","Sapium","Sapium glandulosum","leaf nitrogen content per leaf dry mass","21.8","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151505
+"386","Sapium","Sapium glandulosum","leaf area","9284","mm2","LICOR-3100 area meter",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151507
+"387","Sapium","Sapium glandulosum","leaf thickness","0.23","mm","Mitutoyo 7321 dial thickness gauge",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151668
+"388","Sapium","Sapium glandulosum","leaf dry mass","0.491","g","Radwag WTB 200 Precision Balance",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151845
+"389","Sapium","Sapium allenii","leaf area per leaf dry mass","27.252","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151881
+"390","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","21.4","cm","diameter tape",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3151984
+"391","Sapium","Sapium allenii","leaf phosphorus content per leaf dry mass","2.7","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152000
+"392","Sapium","Sapium laurifolium","leaf dry mass","0.692","g","Radwag WTB 200 Precision Balance",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152013
+"393","Sapium","Sapium laurifolium","leaf dry mass","0.597","g","Radwag WTB 200 Precision Balance",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152014
+"394","Sapium","Sapium laurifolium","leaf dry mass per leaf fresh mass","295.396","mg.g-1","LDMmg/LFMg",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152015
+"395","Sapium","Sapium laurifolium","leaf dry mass per leaf fresh mass","327.564","mg.g-1","LDMmg/LFMg",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152016
+"396","Sapium","Sapium laurifolium","diameter at breast height (1.3 m)","14.7","cm","diameter tape",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152043
+"397","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","302.4","mg.g-1","LDMmg/LFMg",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152152
+"398","Sapium","Sapium allenii","leaf area","24287.4","mm2","LICOR-3100 area meter",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152153
+"399","Sapium","Sapium glandulosum","leaf area","5185.8","mm2","LICOR-3100 area meter",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152157
+"400","Sapium","Sapium glandulosum","leaf area","10918.3","mm2","LICOR-3100 area meter",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152158
+"401","Sapium","Sapium allenii","leaf area per leaf dry mass","25.783","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152159
+"402","Sapium","Sapium allenii","leaf fresh mass","2.2","g","Radwag WTB 200 Precision Balance",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152168
+"403","Sapium","Sapium allenii","leaf area per leaf dry mass","14.016","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152161
+"404","Sapium","Sapium allenii","leaf area per leaf dry mass","15.802","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152162
+"405","Sapium","Sapium allenii","leaf fresh mass","3.374","g","Radwag WTB 200 Precision Balance",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152163
+"406","Sapium","Sapium allenii","leaf fresh mass","2.947","g","Radwag WTB 200 Precision Balance",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152164
+"407","Sapium","Sapium allenii","leaf fresh mass","3.101","g","Radwag WTB 200 Precision Balance",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152165
+"408","Sapium","Sapium allenii","leaf area per leaf dry mass","31.192","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152167
+"409","Sapium","Sapium allenii","leaf area per leaf dry mass","12.196","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152169
+"410","Sapium","Sapium allenii","leaf area per leaf dry mass","16.456","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152171
+"411","Sapium","Sapium allenii","leaf fresh mass","6.376","g","Radwag WTB 200 Precision Balance",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152172
+"412","Sapium","Sapium allenii","leaf fresh mass","11.831","g","Radwag WTB 200 Precision Balance",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152173
+"413","Sapium","Sapium allenii","leaf fresh mass","10.5","g","Radwag WTB 200 Precision Balance",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152174
+"414","Sapium","Sapium allenii","leaf thickness","0.39","mm","Mitutoyo 7321 dial thickness gauge",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152185
+"415","Sapium","Sapium allenii","leaf fresh mass","4.005","g","Radwag WTB 200 Precision Balance",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152186
+"416","Sapium","Sapium allenii","leaf thickness","0.4","mm","Mitutoyo 7321 dial thickness gauge",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152187
+"417","Sapium","Sapium allenii","leaf thickness","0.27","mm","Mitutoyo 7321 dial thickness gauge",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152188
+"418","Sapium","Sapium allenii","leaf thickness","0.29","mm","Mitutoyo 7321 dial thickness gauge",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152189
+"419","Sapium","Sapium allenii","leaf thickness","0.17","mm","Mitutoyo 7321 dial thickness gauge",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152190
+"420","Sapium","Sapium allenii","leaf thickness","0.25","mm","Mitutoyo 7321 dial thickness gauge",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152191
+"421","Sapium","Sapium allenii","leaf thickness","0.24","mm","Mitutoyo 7321 dial thickness gauge",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152192
+"422","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","251.437","mg.g-1","LDMmg/LFMg",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152193
+"423","Sapium","Sapium allenii","leaf thickness","0.24","mm","Mitutoyo 7321 dial thickness gauge",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152196
+"424","Sapium","Sapium allenii","leaf thickness","0.36","mm","Mitutoyo 7321 dial thickness gauge",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152197
+"425","Sapium","Sapium allenii","leaf dry mass","1.204","g","Radwag WTB 200 Precision Balance",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152198
+"426","Sapium","Sapium allenii","leaf dry mass","0.568","g","Radwag WTB 200 Precision Balance",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152199
+"427","Sapium","Sapium allenii","leaf dry mass","0.606","g","Radwag WTB 200 Precision Balance",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152200
+"428","Sapium","Sapium allenii","leaf dry mass","0.697","g","Radwag WTB 200 Precision Balance",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152201
+"429","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","393.96","mg.g-1","LDMmg/LFMg",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152205
+"430","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","165.952","mg.g-1","LDMmg/LFMg",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152206
+"431","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","307.794","mg.g-1","LDMmg/LFMg",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152207
+"432","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","263.443","mg.g-1","LDMmg/LFMg",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152208
+"433","Sapium","Sapium allenii","diameter at breast height (1.3 m)","38.7","cm","diameter tape",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152217
+"434","Sapium","Sapium allenii","diameter at breast height (1.3 m)","30.4","cm","diameter tape",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152219
+"435","Sapium","Sapium allenii","whole plant height","15","m","Clinometer and distance measurer",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152220
+"436","Sapium","Sapium glandulosum","leaf area per leaf dry mass","23.299","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152221
+"437","Sapium","Sapium glandulosum","leaf fresh mass","2.075","g","Radwag WTB 200 Precision Balance",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152222
+"438","Sapium","Sapium glandulosum","leaf fresh mass","1.274","g","Radwag WTB 200 Precision Balance",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152223
+"439","Sapium","Sapium glandulosum","leaf area per leaf dry mass","11.797","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152224
+"440","Sapium","Sapium glandulosum","leaf area per leaf dry mass","17.368","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152225
+"441","Sapium","Sapium glandulosum","leaf area per leaf dry mass","19.885","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152226
+"442","Sapium","Sapium glandulosum","leaf area per leaf dry mass","25.302","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152227
+"443","Sapium","Sapium glandulosum","leaf area per leaf dry mass","21.866","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152228
+"444","Sapium","Sapium glandulosum","leaf area per leaf dry mass","12.538","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152229
+"445","Sapium","Sapium glandulosum","leaf area per leaf dry mass","12.773","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152230
+"446","Sapium","Sapium glandulosum","leaf area per leaf dry mass","14.414","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152231
+"447","Sapium","Sapium glandulosum","leaf area per leaf dry mass","13.253","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152232
+"448","Sapium","Sapium glandulosum","leaf area per leaf dry mass","12.183","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152233
+"449","Sapium","Sapium glandulosum","leaf fresh mass","1.419","g","Radwag WTB 200 Precision Balance",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152235
+"450","Sapium","Sapium glandulosum","leaf fresh mass","2.33","g","Radwag WTB 200 Precision Balance",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152236
+"451","Sapium","Sapium glandulosum","leaf fresh mass","1.252","g","Radwag WTB 200 Precision Balance",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152237
+"452","Sapium","Sapium glandulosum","leaf fresh mass","2.253","g","Radwag WTB 200 Precision Balance",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152240
+"453","Sapium","Sapium glandulosum","leaf thickness","0.2","mm","Mitutoyo 7321 dial thickness gauge",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152242
+"454","Sapium","Sapium glandulosum","leaf thickness","0.19","mm","Mitutoyo 7321 dial thickness gauge",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152244
+"455","Sapium","Sapium glandulosum","leaf thickness","0.23","mm","Mitutoyo 7321 dial thickness gauge",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152245
+"456","Sapium","Sapium glandulosum","leaf thickness","0.28","mm","Mitutoyo 7321 dial thickness gauge",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152246
+"457","Sapium","Sapium glandulosum","leaf thickness","0.27","mm","Mitutoyo 7321 dial thickness gauge",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152247
+"458","Sapium","Sapium glandulosum","leaf thickness","0.28","mm","Mitutoyo 7321 dial thickness gauge",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152248
+"459","Sapium","Sapium glandulosum","leaf thickness","0.29","mm","Mitutoyo 7321 dial thickness gauge",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152249
+"460","Sapium","Sapium glandulosum","leaf thickness","0.3","mm","Mitutoyo 7321 dial thickness gauge",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152251
+"461","Sapium","Sapium allenii","leaf phosphorus content per leaf dry mass","2.7","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152254
+"462","Sapium","Sapium allenii","leaf phosphorus content per leaf dry mass","3.3","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152255
+"463","Sapium","Sapium glandulosum","leaf dry mass","0.406","g","Radwag WTB 200 Precision Balance",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152261
+"464","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","258.373","mg.g-1","LDMmg/LFMg",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152264
+"465","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","273.718","mg.g-1","LDMmg/LFMg",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152265
+"466","Sapium","Sapium glandulosum","whole plant height","10","m","Clinometer and distance measurer",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152272
+"467","Sapium","Sapium laurifolium","leaf area per leaf dry mass","17.971","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152274
+"468","Sapium","Sapium glandulosum","whole plant height","6","m","Clinometer and distance measurer",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3152277
+"469","Sapium","Sapium macrocarpum","leaf phosphorus content per leaf dry mass","4.26707","mg.g-1",NA,10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3155775
+"470","Sapium","Sapium glandulosum","leaf thickness","0.28","mm","Mitutoyo 7321 dial thickness gauge",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3158434
+"471","Sapium","Sapium glandulosum","leaf thickness","0.28","mm","Mitutoyo 7321 dial thickness gauge",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3158691
+"472","Sapium","Sapium allenii","leaf area","18341.5","mm2","LICOR-3100 area meter",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3168921
+"473","Sapium","Sapium allenii","leaf dry mass","0.606","g","Radwag WTB 200 Precision Balance",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169498
+"474","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","139.343","mg.g-1","LDMmg/LFMg",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169762
+"475","Sapium","Sapium allenii","leaf dry mass","1.083","g","Radwag WTB 200 Precision Balance",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3161160
+"476","Sapium","Sapium allenii","leaf thickness","0.27","mm","Mitutoyo 7321 dial thickness gauge",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180002
+"477","Sapium","Sapium allenii","stem wood density","0.319","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3161877
+"478","Sapium","Sapium allenii","diameter at breast height (1.3 m)","10.2","cm","diameter tape",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169022
+"479","Sapium","Sapium allenii","leaf area","23983.4","mm2","LICOR-3100 area meter",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169355
+"480","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","193.263","mg.g-1","LDMmg/LFMg",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169524
+"481","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","142.574","mg.g-1","LDMmg/LFMg",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169537
+"482","Sapium","Sapium allenii","leaf area per leaf dry mass","8.4542","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169550
+"483","Sapium","Sapium allenii","leaf area","14275.8","mm2","LICOR-3100 area meter",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169667
+"484","Sapium","Sapium glandulosum","leaf area per leaf dry mass","21.515","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169694
+"485","Sapium","Sapium allenii","leaf area","25986","mm2","LICOR-3100 area meter",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169696
+"486","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","135.746","mg.g-1","LDMmg/LFMg",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169703
+"487","Sapium","Sapium allenii","leaf area per leaf dry mass","27.92","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169749
+"488","Sapium","Sapium allenii","leaf dry mass","0.868","g","Radwag WTB 200 Precision Balance",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169711
+"489","Sapium","Sapium allenii","leaf thickness","0.21","mm","Mitutoyo 7321 dial thickness gauge",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169713
+"490","Sapium","Sapium glandulosum","leaf fresh mass","2.75","g","Radwag WTB 200 Precision Balance",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169714
+"491","Sapium","Sapium allenii","leaf dry mass","0.793","g","Radwag WTB 200 Precision Balance",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169715
+"492","Sapium","Sapium allenii","leaf dry mass","0.714","g","Radwag WTB 200 Precision Balance",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169720
+"493","Sapium","Sapium allenii","leaf area per leaf dry mass","26.146","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169722
+"494","Sapium","Sapium glandulosum","leaf area","8427.5","mm2","LICOR-3100 area meter",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169743
+"495","Sapium","Sapium allenii","leaf area per leaf dry mass","9.5624","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169739
+"496","Sapium","Sapium allenii","leaf area per leaf dry mass","11.903","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169741
+"497","Sapium","Sapium glandulosum","leaf area","9625.6","mm2","LICOR-3100 area meter",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169742
+"498","Sapium","Sapium allenii","leaf area per leaf dry mass","25.734","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169745
+"499","Sapium","Sapium allenii","leaf area per leaf dry mass","15.079","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169748
+"500","Sapium","Sapium allenii","leaf area per leaf dry mass","28.321","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169750
+"501","Sapium","Sapium allenii","leaf area per leaf dry mass","13.328","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169751
+"502","Sapium","Sapium allenii","leaf area per leaf dry mass","15.932","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169752
+"503","Sapium","Sapium allenii","leaf area per leaf dry mass","16.697","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169753
+"504","Sapium","Sapium allenii","leaf area per leaf dry mass","26.315","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169754
+"505","Sapium","Sapium allenii","leaf thickness","0.23","mm","Mitutoyo 7321 dial thickness gauge",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169756
+"506","Sapium","Sapium allenii","leaf thickness","0.24","mm","Mitutoyo 7321 dial thickness gauge",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169757
+"507","Sapium","Sapium allenii","leaf thickness","0.31","mm","Mitutoyo 7321 dial thickness gauge",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169758
+"508","Sapium","Sapium allenii","leaf dry mass","0.922","g","Radwag WTB 200 Precision Balance",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169759
+"509","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","275.455","mg.g-1","LDMmg/LFMg",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169763
+"510","Sapium","Sapium allenii","leaf dry mass","2.474","g","Radwag WTB 200 Precision Balance",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169764
+"511","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","178.571","mg.g-1","LDMmg/LFMg",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169766
+"512","Sapium","Sapium allenii","leaf nitrogen content per leaf dry mass","18.4","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169768
+"513","Sapium","Sapium allenii","leaf nitrogen content per leaf dry mass","28","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169769
+"514","Sapium","Sapium allenii","leaf nitrogen content per leaf dry mass","23.1","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169770
+"515","Sapium","Sapium glandulosum","leaf thickness","0.26","mm","Mitutoyo 7321 dial thickness gauge",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169771
+"516","Sapium","Sapium allenii","leaf phosphorus content per leaf dry mass","2.2","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169773
+"517","Sapium","Sapium allenii","leaf phosphorus content per leaf dry mass","3.4","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169774
+"518","Sapium","Sapium glandulosum","leaf dry mass","0.517","g","Radwag WTB 200 Precision Balance",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169775
+"519","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","215.985","mg.g-1","LDMmg/LFMg",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169787
+"520","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","312.712","mg.g-1","LDMmg/LFMg",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3169783
+"521","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","220.565","mg.g-1","LDMmg/LFMg",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3170511
+"522","Sapium","Sapium glandulosum","leaf dry mass","0.43","g","Radwag WTB 200 Precision Balance",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3170493
+"523","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","265.67","mg.g-1","LDMmg/LFMg",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3170520
+"524","Sapium","Sapium glandulosum","leaf dry mass","0.73","g","Radwag WTB 200 Precision Balance",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3170544
+"525","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","317.812","mg.g-1","LDMmg/LFMg",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3170547
+"526","Sapium","Sapium glandulosum","leaf area","9648.3","mm2","LICOR-3100 area meter",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171218
+"527","Sapium","Sapium glandulosum","leaf area","8991.3","mm2","LICOR-3100 area meter",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171219
+"528","Sapium","Sapium glandulosum","leaf area","8111.4","mm2","LICOR-3100 area meter",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171200
+"529","Sapium","Sapium glandulosum","leaf area","7427.1","mm2","LICOR-3100 area meter",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171196
+"530","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","172.487","mg.g-1","LDMmg/LFMg",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171197
+"531","Sapium","Sapium glandulosum","leaf area","4826.5","mm2","LICOR-3100 area meter",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171199
+"532","Sapium","Sapium laurifolium","leaf dry mass","0.571","g","Radwag WTB 200 Precision Balance",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171238
+"533","Sapium","Sapium glandulosum","leaf phosphorus content per leaf dry mass","3.5","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171354
+"534","Sapium","Sapium glandulosum","leaf thickness","0.25","mm","Mitutoyo 7321 dial thickness gauge",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171274
+"535","Sapium","Sapium glandulosum","whole plant height","8","m","Clinometer and distance measurer",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171280
+"536","Sapium","Sapium glandulosum","leaf nitrogen content per leaf dry mass","22.6","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171336
+"537","Sapium","Sapium glandulosum","leaf thickness","0.31","mm","Mitutoyo 7321 dial thickness gauge",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171356
+"538","Sapium","Sapium glandulosum","leaf area per leaf dry mass","15.732","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171342
+"539","Sapium","Sapium glandulosum","leaf fresh mass","1.623","g","Radwag WTB 200 Precision Balance",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171348
+"540","Sapium","Sapium glandulosum","leaf thickness","0.29","mm","Mitutoyo 7321 dial thickness gauge",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171349
+"541","Sapium","Sapium allenii","stem wood density","0.37","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3171649
+"542","Sapium","Sapium allenii","leaf thickness","0.24","mm","Mitutoyo 7321 dial thickness gauge",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180023
+"543","Sapium","Sapium allenii","leaf dry mass","1.325","g","Radwag WTB 200 Precision Balance",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180111
+"544","Sapium","Sapium glandulosum","leaf dry mass","0.46","g","Radwag WTB 200 Precision Balance",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3176094
+"545","Sapium","Sapium glandulosum","leaf dry mass","0.5","g","Radwag WTB 200 Precision Balance",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3176096
+"546","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","14.4","cm","diameter tape",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3177017
+"547","Sapium","Sapium laurifolium","stem wood density","0.433","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3179017
+"548","Sapium","Sapium glandulosum","leaf fresh mass","1.639","g","Radwag WTB 200 Precision Balance",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180112
+"549","Sapium","Sapium allenii","leaf fresh mass","4.293","g","Radwag WTB 200 Precision Balance",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180091
+"550","Sapium","Sapium allenii","leaf area per leaf dry mass","12.442","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180097
+"551","Sapium","Sapium allenii","leaf thickness","0.4","mm","Mitutoyo 7321 dial thickness gauge",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3179860
+"552","Sapium","Sapium glandulosum","leaf thickness","0.22","mm","Mitutoyo 7321 dial thickness gauge",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3179873
+"553","Sapium","Sapium allenii","leaf thickness","0.26","mm","Mitutoyo 7321 dial thickness gauge",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180117
+"554","Sapium","Sapium allenii","whole plant height","12","m","Clinometer and distance measurer",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180354
+"555","Sapium","Sapium allenii","leaf dry mass","1.161","g","Radwag WTB 200 Precision Balance",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180153
+"556","Sapium","Sapium allenii","leaf dry mass","1.029","g","Radwag WTB 200 Precision Balance",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180154
+"557","Sapium","Sapium allenii","leaf area per leaf dry mass","15.533","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180070
+"558","Sapium","Sapium allenii","leaf thickness","0.26","mm","Mitutoyo 7321 dial thickness gauge",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180126
+"559","Sapium","Sapium allenii","leaf fresh mass","3.77","g","Radwag WTB 200 Precision Balance",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180090
+"560","Sapium","Sapium allenii","leaf dry mass","1.547","g","Radwag WTB 200 Precision Balance",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180127
+"561","Sapium","Sapium allenii","leaf area per leaf dry mass","12.372","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180094
+"562","Sapium","Sapium allenii","leaf dry mass","0.401","g","Radwag WTB 200 Precision Balance",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180100
+"563","Sapium","Sapium allenii","leaf thickness","0.26","mm","Mitutoyo 7321 dial thickness gauge",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180115
+"564","Sapium","Sapium allenii","leaf thickness","0.25","mm","Mitutoyo 7321 dial thickness gauge",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180125
+"565","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","349.242","mg.g-1","LDMmg/LFMg",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180159
+"566","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","169.856","mg.g-1","LDMmg/LFMg",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180248
+"567","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","168.308","mg.g-1","LDMmg/LFMg",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180249
+"568","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","270.738","mg.g-1","LDMmg/LFMg",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180250
+"569","Sapium","Sapium glandulosum","leaf area","7604","mm2","LICOR-3100 area meter",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180491
+"570","Sapium","Sapium glandulosum","leaf fresh mass","1.44","g","Radwag WTB 200 Precision Balance",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180386
+"571","Sapium","Sapium glandulosum","Leaf lamina fracture toughness","332","J.m-2","Leaf fracture toughness was measured with a pair of scissors (Dovo, Germany) to control and direct crack growth (Lucas & Pereira 1990). The scissors, with an included angle of 55Â° and a radius of curvature (sharpness) of 1.6 Âµm, were mounted on a portable universal testing machine (Darvell et al. 1996). We fractured leaves in a transverse cut perpendicular to the midrib. This method, described by Lucas et al. (2001), allows the toughness of individual anatomical features, such as the secondary veins and lamina, to be calculated from a single scissors pass.",9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.69ph0","Kraft TS","thomas.s.kraft@dartmouth.edu","Panama",NA,NA,"public",3180533
+"572","Sapium","Sapium glandulosum","leaf area","11123.2","mm2","LICOR-3100 area meter",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180444
+"573","Sapium","Sapium glandulosum","leaf fresh mass","2.31","g","Radwag WTB 200 Precision Balance",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180462
+"574","Sapium","Sapium glandulosum","leaf dry mass","0.284","g","Radwag WTB 200 Precision Balance",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180511
+"575","Sapium","Sapium glandulosum","leaf nitrogen content per leaf dry mass","24.4","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180517
+"576","Sapium","Sapium glandulosum","leaf nitrogen content per leaf dry mass","21.2","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180518
+"577","Sapium","Sapium glandulosum","seed length","6","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.69ph0","Kraft TS","thomas.s.kraft@dartmouth.edu","Panama",NA,NA,"public",3180532
+"578","Sapium","Sapium laurifolium","leaf area","10154.8","mm2","LICOR-3100 area meter",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3180545
+"579","Sapium","Sapium allenii","leaf fresh mass","3.293","g","Radwag WTB 200 Precision Balance",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3205749
+"580","Sapium","Sapium allenii","leaf area","17507.5","mm2","LICOR-3100 area meter",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3208677
+"581","Sapium","Sapium allenii","leaf thickness","0.25","mm","Mitutoyo 7321 dial thickness gauge",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3207868
+"582","Sapium","Sapium allenii","whole plant height","10","m","Clinometer and distance measurer",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3208357
+"583","Sapium","Sapium allenii","whole plant height","9.7","m","Clinometer and distance measurer",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3208371
+"584","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","139.321","mg.g-1","LDMmg/LFMg",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3208592
+"585","Sapium","Sapium glandulosum","leaf phosphorus content per leaf dry mass","1.3","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3208596
+"586","Sapium","Sapium glandulosum","whole plant height","5","m","Clinometer and distance measurer",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3208682
+"587","Sapium","Sapium allenii","leaf area per leaf dry mass","27.972","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3208683
+"588","Sapium","Sapium allenii","leaf area per leaf dry mass","32.732","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3208680
+"589","Sapium","Sapium glandulosum","whole plant height","8","m","Clinometer and distance measurer",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3208692
+"590","Sapium","Sapium glandulosum","stem wood density","0.346","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3208693
+"591","Sapium","Sapium glandulosum","leaf nitrogen content per leaf dry mass","20.8","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3208695
+"592","Sapium","Sapium glandulosum","leaf area","8951.9","mm2","LICOR-3100 area meter",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3209130
+"593","Sapium","Sapium allenii","leaf area per leaf dry mass","29.601","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3209619
+"594","Sapium","Sapium glandulosum","whole plant height","11","m","Clinometer and distance measurer",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3209639
+"595","Sapium","Sapium allenii","stem wood density","0.355","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3209926
+"596","Sapium","Sapium glandulosum","leaf area","8602.2","mm2","LICOR-3100 area meter",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3226934
+"597","Sapium","Sapium allenii","leaf fresh mass","3.48","g","Radwag WTB 200 Precision Balance",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227257
+"598","Sapium","Sapium allenii","leaf thickness","0.26","mm","Mitutoyo 7321 dial thickness gauge",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227265
+"599","Sapium","Sapium laurifolium","leaf thickness","0.25","mm","Mitutoyo 7321 dial thickness gauge",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227276
+"600","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","135.703","mg.g-1","LDMmg/LFMg",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227373
+"601","Sapium","Sapium glandulosum","leaf area per leaf dry mass","11.177","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227379
+"602","Sapium","Sapium glandulosum","leaf thickness","0.31","mm","We measured maximum leaf thickness with a micrometer (SM112; Teclock, Okayashi, Japan). We measured leaf thickness of the lamina halfway between the midrib and the leaf margin. Results were log10-transformed prior to analysis.",9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.69ph0","Kraft TS","thomas.s.kraft@dartmouth.edu","Panama",NA,NA,"public",3220312
+"603","Sapium","Sapium glandulosum","stem wood density","0.374","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227622
+"604","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","304.8","mg.g-1","LDMmg/LFMg",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3224193
+"605","Sapium","Sapium glandulosum","leaf area per leaf dry mass","27.172","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227462
+"606","Sapium","Sapium glandulosum","leaf area per leaf dry mass","14.283","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227482
+"607","Sapium","Sapium allenii","leaf phosphorus content per leaf dry mass","2","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3224543
+"608","Sapium","Sapium glandulosum","leaf thickness","0.19","mm","Mitutoyo 7321 dial thickness gauge",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3225554
+"609","Sapium","Sapium allenii","leaf thickness","0.21","mm","Mitutoyo 7321 dial thickness gauge",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3226850
+"610","Sapium","Sapium allenii","leaf thickness","0.2","mm","Mitutoyo 7321 dial thickness gauge",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3226855
+"611","Sapium","Sapium allenii","leaf thickness","0.25","mm","Mitutoyo 7321 dial thickness gauge",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3226859
+"612","Sapium","Sapium glandulosum","leaf area","7503","mm2","LICOR-3100 area meter",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3226936
+"613","Sapium","Sapium allenii","leaf area per leaf dry mass","14.533","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227081
+"614","Sapium","Sapium allenii","leaf area per leaf dry mass","15.187","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227122
+"615","Sapium","Sapium allenii","leaf fresh mass","4.871","g","Radwag WTB 200 Precision Balance",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227234
+"616","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","362.151","mg.g-1","LDMmg/LFMg",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227172
+"617","Sapium","Sapium allenii","leaf thickness","0.4","mm","Mitutoyo 7321 dial thickness gauge",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227235
+"618","Sapium","Sapium allenii","leaf fresh mass","5.325","g","Radwag WTB 200 Precision Balance",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227237
+"619","Sapium","Sapium allenii","leaf fresh mass","4.56","g","Radwag WTB 200 Precision Balance",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227238
+"620","Sapium","Sapium allenii","leaf fresh mass","9.392","g","Radwag WTB 200 Precision Balance",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227245
+"621","Sapium","Sapium allenii","leaf fresh mass","8.8","g","Radwag WTB 200 Precision Balance",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227247
+"622","Sapium","Sapium allenii","leaf fresh mass","6.69","g","Radwag WTB 200 Precision Balance",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227248
+"623","Sapium","Sapium allenii","leaf fresh mass","3.65","g","Radwag WTB 200 Precision Balance",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227215
+"624","Sapium","Sapium allenii","leaf fresh mass","4.91","g","Radwag WTB 200 Precision Balance",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227230
+"625","Sapium","Sapium allenii","leaf thickness","0.23","mm","Mitutoyo 7321 dial thickness gauge",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227259
+"626","Sapium","Sapium allenii","leaf thickness","0.27","mm","Mitutoyo 7321 dial thickness gauge",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227261
+"627","Sapium","Sapium allenii","leaf thickness","0.27","mm","Mitutoyo 7321 dial thickness gauge",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227267
+"628","Sapium","Sapium allenii","leaf thickness","0.26","mm","Mitutoyo 7321 dial thickness gauge",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227268
+"629","Sapium","Sapium allenii","leaf thickness","0.36","mm","Mitutoyo 7321 dial thickness gauge",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227270
+"630","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","18.1","cm","diameter tape",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227271
+"631","Sapium","Sapium allenii","leaf dry mass","2.808","g","Radwag WTB 200 Precision Balance",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227291
+"632","Sapium","Sapium glandulosum","leaf fresh mass","0.994","g","Radwag WTB 200 Precision Balance",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227509
+"633","Sapium","Sapium glandulosum","leaf thickness","0.3","mm","Mitutoyo 7321 dial thickness gauge",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227557
+"634","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","256.376","mg.g-1","LDMmg/LFMg",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227571
+"635","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","356.621","mg.g-1","LDMmg/LFMg",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227572
+"636","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","345.418","mg.g-1","LDMmg/LFMg",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227573
+"637","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","285.942","mg.g-1","LDMmg/LFMg",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227576
+"638","Sapium","Sapium laurifolium","leaf fresh mass","1.756","g","Radwag WTB 200 Precision Balance",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227591
+"639","Sapium","Sapium laurifolium","leaf area per leaf dry mass","16.875","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227603
+"640","Sapium","Sapium glandulosum","stem wood density","0.389","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3227628
+"641","Sapium","Sapium allenii","leaf area per leaf dry mass","12.21","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3252781
+"642","Sapium","Sapium glandulosum","leaf area","6946.4","mm2","LICOR-3100 area meter",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3247749
+"643","Sapium","Sapium allenii","leaf fresh mass","7.57","g","Radwag WTB 200 Precision Balance",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3248416
+"644","Sapium","Sapium allenii","leaf fresh mass","7.19","g","Radwag WTB 200 Precision Balance",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3248422
+"645","Sapium","Sapium allenii","leaf dry mass","0.397","g","Radwag WTB 200 Precision Balance",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3250606
+"646","Sapium","Sapium allenii","diameter at breast height (1.3 m)","15.1","cm","diameter tape",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3250712
+"647","Sapium","Sapium glandulosum","leaf area","5861.2","mm2","LICOR-3100 area meter",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3252774
+"648","Sapium","Sapium glandulosum","leaf area","7723.4","mm2","LICOR-3100 area meter",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3252775
+"649","Sapium","Sapium glandulosum","leaf area","7049","mm2","LICOR-3100 area meter",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3252940
+"650","Sapium","Sapium allenii","leaf thickness","0.3","mm","Mitutoyo 7321 dial thickness gauge",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3256852
+"651","Sapium","Sapium glandulosum","leaf dry mass","0.867","g","Radwag WTB 200 Precision Balance",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3261838
+"652","Sapium","Sapium glandulosum","leaf nitrogen content per leaf dry mass","22.7","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3261982
+"653","Sapium","Sapium glandulosum","stem wood density","0.308","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3261720
+"654","Sapium","Sapium glandulosum","stem wood density","0.396","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3261700
+"655","Sapium","Sapium allenii","leaf fresh mass","2.258","g","Radwag WTB 200 Precision Balance",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3261833
+"656","Sapium","Sapium glandulosum","leaf dry mass","0.781","g","Radwag WTB 200 Precision Balance",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3261837
+"657","Sapium","Sapium allenii","leaf area","12295","mm2","LICOR-3100 area meter",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469678
+"658","Sapium","Sapium allenii","diameter at breast height (1.3 m)","20.1","cm","diameter tape",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469919
+"659","Sapium","Sapium allenii","leaf area","29960","mm2","LICOR-3100 area meter",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477872
+"660","Sapium","Sapium allenii","leaf dry mass","1.202","g","Radwag WTB 200 Precision Balance",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477791
+"661","Sapium","Sapium allenii","leaf dry mass","0.439","g","Radwag WTB 200 Precision Balance",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3468800
+"662","Sapium","Sapium allenii","leaf area","36218.3","mm2","LICOR-3100 area meter",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469838
+"663","Sapium","Sapium allenii","leaf dry mass","2.13","g","Radwag WTB 200 Precision Balance",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3466201
+"664","Sapium","Sapium glandulosum","leaf area","11138.7","mm2","LICOR-3100 area meter",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3468801
+"665","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","281.047","mg.g-1","LDMmg/LFMg",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469135
+"666","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","260.636","mg.g-1","LDMmg/LFMg",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469154
+"667","Sapium","Sapium allenii","leaf area","9312.3","mm2","LICOR-3100 area meter",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469769
+"668","Sapium","Sapium allenii","whole plant height","24","m","Clinometer and distance measurer",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469782
+"669","Sapium","Sapium allenii","diameter at breast height (1.3 m)","10.1","cm","diameter tape",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469796
+"670","Sapium","Sapium allenii","leaf thickness","0.25","mm","Mitutoyo 7321 dial thickness gauge",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3457651
+"671","Sapium","Sapium glandulosum","leaf fresh mass","3.13","g","Radwag WTB 200 Precision Balance",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471190
+"672","Sapium","Sapium allenii","leaf area","18360.7","mm2","LICOR-3100 area meter",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469810
+"673","Sapium","Sapium glandulosum","leaf fresh mass","2.7","g","Radwag WTB 200 Precision Balance",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471192
+"674","Sapium","Sapium allenii","leaf area","13693.4","mm2","LICOR-3100 area meter",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469817
+"675","Sapium","Sapium allenii","leaf area","11961.7","mm2","LICOR-3100 area meter",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469824
+"676","Sapium","Sapium allenii","leaf area","40953.6","mm2","LICOR-3100 area meter",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469831
+"677","Sapium","Sapium allenii","leaf area","37004","mm2","LICOR-3100 area meter",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469845
+"678","Sapium","Sapium allenii","leaf area","42843","mm2","LICOR-3100 area meter",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469852
+"679","Sapium","Sapium allenii","leaf area","40713","mm2","LICOR-3100 area meter",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469859
+"680","Sapium","Sapium allenii","leaf dry mass","0.94","g","Radwag WTB 200 Precision Balance",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471697
+"681","Sapium","Sapium allenii","leaf area","12769.4","mm2","LICOR-3100 area meter",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469866
+"682","Sapium","Sapium allenii","leaf area","14364.2","mm2","LICOR-3100 area meter",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469873
+"683","Sapium","Sapium allenii","leaf area","17641.3","mm2","LICOR-3100 area meter",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469880
+"684","Sapium","Sapium allenii","leaf thickness","0.2","mm","Mitutoyo 7321 dial thickness gauge",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3456972
+"685","Sapium","Sapium allenii","leaf area per leaf dry mass","13.185","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471497
+"686","Sapium","Sapium allenii","leaf dry mass","0.62","g","Radwag WTB 200 Precision Balance",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3465050
+"687","Sapium","Sapium allenii","leaf area per leaf dry mass","12.059","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477787
+"688","Sapium","Sapium allenii","whole plant height","7","m","Clinometer and distance measurer",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3464498
+"689","Sapium","Sapium allenii","leaf dry mass","1.057","g","Radwag WTB 200 Precision Balance",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3465028
+"690","Sapium","Sapium allenii","leaf thickness","0.24","mm","Mitutoyo 7321 dial thickness gauge",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3465511
+"691","Sapium","Sapium glandulosum","leaf dry mass","0.645","g","Radwag WTB 200 Precision Balance",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3468178
+"692","Sapium","Sapium glandulosum","leaf fresh mass","2.044","g","Radwag WTB 200 Precision Balance",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3468311
+"693","Sapium","Sapium allenii","leaf dry mass","0.619","g","Radwag WTB 200 Precision Balance",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3468452
+"694","Sapium","Sapium glandulosum","leaf area per leaf dry mass","14.023","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3468522
+"695","Sapium","Sapium glandulosum","leaf thickness","0.24","mm","Mitutoyo 7321 dial thickness gauge",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3468553
+"696","Sapium","Sapium glandulosum","leaf area","5969.3","mm2","LICOR-3100 area meter",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3468964
+"697","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","306.303","mg.g-1","LDMmg/LFMg",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469117
+"698","Sapium","Sapium glandulosum","leaf fresh mass","2.19","g","Radwag WTB 200 Precision Balance",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469128
+"699","Sapium","Sapium allenii","leaf thickness","0.26","mm","Mitutoyo 7321 dial thickness gauge",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469183
+"700","Sapium","Sapium glandulosum","leaf fresh mass","1.137","g","Radwag WTB 200 Precision Balance",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469191
+"701","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","236.814","mg.g-1","LDMmg/LFMg",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469227
+"702","Sapium","Sapium glandulosum","leaf fresh mass","2.5","g","Radwag WTB 200 Precision Balance",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469228
+"703","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","251.278","mg.g-1","LDMmg/LFMg",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469258
+"704","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","248.753","mg.g-1","LDMmg/LFMg",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469284
+"705","Sapium","Sapium glandulosum","leaf fresh mass","1.25","g","Radwag WTB 200 Precision Balance",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469712
+"706","Sapium","Sapium glandulosum","leaf fresh mass","1.72","g","Radwag WTB 200 Precision Balance",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469733
+"707","Sapium","Sapium allenii","stem wood density","0.44","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3469747
+"708","Sapium","Sapium allenii","leaf area","13723.2","mm2","LICOR-3100 area meter",8.707199,-83.5245,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3470253
+"709","Sapium","Sapium glandulosum","leaf thickness","0.26","mm","Mitutoyo 7321 dial thickness gauge",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3470254
+"710","Sapium","Sapium glandulosum","leaf fresh mass","1.58","g","Radwag WTB 200 Precision Balance",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3470265
+"711","Sapium","Sapium glandulosum","leaf area per leaf dry mass","11.51","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471042
+"712","Sapium","Sapium glandulosum","leaf area per leaf dry mass","10.784","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471044
+"713","Sapium","Sapium allenii","leaf thickness","0.29","mm","Mitutoyo 7321 dial thickness gauge",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471490
+"714","Sapium","Sapium allenii","leaf fresh mass","3.151","g","Radwag WTB 200 Precision Balance",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3470339
+"715","Sapium","Sapium allenii","leaf thickness","0.25","mm","Mitutoyo 7321 dial thickness gauge",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3470346
+"716","Sapium","Sapium allenii","leaf fresh mass","3.136","g","Radwag WTB 200 Precision Balance",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3470348
+"717","Sapium","Sapium allenii","leaf area per leaf dry mass","13.869","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471037
+"718","Sapium","Sapium glandulosum","leaf fresh mass","1.353","g","Radwag WTB 200 Precision Balance",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471146
+"719","Sapium","Sapium glandulosum","leaf area per leaf dry mass","13.337","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471050
+"720","Sapium","Sapium glandulosum","leaf area per leaf dry mass","21.604","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471053
+"721","Sapium","Sapium glandulosum","leaf area per leaf dry mass","11.333","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471058
+"722","Sapium","Sapium glandulosum","leaf area per leaf dry mass","21.829","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471062
+"723","Sapium","Sapium glandulosum","leaf area per leaf dry mass","16.79","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471080
+"724","Sapium","Sapium glandulosum","leaf area per leaf dry mass","12.967","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471088
+"725","Sapium","Sapium glandulosum","leaf area per leaf dry mass","15.214","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471089
+"726","Sapium","Sapium glandulosum","leaf fresh mass","2.83","g","Radwag WTB 200 Precision Balance",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471154
+"727","Sapium","Sapium glandulosum","leaf fresh mass","1.53","g","Radwag WTB 200 Precision Balance",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471162
+"728","Sapium","Sapium glandulosum","leaf fresh mass","3.14","g","Radwag WTB 200 Precision Balance",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471180
+"729","Sapium","Sapium glandulosum","leaf phosphorus content per leaf dry mass","1.3","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471182
+"730","Sapium","Sapium glandulosum","leaf fresh mass","4.53","g","Radwag WTB 200 Precision Balance",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471184
+"731","Sapium","Sapium glandulosum","leaf phosphorus content per leaf dry mass","1.3","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471198
+"732","Sapium","Sapium glandulosum","leaf fresh mass","2.28","g","Radwag WTB 200 Precision Balance",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471200
+"733","Sapium","Sapium glandulosum","leaf fresh mass","2.26","g","Radwag WTB 200 Precision Balance",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471201
+"734","Sapium","Sapium glandulosum","leaf fresh mass","1.577","g","Radwag WTB 200 Precision Balance",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471264
+"735","Sapium","Sapium glandulosum","leaf thickness","0.23","mm","Mitutoyo 7321 dial thickness gauge",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471272
+"736","Sapium","Sapium glandulosum","leaf fresh mass","2.21","g","Radwag WTB 200 Precision Balance",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471299
+"737","Sapium","Sapium glandulosum","leaf thickness","0.31","mm","Mitutoyo 7321 dial thickness gauge",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471301
+"738","Sapium","Sapium glandulosum","leaf fresh mass","2.5","g","Radwag WTB 200 Precision Balance",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471308
+"739","Sapium","Sapium glandulosum","leaf thickness","0.27","mm","Mitutoyo 7321 dial thickness gauge",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471309
+"740","Sapium","Sapium allenii","leaf thickness","0.25","mm","Mitutoyo 7321 dial thickness gauge",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471373
+"741","Sapium","Sapium glandulosum","leaf phosphorus content per leaf dry mass","1.4","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471381
+"742","Sapium","Sapium allenii","stem wood density","0.32","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471393
+"743","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","257.534","mg.g-1","LDMmg/LFMg",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471394
+"744","Sapium","Sapium allenii","leaf area per leaf dry mass","15.68","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471505
+"745","Sapium","Sapium allenii","leaf thickness","0.3","mm","Mitutoyo 7321 dial thickness gauge",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471519
+"746","Sapium","Sapium allenii","leaf fresh mass","7.82","g","Radwag WTB 200 Precision Balance",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471526
+"747","Sapium","Sapium allenii","leaf dry mass","0.769","g","Radwag WTB 200 Precision Balance",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471527
+"748","Sapium","Sapium allenii","leaf dry mass","0.875","g","Radwag WTB 200 Precision Balance",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471535
+"749","Sapium","Sapium glandulosum","leaf dry mass","0.294","g","Radwag WTB 200 Precision Balance",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471704
+"750","Sapium","Sapium glandulosum","leaf dry mass","0.43","g","Radwag WTB 200 Precision Balance",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471740
+"751","Sapium","Sapium allenii","leaf dry mass","0.844","g","Radwag WTB 200 Precision Balance",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471805
+"752","Sapium","Sapium allenii","leaf dry mass","2.36","g","Radwag WTB 200 Precision Balance",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471911
+"753","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","15.5","cm","diameter tape",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3471948
+"754","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","316.45","mg.g-1","LDMmg/LFMg",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3474177
+"755","Sapium","Sapium glandulosum","leaf phosphorus content per leaf dry mass","1.1","mg.g-1","content by wet digestion with HNO3 and inductively coupled plasma-optical emission spectrometry (ICP-OES)",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3474364
+"756","Sapium","Sapium glandulosum","leaf area per leaf dry mass","20.386","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3474393
+"757","Sapium","Sapium glandulosum","leaf area per leaf dry mass","11.235","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3474529
+"758","Sapium","Sapium allenii","leaf thickness","0.25","mm","Mitutoyo 7321 dial thickness gauge",8.69618,-83.2059,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3474559
+"759","Sapium","Sapium laurifolium","whole plant height","12.8","m","Clinometer and distance measurer",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3474592
+"760","Sapium","Sapium allenii","leaf area per leaf dry mass","11.616","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3474704
+"761","Sapium","Sapium allenii","leaf area","24742.2","mm2","LICOR-3100 area meter",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477780
+"762","Sapium","Sapium allenii","leaf area","31297.5","mm2","LICOR-3100 area meter",8.694066,-83.1947,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477781
+"763","Sapium","Sapium glandulosum","leaf dry mass","0.845","g","Radwag WTB 200 Precision Balance",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477798
+"764","Sapium","Sapium glandulosum","leaf dry mass","0.46","g","Radwag WTB 200 Precision Balance",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477817
+"765","Sapium","Sapium glandulosum","leaf dry mass","0.645","g","Radwag WTB 200 Precision Balance",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477826
+"766","Sapium","Sapium glandulosum","leaf dry mass","0.756","g","Radwag WTB 200 Precision Balance",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477831
+"767","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","255.374","mg.g-1","LDMmg/LFMg",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477833
+"768","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","241.928","mg.g-1","LDMmg/LFMg",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477835
+"769","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","235.984","mg.g-1","LDMmg/LFMg",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477837
+"770","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","234.831","mg.g-1","LDMmg/LFMg",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477839
+"771","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","357.08","mg.g-1","LDMmg/LFMg",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477841
+"772","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","291.693","mg.g-1","LDMmg/LFMg",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477847
+"773","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","308.071","mg.g-1","LDMmg/LFMg",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477848
+"774","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","286.285","mg.g-1","LDMmg/LFMg",8.701937,-83.5266,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477849
+"775","Sapium","Sapium glandulosum","leaf thickness","0.26","mm","Mitutoyo 7321 dial thickness gauge",8.724229,-83.2128,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477850
+"776","Sapium","Sapium allenii","leaf area","27094.6","mm2","LICOR-3100 area meter",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477871
+"777","Sapium","Sapium glandulosum","leaf area","6428.5","mm2","LICOR-3100 area meter",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477873
+"778","Sapium","Sapium glandulosum","leaf area","8701.4","mm2","LICOR-3100 area meter",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477874
+"779","Sapium","Sapium glandulosum","leaf area","7911.5","mm2","LICOR-3100 area meter",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477875
+"780","Sapium","Sapium glandulosum","leaf area","9293.2","mm2","LICOR-3100 area meter",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477876
+"781","Sapium","Sapium glandulosum","leaf area","9165.3","mm2","LICOR-3100 area meter",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477877
+"782","Sapium","Sapium glandulosum","leaf area","6848.6","mm2","LICOR-3100 area meter",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3477878
+"783","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","32.4","cm","diameter tape",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3478912
+"784","Sapium","Sapium glandulosum","leaf fresh mass","1.735","g","Radwag WTB 200 Precision Balance",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3484634
+"785","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","124.854","mg.g-1","LDMmg/LFMg",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3478829
+"786","Sapium","Sapium allenii","whole plant height","15","m","Clinometer and distance measurer",8.679647,-83.5495,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3478836
+"787","Sapium","Sapium allenii","whole plant height","9","m","Clinometer and distance measurer",8.695028,-83.2066,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3478843
+"788","Sapium","Sapium allenii","leaf fresh mass","11.917","g","Radwag WTB 200 Precision Balance",8.66569,-83.5659,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3481584
+"789","Sapium","Sapium glandulosum","leaf dry mass","0.298","g","Radwag WTB 200 Precision Balance",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485348
+"790","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","258","mg.g-1","LDMmg/LFMg",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3481954
+"791","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","309.322","mg.g-1","LDMmg/LFMg",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3481970
+"792","Sapium","Sapium glandulosum","leaf area per leaf dry mass","11.418","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485188
+"793","Sapium","Sapium glandulosum","whole plant height","7","m","Clinometer and distance measurer",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485224
+"794","Sapium","Sapium glandulosum","leaf area per leaf dry mass","24.752","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3484433
+"795","Sapium","Sapium glandulosum","leaf area per leaf dry mass","10.719","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.725749,-83.2152,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3484439
+"796","Sapium","Sapium glandulosum","leaf fresh mass","2.51","g","Radwag WTB 200 Precision Balance",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3482316
+"797","Sapium","Sapium glandulosum","leaf fresh mass","1.463","g","Radwag WTB 200 Precision Balance",8.420674,-83.3137,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3484623
+"798","Sapium","Sapium allenii","leaf nitrogen content per leaf dry mass","35.3","mg.g-1","Dry combustion Autoanalyzer following SC09-LSF-P06",8.703455,-83.53,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485287
+"799","Sapium","Sapium allenii","leaf fresh mass","3.68","g","Radwag WTB 200 Precision Balance",8.674946,-83.2009,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485314
+"800","Sapium","Sapium allenii","leaf fresh mass","4.36","g","Radwag WTB 200 Precision Balance",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485315
+"801","Sapium","Sapium glandulosum","leaf area per leaf dry mass","24.068","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485471
+"802","Sapium","Sapium glandulosum","leaf fresh mass","1.534","g","Radwag WTB 200 Precision Balance",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485475
+"803","Sapium","Sapium glandulosum","leaf fresh mass","1.269","g","Radwag WTB 200 Precision Balance",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485478
+"804","Sapium","Sapium glandulosum","leaf area per leaf dry mass","14.117","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.7275,-83.2161,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485490
+"805","Sapium","Sapium allenii","leaf area per leaf dry mass","14.906","m2.kg-1","LAcm2/(LDMmg*1g/1000mg)",8.681997,-83.1973,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3484737
+"806","Sapium","Sapium glandulosum","leaf area","9909.8","mm2","LICOR-3100 area meter",8.681795,-83.1976,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485114
+"807","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","230.239","mg.g-1","LDMmg/LFMg",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485453
+"808","Sapium","Sapium allenii","leaf dry mass per leaf fresh mass","230.268","mg.g-1","LDMmg/LFMg",8.672612,-83.2013,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485455
+"809","Sapium","Sapium allenii","diameter at breast height (1.3 m)","14.8","cm","diameter tape",8.660929,-83.2047,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485463
+"810","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","267.442","mg.g-1","LDMmg/LFMg",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485653
+"811","Sapium","Sapium glandulosum","leaf dry mass","0.754","g","Radwag WTB 200 Precision Balance",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485672
+"812","Sapium","Sapium glandulosum","leaf dry mass","0.622","g","Radwag WTB 200 Precision Balance",8.701036,-83.2008,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3485673
+"813","Sapium","Sapium glandulosum","leaf dry mass per leaf fresh mass","307.273","mg.g-1","LDMmg/LFMg",8.674757,-83.2011,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3680237
+"814","Sapium","Sapium glandulosum","stem wood density","0.467","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.419284,-83.3135,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3699423
+"815","Sapium","Sapium laurifolium","leaf thickness","0.25","mm","Mitutoyo 7321 dial thickness gauge",8.707742,-83.5248,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3704511
+"816","Sapium","Sapium glandulosum","stem wood density","0.357","g.cm-3","Williamson, G. B. and M. C. Wiemann. 2010. Measuring wood specific gravity...Correctly. American Journal of Botany 97:519Â524.",8.700787,-83.5586,NA,NA,"ChacÃ³n E","edchacon@gmail.com","Costa Rica",NA,NA,"public",3704521
+"817","Sapium","Sapium glandulosum","seed mass","36","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3926242
+"818","Sapium","Sapium glandulosum","whole plant height","29","m","max height",9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3926248
+"819","Sapium","Sapium lateriflorum","whole plant height","29","m","max height",16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3926263
+"820","Sapium","Sapium macrocarpum","seed length","0.0687","mm",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3926273
+"821","Sapium","Sapium lateriflorum","seed mass","52","mg",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3926287
+"822","Sapium","Sapium lateriflorum","seed length","5","mm",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3926289
+"823","Sapium","Sapium macrocarpum","seed mass","5","mg",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3926292
+"824","Sapium","Sapium macrocarpum","whole plant height","15","m","max height",19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3926293
+"825","Sapium","Sapium pachystachys","leaf phosphorus content per leaf dry mass","2.03112","mg.g-1",NA,9.53333,-83.8167,2050,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",3985544
+"826","Sapium","Sapium macrocarpum","leaf carbon content per leaf dry mass","440.922","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",4302584
+"827","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4640050
+"828","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4649189
+"829","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.199170113,-79.77410126,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4712674
+"830","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4755827
+"831","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.355830193,-79.72689819,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4806413
+"832","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.141489983,-79.6934967,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4833606
+"833","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.141489983,-79.6934967,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4927139
+"834","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,8.995849609,-79.64250183,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4939184
+"835","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.125260353,-79.88529968,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4963229
+"836","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.258020401,-79.95290375,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4967532
+"837","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.258020401,-79.95290375,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4990533
+"838","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.332530022,-79.95410156,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",5421079
+"839","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","2.794","cm",NA,18.310733,-66.78367,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5507087
+"840","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","19.812","cm",NA,18.311788,-66.72552,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5908641
+"841","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","13.97","cm",NA,18.306924,-65.75015,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6418564
+"842","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6509298
+"843","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","7.62","cm",NA,18.310733,-66.78367,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6711251
+"844","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.355830193,-79.72689819,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6828827
+"845","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","17.526","cm",NA,18.324611,-66.508089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7221606
+"846","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.332530022,-79.95410156,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",7330280
+"847","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","23.114","cm",NA,18.341181,-66.520926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7622734
+"848","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.144909859,-79.87789917,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",7624683
+"849","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","19.304","cm",NA,18.204056,-66.420247,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8221643
+"850","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.2603302,-79.95600128,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8232540
+"851","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8250930
+"852","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,8.985910416,-79.63839722,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8420302
+"853","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8508503
+"854","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.123720169,-79.67669678,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9518777
+"855","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","20.828","cm",NA,18.310733,-66.78367,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9826701
+"856","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.17936039,-79.82959747,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",10247569
+"857","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","25.654","cm",NA,18.310733,-66.78367,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10530451
+"858","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.2603302,-79.95600128,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11224763
+"859","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11560780
+"860","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","6.604","cm",NA,18.310733,-66.78367,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12133059
+"861","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.123720169,-79.67669678,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",12161592
+"862","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,8.985910416,-79.63839722,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",12528352
+"863","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","18.288","cm",NA,18.252368,-66.399004,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12632368
+"864","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","22.606","cm",NA,18.149515,-65.993641,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13132315
+"865","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","14.478","cm",NA,18.324611,-66.508089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13433610
+"866","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",13612532
+"867","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,8.995849609,-79.64250183,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14454008
+"868","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","10.414","cm",NA,18.324611,-66.508089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14537891
+"869","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","17.78","cm",NA,18.341181,-66.520926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14737786
+"870","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","3.81","cm",NA,18.310733,-66.78367,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15239234
+"871","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","30.48","cm",NA,18.341181,-66.520926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15537125
+"872","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.125260353,-79.88529968,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",15751513
+"873","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.144909859,-79.87789917,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",16037065
+"874","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","7.62","cm",NA,18.310733,-66.78367,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16239553
+"875","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","26.416","cm",NA,18.324611,-66.508089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16540248
+"876","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",16956669
+"877","Sapium","Sapium laurocerasus","diameter at breast height (1.3 m)","18.288","cm",NA,18.311788,-66.72552,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17744850
+"878","Sapium","Sapium glandulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17773331
+"879","Sapium","Sapium laurocerasus","whole plant height","3.6576","m",NA,18.310733,-66.78367,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18245732
+"880","Sapium","Sapium laurocerasus","whole plant height","14.9352","m",NA,18.311788,-66.72552,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18523126
+"881","Sapium","Sapium laurocerasus","whole plant height","15.5448","m",NA,18.306924,-65.75015,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18873996
+"882","Sapium","Sapium laurocerasus","whole plant height","7.62","m",NA,18.310733,-66.78367,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19077493
+"883","Sapium","Sapium laurocerasus","whole plant height","13.1064","m",NA,18.324611,-66.508089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19428997
+"884","Sapium","Sapium laurocerasus","whole plant height","20.1168","m",NA,18.341181,-66.520926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19706054
+"885","Sapium","Sapium laurocerasus","whole plant height","10.3632","m",NA,18.204056,-66.420247,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20121165
+"886","Sapium","Sapium laurocerasus","whole plant height","13.1064","m",NA,18.310733,-66.78367,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21230907
+"887","Sapium","Sapium laurocerasus","whole plant height","16.1544","m",NA,18.310733,-66.78367,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21717376
+"888","Sapium","Sapium laurocerasus","whole plant height","6.096","m",NA,18.310733,-66.78367,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22826093
+"889","Sapium","Sapium laurocerasus","whole plant height","10.668","m",NA,18.252368,-66.399004,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23171587
+"890","Sapium","Sapium laurocerasus","whole plant height","13.4112","m",NA,18.149515,-65.993641,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23517758
+"891","Sapium","Sapium laurocerasus","whole plant height","7.3152","m",NA,18.324611,-66.508089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23725189
+"892","Sapium","Sapium laurocerasus","whole plant height","6.7056","m",NA,18.324611,-66.508089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24489255
+"893","Sapium","Sapium laurocerasus","whole plant height","13.1064","m",NA,18.341181,-66.520926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24627627
+"894","Sapium","Sapium laurocerasus","whole plant height","3.9624","m",NA,18.310733,-66.78367,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24973462
+"895","Sapium","Sapium laurocerasus","whole plant height","14.0208","m",NA,18.341181,-66.520926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25180104
+"896","Sapium","Sapium laurocerasus","whole plant height","7.62","m",NA,18.310733,-66.78367,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25665238
+"897","Sapium","Sapium laurocerasus","whole plant height","12.8016","m",NA,18.324611,-66.508089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25873288
+"898","Sapium","Sapium laurocerasus","whole plant height","14.0208","m",NA,18.311788,-66.72552,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26706805

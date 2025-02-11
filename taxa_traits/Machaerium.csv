@@ -1,0 +1,366 @@
+"","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Machaerium",NA,"diameter at breast height (1.3 m)","5.5","cm",NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1463861
+"2","Machaerium",NA,"whole plant growth form","liana",NA,NA,8.98333,-79.55,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1849122
+"3","Machaerium","Machaerium seemannii","leaf nitrogen content per leaf dry mass","27.3","mg.g-1","Canopy N% was estimated with the Carnegie Airborne Observatory Airborne Taxonomic Mapping System (CAO-AToMs) onboard a Dornier 228 Aircraft. The sensor configuration used consisted of a high-fidelity imaging spectrometer (HiFIS) and a dual laser, waveform light detection and ranging (LiDAR) sensor.",NA,NA,50,"http://datadryad.org/resource/doi:10.5061/dryad.ck585","Balzotti CS","cbalzotti@carnegiescience.edu","Costa Rica","Puntarenas",NA,"public",3122499
+"4","Machaerium","Machaerium biovulatum","leaf nitrogen content per leaf dry mass","35.33410719","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.92575,-85.72903,3,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3286518
+"5","Machaerium","Machaerium kegelii","leaf carbon content per leaf dry mass","483.538","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3434142
+"6","Machaerium","Machaerium kegelii","leaf nitrogen content per leaf dry mass","24.9","mg.g-1","Canopy N% was estimated with the Carnegie Airborne Observatory Airborne Taxonomic Mapping System (CAO-AToMs) onboard a Dornier 228 Aircraft. The sensor configuration used consisted of a high-fidelity imaging spectrometer (HiFIS) and a dual laser, waveform light detection and ranging (LiDAR) sensor.",NA,NA,50,"http://datadryad.org/resource/doi:10.5061/dryad.ck585","Balzotti CS","cbalzotti@carnegiescience.edu","Costa Rica","Puntarenas",NA,"public",3716346
+"7","Machaerium","Machaerium cirrhiferum","whole plant growth form","liana",NA,NA,NA,NA,NA,NA,"Hernandez-Stefanoni JL","jhernans@siap.sagarpa.gob.mx","Mexico","Quintana Roo",NA,"public",3839095
+"8","Machaerium","Machaerium falciforme","whole plant growth form","liana",NA,NA,NA,NA,NA,"https://www.researchgate.net/profile/Pedro_Dias9/publication/6399685_Foraging_Habits_of_Alouatta_palliata_mexicana_in_Three_Forest_Fragments/links/0c960530e4702898c2000000.pdf","Asensio N",NA,"Mexico",NA,NA,"public",3844607
+"9","Machaerium",NA,"diameter at breast height (1.3 m)","3.2","cm",NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",6467
+"10","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2.3","cm",NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",34745
+"11","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","6.8","cm",NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",73170
+"12","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.2","cm",NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",89022
+"13","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","3.7","cm",NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",100135
+"14","Machaerium","Machaerium cobanense","diameter at breast height (1.3 m)","3","cm",NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",101007
+"15","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.4","cm",NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",102198
+"16","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2.5","cm",NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",102199
+"17","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2.7","cm",NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",142883
+"18","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","0.6","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",142926
+"19","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","0.6","cm",NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",142962
+"20","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",143020
+"21","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","3.4","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",143021
+"22","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2","cm",NA,10.3615,-83.9928,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",156109
+"23","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","2.5","cm",NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",168373
+"24","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","5.3","cm",NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",196770
+"25","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","0.8","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",210022
+"26","Machaerium",NA,"diameter at breast height (1.3 m)","5.59","cm",NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",221863
+"27","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","0.8","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",250784
+"28","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","0.8","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",250785
+"29","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.4","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",263895
+"30","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2","cm",NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",263926
+"31","Machaerium","Machaerium cobanense","diameter at breast height (1.3 m)","3.5","cm",NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",289213
+"32","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","7.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",303521
+"33","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",304567
+"34","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","0.6","cm",NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",344216
+"35","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","0.6","cm",NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",344217
+"36","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","0.8","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",344300
+"37","Machaerium","Machaerium biovulatum","diameter at breast height (1.3 m)","2.5","cm",NA,10.5333,-85.3,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",383893
+"38","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","2.3","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",384989
+"39","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.8","cm",NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",412712
+"40","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2","cm",NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",412713
+"41","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","0.7","cm",NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",412715
+"42","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","0.9","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",466510
+"43","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.4","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",479802
+"44","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.7","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",506307
+"45","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.7","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",506309
+"46","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.6","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",506322
+"47","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2.4","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",506323
+"48","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","3.1","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",520158
+"49","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","7.9","cm",NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",533484
+"50","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2.49","cm",NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",546865
+"51","Machaerium",NA,"diameter at breast height (1.3 m)","5.3","cm",NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",572857
+"52","Machaerium","Machaerium latifolium","diameter at breast height (1.3 m)","11","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",572934
+"53","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","0.9","cm",NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",574047
+"54","Machaerium",NA,"diameter at breast height (1.3 m)","12.5","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",584573
+"55","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","0.5","cm",NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",587315
+"56","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",587417
+"57","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.8","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",587418
+"58","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","0.8","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",587429
+"59","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","5","cm",NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",599524
+"60","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","2.5","cm",NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",599525
+"61","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","5","cm",NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",599526
+"62","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","7.5","cm",NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",599527
+"63","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","5","cm",NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",599528
+"64","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2.9","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",627922
+"65","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.7","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",627925
+"66","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2.4","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",627928
+"67","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.7","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",627942
+"68","Machaerium",NA,"diameter at breast height (1.3 m)","4","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",666828
+"69","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.9","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",667966
+"70","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","3","cm",NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",680412
+"71","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","0.8","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",681611
+"72","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.6","cm",NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",694752
+"73","Machaerium",NA,"diameter at breast height (1.3 m)","9.5","cm",NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",707210
+"74","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.4","cm",NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",722134
+"75","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","3","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",722195
+"76","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","0.6","cm",NA,10.3615,-83.9928,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",749279
+"77","Machaerium",NA,"diameter at breast height (1.3 m)","2.5","cm",NA,8.98333,-79.55,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",774603
+"78","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.4","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",775727
+"79","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","3.5","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",775751
+"80","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2.3","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",789506
+"81","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","9","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",855795
+"82","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","15","cm",NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855874
+"83","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.7","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",910786
+"84","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.7","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",937741
+"85","Machaerium","Machaerium arboreum","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",977324
+"86","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","17","cm",NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",977348
+"87","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.5","cm",NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1019470
+"88","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","0.6","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1019548
+"89","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1073735
+"90","Machaerium","Machaerium latifolium","diameter at breast height (1.3 m)","4","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1085944
+"91","Machaerium","Machaerium latifolium","diameter at breast height (1.3 m)","6","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1085945
+"92","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","3.7","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1100563
+"93","Machaerium",NA,"diameter at breast height (1.3 m)","6","cm",NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1113124
+"94","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.1","cm",NA,10.3615,-83.9928,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1154560
+"95","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2.79","cm",NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1193642
+"96","Machaerium",NA,"diameter at breast height (1.3 m)","7.59","cm",NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1221051
+"97","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","3.1","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1222158
+"98","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","2.1","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1235468
+"99","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","3.1","cm",NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1248933
+"100","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","5","cm",NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1261474
+"101","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.8","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1262729
+"102","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.1","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1276483
+"103","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2.1","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1289984
+"104","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","0.9","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1303404
+"105","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2.1","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1330755
+"106","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2.4","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1344315
+"107","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.5","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1344316
+"108","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.3","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1344317
+"109","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","3.79","cm",NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1356318
+"110","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","2.5","cm",NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1396929
+"111","Machaerium",NA,"diameter at breast height (1.3 m)","5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1408949
+"112","Machaerium",NA,"diameter at breast height (1.3 m)","7.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1408951
+"113","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","6","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1438389
+"114","Machaerium","Machaerium cobanense","diameter at breast height (1.3 m)","2.5","cm",NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1450609
+"115","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","4.5","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1465056
+"116","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","0.5","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1478399
+"117","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.7","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1492191
+"118","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","5.09","cm",NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1503092
+"119","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","0.7","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1518933
+"120","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","2.6","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1519040
+"121","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","0.5","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1532694
+"122","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","4.9","cm",NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1545008
+"123","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.8","cm",NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1559835
+"124","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","0.6","cm",NA,10.3615,-83.9928,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1573358
+"125","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","4.8","cm",NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1612517
+"126","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","3.2","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1627423
+"127","Machaerium","Machaerium latifolium","diameter at breast height (1.3 m)","6","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1639512
+"128","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","2.5","cm",NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1639549
+"129","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.2","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1640635
+"130","Machaerium","Machaerium arboreum","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1651361
+"131","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","1.1","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1654179
+"132","Machaerium","Machaerium floribundum","diameter at breast height (1.3 m)","0.9","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1654181
+"133","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.9","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1654182
+"134","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","3.7","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1654206
+"135","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","1.6","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1654207
+"136","Machaerium","Machaerium cobanense","diameter at breast height (1.3 m)","2.79","cm",NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1666196
+"137","Machaerium","Machaerium seemannii","diameter at breast height (1.3 m)","3.3","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1680792
+"138","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1750850
+"139","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1750851
+"140","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1754401
+"141","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1757951
+"142","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1757953
+"143","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1758086
+"144","Machaerium","Machaerium cobanense","whole plant growth form","liana",NA,NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1758097
+"145","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1759722
+"146","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1759723
+"147","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1759724
+"148","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1764978
+"149","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1764980
+"150","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1765022
+"151","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1765023
+"152","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1765059
+"153","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1765060
+"154","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1765119
+"155","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1765120
+"156","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1765121
+"157","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.3615,-83.9928,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1766786
+"158","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.3615,-83.9928,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1766787
+"159","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1767138
+"160","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1772140
+"161","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1772141
+"162","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1773973
+"163","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1773974
+"164","Machaerium",NA,"whole plant growth form","liana",NA,NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1774230
+"165","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1779633
+"166","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1779635
+"167","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1779636
+"168","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1781341
+"169","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1781342
+"170","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1781372
+"171","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1781373
+"172","Machaerium","Machaerium cobanense","whole plant growth form","liana",NA,NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1783458
+"173","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1785552
+"174","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1786877
+"175","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1786878
+"176","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1792362
+"177","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1792363
+"178","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1792364
+"179","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1792447
+"180","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1792448
+"181","Machaerium","Machaerium biovulatum","whole plant growth form","tree",NA,NA,10.5333,-85.3,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1796534
+"182","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1798038
+"183","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1798039
+"184","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1801781
+"185","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1801782
+"186","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1801783
+"187","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1801784
+"188","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1808977
+"189","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1808978
+"190","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1810757
+"191","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1810758
+"192","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1814439
+"193","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1814440
+"194","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1814441
+"195","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1814455
+"196","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1814456
+"197","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1814457
+"198","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1816240
+"199","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1816241
+"200","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1818024
+"201","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1818025
+"202","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1819728
+"203","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1819729
+"204","Machaerium",NA,"whole plant growth form","liana",NA,NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1821826
+"205","Machaerium","Machaerium latifolium","whole plant growth form","liana",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1821938
+"206","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1823452
+"207","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1823453
+"208","Machaerium",NA,"whole plant growth form","liana",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1823640
+"209","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825074
+"210","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825075
+"211","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825175
+"212","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825176
+"213","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825177
+"214","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825178
+"215","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825188
+"216","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825189
+"217","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1825488
+"218","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1825489
+"219","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1825490
+"220","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1825491
+"221","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1825493
+"222","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1830708
+"223","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1830709
+"224","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1830710
+"225","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1830711
+"226","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1830714
+"227","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1830715
+"228","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1830729
+"229","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1830730
+"230","Machaerium",NA,"whole plant growth form","liana",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1834547
+"231","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1836039
+"232","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1836040
+"233","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1836220
+"234","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1837835
+"235","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1837836
+"236","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1839582
+"237","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1839583
+"238","Machaerium",NA,"whole plant growth form","liana",NA,NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1839815
+"239","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1843357
+"240","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1843358
+"241","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1843419
+"242","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1843420
+"243","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.3615,-83.9928,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1846999
+"244","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.3615,-83.9928,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1847000
+"245","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1850574
+"246","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1850575
+"247","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1850600
+"248","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1850601
+"249","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1852487
+"250","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1852488
+"251","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1860083
+"252","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860210
+"253","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1869062
+"254","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1869063
+"255","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1872753
+"256","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1872754
+"257","Machaerium","Machaerium arboreum","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1876791
+"258","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1876828
+"259","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1883862
+"260","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1883863
+"261","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1883943
+"262","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1883944
+"263","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1891271
+"264","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1891272
+"265","Machaerium","Machaerium latifolium","whole plant growth form","liana",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1891519
+"266","Machaerium","Machaerium latifolium","whole plant growth form","liana",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1891520
+"267","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1894827
+"268","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1894828
+"269","Machaerium",NA,"whole plant growth form","liana",NA,NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1895024
+"270","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.3615,-83.9928,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1902071
+"271","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.3615,-83.9928,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1902072
+"272","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1905877
+"273","Machaerium",NA,"whole plant growth form","liana",NA,NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1909611
+"274","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1911230
+"275","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1911231
+"276","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1912943
+"277","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1912944
+"278","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1914805
+"279","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1914806
+"280","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1915287
+"281","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1916868
+"282","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1916869
+"283","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1918730
+"284","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1918731
+"285","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1920644
+"286","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1920645
+"287","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1922368
+"288","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1922369
+"289","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1926162
+"290","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1926163
+"291","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1927956
+"292","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1927957
+"293","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1927958
+"294","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1927959
+"295","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1928072
+"296","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1933718
+"297","Machaerium",NA,"whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1935540
+"298","Machaerium",NA,"whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1935541
+"299","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1940809
+"300","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1940810
+"301","Machaerium","Machaerium cobanense","whole plant growth form","liana",NA,NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1940999
+"302","Machaerium",NA,"whole plant growth form","liana",NA,NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1942990
+"303","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1944532
+"304","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1944533
+"305","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1946426
+"306","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1946427
+"307","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1948348
+"308","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1948349
+"309","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1948459
+"310","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951809
+"311","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951810
+"312","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951922
+"313","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951923
+"314","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1953811
+"315","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1953813
+"316","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1954042
+"317","Machaerium",NA,"whole plant growth form","liana",NA,NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1955290
+"318","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1957418
+"319","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1957419
+"320","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.3615,-83.9928,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1959279
+"321","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.3615,-83.9928,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1959280
+"322","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1962971
+"323","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1966508
+"324","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1966509
+"325","Machaerium","Machaerium latifolium","whole plant growth form","liana",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1966763
+"326","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1966799
+"327","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1968231
+"328","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1968232
+"329","Machaerium","Machaerium arboreum","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1968574
+"330","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1970037
+"331","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1970038
+"332","Machaerium","Machaerium floribundum","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1970039
+"333","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1970040
+"334","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1970041
+"335","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1970064
+"336","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1970065
+"337","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1970066
+"338","Machaerium","Machaerium cobanense","whole plant growth form","liana",NA,NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1970152
+"339","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1973597
+"340","Machaerium","Machaerium seemannii","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1973598
+"341","Machaerium","Machaerium pittieri","leaf phosphorus content per leaf dry mass","1.20985414","mg.g-1",NA,10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3103641
+"342","Machaerium","Machaerium biovulatum","leaf carbon content per leaf dry mass","463.042833","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.92575,-85.72903,3,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3104122
+"343","Machaerium","Machaerium pittieri","leaf nitrogen content per leaf dry mass","19.026","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3104123
+"344","Machaerium","Machaerium biovulatum","leaf phosphorus content per leaf dry mass","1.2243936","mg.g-1",NA,10.92575,-85.72903,3,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3104944
+"345","Machaerium","Machaerium salvadorense","leaf area per leaf dry mass","2.011333333","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.37813,-84.14678,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3112535
+"346","Machaerium","Machaerium salvadorense","leaf area per leaf dry mass","18.4990625","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.37813,-84.14678,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3112537
+"347","Machaerium","Machaerium kegelii","leaf area per leaf dry mass","15.60281324","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.37813,-84.14678,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3115242
+"348","Machaerium","Machaerium kegelii","leaf area per leaf dry mass","15.62943489","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.37813,-84.14678,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3115243
+"349","Machaerium","Machaerium biovulatum","leaf phosphorus content per leaf dry mass","1.56475963","mg.g-1",NA,10.92575,-85.72903,3,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3117111
+"350","Machaerium","Machaerium salvadorense","leaf area per leaf dry mass","18.30192308","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.37813,-84.14678,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3120024
+"351","Machaerium","Machaerium salvadorense","leaf area per leaf dry mass","17.4052381","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.37813,-84.14678,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3196897
+"352","Machaerium","Machaerium kegelii","leaf area per leaf dry mass","16.01707368","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.37813,-84.14678,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3228947
+"353","Machaerium","Machaerium kegelii","leaf area per leaf dry mass","16.75836257","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.37813,-84.14678,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3228951
+"354","Machaerium","Machaerium biovulatum","leaf carbon content per leaf dry mass","463.298539","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3246625
+"355","Machaerium","Machaerium biovulatum","leaf nitrogen content per leaf dry mass","25.6063536","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3246627
+"356","Machaerium","Machaerium biovulatum","leaf phosphorus content per leaf dry mass","0.79639","mg.g-1",NA,10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3246628
+"357","Machaerium","Machaerium biovulatum","leaf nitrogen content per leaf dry mass","34.03219058","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.92575,-85.72903,3,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3255649
+"358","Machaerium","Machaerium biovulatum","leaf carbon content per leaf dry mass","454.689011","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.92575,-85.72903,3,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3255647
+"359","Machaerium","Machaerium pittieri","leaf carbon content per leaf dry mass","472.785","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3255650
+"360","Machaerium","Machaerium kegelii","leaf area per leaf dry mass","16.47149451","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.37813,-84.14678,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3716330
+"361","Machaerium","Machaerium kegelii","leaf nitrogen content per leaf dry mass","31.607","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",4009402
+"362","Machaerium","Machaerium kegelii","leaf nitrogen content per leaf dry mass","23.21335","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.95428,-85.49187,685,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",4009462
+"363","Machaerium","Machaerium kegelii","leaf phosphorus content per leaf dry mass","1.28261038","mg.g-1",NA,10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",4009544
+"364","Machaerium","Machaerium kegelii","leaf carbon content per leaf dry mass","491.89761","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.95428,-85.49187,685,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",4256098
+"365","Machaerium","Machaerium kegelii","leaf phosphorus content per leaf dry mass","1.1673","mg.g-1",NA,10.95428,-85.49187,685,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",4256099

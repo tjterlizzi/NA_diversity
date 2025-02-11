@@ -1,0 +1,860 @@
+"","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Zanthoxylum",NA,"whole plant growth form","tree",NA,NA,19.679,-100,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1772663
+"2","Zanthoxylum",NA,"leaf nitrogen content per leaf dry mass","30","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3102415
+"3","Zanthoxylum","Zanthoxylum americanum","whole plant height","8.5344","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",3103173
+"4","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5/17/1917","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3109286
+"5","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3109289
+"6","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5/10/1911","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3109301
+"7","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5/10/1911","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3109326
+"8","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3114674
+"9","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","6/3/1924","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3114707
+"10","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3114708
+"11","Zanthoxylum","Zanthoxylum melanostictum","leaf nitrogen content per leaf dry mass","20.8","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.9326,-85.4588,1500,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","30 km above Cacao Biological Station. Pacific slope of Cacao Volcano.","public",3120453
+"12","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5/18/1913","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3124103
+"13","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5/10/1942","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3124495
+"14","Zanthoxylum","Zanthoxylum panamense","seed mass","1.3","mg","Mean seed dry mass, measured with a digital scale after drying at 60 C, where seed is defined to include the endosperm and embryo only.",NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.69ph0","Kraft TS","thomas.s.kraft@dartmouth.edu","Panama",NA,NA,"public",3124508
+"15","Zanthoxylum","Zanthoxylum panamense","Leaf lamina fracture toughness","237.5","J.m-2","lamina fracture toughness is the work to fracture leaf tissue divided by fracture area (lamina thickness * length of fracture). Species means of the individual means of two leaves per individual.",9.166667,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.8525","Westbrook JW","jwestbrook@ufl.edu","Panama","Panama",NA,"public",3124533
+"16","Zanthoxylum","Zanthoxylum americanum","whole plant height","6","m","Maximum height",NA,NA,NA,NA,NA,NA,"United States","Indiana",NA,"public",3136851
+"17","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5/11/1949","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3171085
+"18","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3171086
+"19","Zanthoxylum",NA,"leaf nitrogen content per leaf dry mass","16.12641509","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",9.53333,-83.8167,2050,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",3171092
+"20","Zanthoxylum","Zanthoxylum fagara","leaf area per leaf dry mass","9.38","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3175641
+"21","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5/16/1960","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3179146
+"22","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3179316
+"23","Zanthoxylum",NA,"leaf nitrogen content per leaf dry mass","30","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3182392
+"24","Zanthoxylum","Zanthoxylum clava-herculis","leaf area","940","mm2","Area of dry blade calculated on photographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3182739
+"25","Zanthoxylum","Zanthoxylum clava-herculis","leaf dry mass","0.11","g","actual measurement",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3182782
+"26","Zanthoxylum","Zanthoxylum clava-herculis","leaf area","710","mm2","Area of dry blade calculated on photographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3182784
+"27","Zanthoxylum","Zanthoxylum clava-herculis","leaf area","920","mm2","Area of dry blade calculated on photographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3182785
+"28","Zanthoxylum","Zanthoxylum acuminatum","leaf area","6060","mm2","Area of dry blade calculated on photographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","Panama",NA,NA,"public",3182807
+"29","Zanthoxylum","Zanthoxylum riedelianum","stem wood density","0.48","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.234","Lopez-Gonzalez G","G.Lopez-Gonzalez@leeds.ac.uk","Mexico",NA,NA,"public",3182812
+"30","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3209499
+"31","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5/17/1917","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3209558
+"32","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5/10/1942","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3209502
+"33","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5/11/1949","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3209555
+"34","Zanthoxylum","Zanthoxylum fagara","stem wood density","0.53","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3219412
+"35","Zanthoxylum","Zanthoxylum fagara","leaf nitrogen content per leaf dry mass","29","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3220829
+"36","Zanthoxylum","Zanthoxylum fagara","leaf nitrogen content per leaf dry mass","29","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3221250
+"37","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","6/3/1924","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3225797
+"38","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3225873
+"39","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3226117
+"40","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3226197
+"41","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3226158
+"42","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3226200
+"43","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3226210
+"44","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5/17/1921","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3226211
+"45","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3226215
+"46","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5/17/1921","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3226261
+"47","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5/16/1960","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3226270
+"48","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","6","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3226276
+"49","Zanthoxylum","Zanthoxylum ekmanii","Leaf lamina fracture toughness","237.65","J.m-2","lamina fracture toughness is the work to fracture leaf tissue divided by fracture area (lamina thickness * length of fracture). Species means of the individual means of two leaves per individual.",9.166667,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.8525","Westbrook JW","jwestbrook@ufl.edu","Panama","Panama",NA,"public",3226284
+"50","Zanthoxylum","Zanthoxylum panamense","leaf thickness","0.124","mm","lamina thickness is the thickness of the leaf lamina measured in regions that do not include primary or secondary veins.  Species means of the individual means of two leaves per individual for the lamina portion used in shearing test.",9.166667,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.8525","Westbrook JW","jwestbrook@ufl.edu","Panama","Panama",NA,"public",3226304
+"51","Zanthoxylum","Zanthoxylum clava-herculis","leaf area per leaf dry mass","8.605851979","m2.kg-1","leaf dry area calculated with photpographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3228685
+"52","Zanthoxylum","Zanthoxylum clava-herculis","leaf dry mass","0.07","g","actual measurement",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3228825
+"53","Zanthoxylum","Zanthoxylum fagara","leaf nitrogen content per leaf dry mass","12.3","mg.g-1","Canopy N% was estimated with the Carnegie Airborne Observatory Airborne Taxonomic Mapping System (CAO-AToMs) onboard a Dornier 228 Aircraft. The sensor configuration used consisted of a high-fidelity imaging spectrometer (HiFIS) and a dual laser, waveform light detection and ranging (LiDAR) sensor.",NA,NA,50,"http://datadryad.org/resource/doi:10.5061/dryad.ck585","Balzotti CS","cbalzotti@carnegiescience.edu","Costa Rica","Puntarenas",NA,"public",3253822
+"54","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","6","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3483170
+"55","Zanthoxylum","Zanthoxylum fagara","stem wood density","0.53","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3665520
+"56","Zanthoxylum","Zanthoxylum fagara","leaf area per leaf dry mass","9.38","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3665523
+"57","Zanthoxylum","Zanthoxylum clava-herculis","leaf carbon content per leaf dry mass","469.7","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",23.0345,-99.214,1205,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Mexico","Tamaulipas",NA,"public",3685412
+"58","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5/18/1913","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3699429
+"59","Zanthoxylum","Zanthoxylum americanum","plant flowering begin","5","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3699995
+"60","Zanthoxylum","Zanthoxylum ekmanii","leaf thickness","0.125","mm","lamina thickness is the thickness of the leaf lamina measured in regions that do not include primary or secondary veins.  Species means of the individual means of two leaves per individual for the lamina portion used in shearing test.",9.166667,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.8525","Westbrook JW","jwestbrook@ufl.edu","Panama","Panama",NA,"public",3700024
+"61","Zanthoxylum","Zanthoxylum juniperinum","leaf thickness","0.2","mm","lamina thickness is the thickness of the leaf lamina measured in regions that do not include primary or secondary veins.  Species means of the individual means of two leaves per individual for the lamina portion used in shearing test.",9.166667,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.8525","Westbrook JW","jwestbrook@ufl.edu","Panama","Panama",NA,"public",3700042
+"62","Zanthoxylum","Zanthoxylum juniperinum","Leaf lamina fracture toughness","339.533","J.m-2","lamina fracture toughness is the work to fracture leaf tissue divided by fracture area (lamina thickness * length of fracture). Species means of the individual means of two leaves per individual.",9.166667,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.8525","Westbrook JW","jwestbrook@ufl.edu","Panama","Panama",NA,"public",3700046
+"63","Zanthoxylum","Zanthoxylum clava-herculis","leaf area","610","mm2","Area of dry blade calculated on photographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3711464
+"64","Zanthoxylum","Zanthoxylum clava-herculis","leaf area","790","mm2","Area of dry blade calculated on photographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3711504
+"65","Zanthoxylum","Zanthoxylum clava-herculis","leaf dry mass","0.11","g","actual measurement",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3711511
+"66","Zanthoxylum","Zanthoxylum clava-herculis","leaf area","790","mm2","Area of dry blade calculated on photographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3711520
+"67","Zanthoxylum","Zanthoxylum clava-herculis","leaf dry mass","0.08","g","actual measurement",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3711959
+"68","Zanthoxylum","Zanthoxylum clava-herculis","leaf area per leaf dry mass","8.764241893","m2.kg-1","leaf dry area calculated with photpographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3711965
+"69","Zanthoxylum","Zanthoxylum clava-herculis","leaf area per leaf dry mass","8.368200837","m2.kg-1","leaf dry area calculated with photpographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3712394
+"70","Zanthoxylum","Zanthoxylum panamense","seed length","3.2","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3712407
+"71","Zanthoxylum","Zanthoxylum clava-herculis","leaf area per leaf dry mass","8.710801394","m2.kg-1","leaf dry area calculated with photpographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3712483
+"72","Zanthoxylum","Zanthoxylum caribaeum","stem wood density","0.97","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.234","Lopez-Gonzalez G","G.Lopez-Gonzalez@leeds.ac.uk","Mexico",NA,NA,"public",3712615
+"73","Zanthoxylum","Zanthoxylum clava-herculis","leaf area per leaf dry mass","8.424599832","m2.kg-1","leaf dry area calculated with photpographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3712711
+"74","Zanthoxylum","Zanthoxylum clava-herculis","leaf dry mass","0.09","g","actual measurement",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3712725
+"75","Zanthoxylum","Zanthoxylum clava-herculis","leaf dry mass","0.09","g","actual measurement",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3712732
+"76","Zanthoxylum",NA,"leaf area per leaf dry mass","14.91","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3713756
+"77","Zanthoxylum",NA,"leaf area per leaf dry mass","14.91","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3713825
+"78","Zanthoxylum",NA,"stem wood density","0.6","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3713831
+"79","Zanthoxylum",NA,"stem wood density","0.6","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3713837
+"80","Zanthoxylum","Zanthoxylum clava-herculis","leaf nitrogen content per leaf dry mass","18.1","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3713973
+"81","Zanthoxylum","Zanthoxylum clava-herculis","leaf area per leaf dry mass","9.940357853","m2.kg-1","leaf dry area calculated with photpographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Archbold Biological Station","public",3714535
+"82","Zanthoxylum","Zanthoxylum caribaeum","whole plant growth form","tree",NA,NA,NA,NA,NA,"https://www.researchgate.net/profile/Pedro_Dias9/publication/6399685_Foraging_Habits_of_Alouatta_palliata_mexicana_in_Three_Forest_Fragments/links/0c960530e4702898c2000000.pdf","Asensio N",NA,"Mexico",NA,NA,"public",3844637
+"83","Zanthoxylum","Zanthoxylum kellermanii","whole plant growth form","tree",NA,NA,NA,NA,NA,"https://www.researchgate.net/profile/Pedro_Dias9/publication/6399685_Foraging_Habits_of_Alouatta_palliata_mexicana_in_Three_Forest_Fragments/links/0c960530e4702898c2000000.pdf","Asensio N",NA,"Mexico",NA,NA,"public",3844638
+"84","Zanthoxylum","Zanthoxylum acuminatum","leaf dry mass per leaf fresh mass","406.5","mg.g-1",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3935135
+"85","Zanthoxylum","Zanthoxylum kellermanii","leaf dry mass per leaf fresh mass","447.7","mg.g-1",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3935196
+"86","Zanthoxylum","Zanthoxylum melanostictum","leaf phosphorus content per leaf dry mass","0.74824","mg.g-1",NA,10.9326,-85.4588,1500,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","30 km above Cacao Biological Station. Pacific slope of Cacao Volcano.","public",4020533
+"87","Zanthoxylum","Zanthoxylum melanostictum","leaf phosphorus content per leaf dry mass","0.87112","mg.g-1",NA,9.54941,-83.7995,2430,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",4184180
+"88","Zanthoxylum","Zanthoxylum juniperinum","leaf carbon content per leaf dry mass","456.744746","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.54316,-85.16853,431,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Alajuela","Area de Concervacion Guanacaste Sector Rincon Rainforest (Caribe)","public",4183653
+"89","Zanthoxylum","Zanthoxylum melanostictum","leaf carbon content per leaf dry mass","483.1","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.9326,-85.4588,1500,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","30 km above Cacao Biological Station. Pacific slope of Cacao Volcano.","public",4183700
+"90","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","32.4","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4303819
+"91","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","53.8","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4376072
+"92","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","48.3","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4376077
+"93","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","30.1","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4376079
+"94","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","29.3","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4376087
+"95","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","35.1","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4376102
+"96","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","13.9","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4376182
+"97","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","24.9","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4376187
+"98","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","36.8","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4376213
+"99","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","24.7","cm",NA,NA,NA,120,"http://datadryad.org/resource/doi:10.5061/dryad.sv181","Plourde BT","btplourde@ucdavis.edu","Costa Rica","Heredia",NA,"public",4376215
+"100","Zanthoxylum","Zanthoxylum flavum","whole plant height","6.096","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",4406261
+"101","Zanthoxylum","Zanthoxylum fagara","whole plant height","7.9248","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",4405300
+"102","Zanthoxylum","Zanthoxylum clava-herculis","whole plant height","20.7264","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",4407167
+"103","Zanthoxylum","Zanthoxylum hirsutum","whole plant height","15.24","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",4413908
+"104","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.080479622,-79.64510345,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6631387
+"105","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.280870438,-79.97470093,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6734349
+"106","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8415716
+"107","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.355830193,-79.72689819,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8727478
+"108","Zanthoxylum","Zanthoxylum setulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9251260
+"109","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9980362
+"110","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5005","cm",NA,9.156820297,-79.75170135,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",10057962
+"111","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",10820004
+"112","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.16176033,-79.74530029,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11103178
+"113","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5005","cm",NA,9.144619942,-79.85870361,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11661127
+"114","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.124699593,-79.90480042,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11830202
+"115","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.168780327,-79.74069977,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",13664697
+"116","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14357442
+"117","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.2603302,-79.95600128,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17773795
+"118","Zanthoxylum","Zanthoxylum ekmanii","seed length","4.7","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.69ph0","Kraft TS","thomas.s.kraft@dartmouth.edu","Panama",NA,NA,"public",15204
+"119","Zanthoxylum","Zanthoxylum panamense","seed length","2.8","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",15211
+"120","Zanthoxylum","Zanthoxylum melanostictum","diameter at breast height (1.3 m)","22.29","cm",NA,10.2108,-84.1125,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",100993
+"121","Zanthoxylum",NA,"diameter at breast height (1.3 m)","6","cm",NA,19.679,-100,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",209007
+"122","Zanthoxylum","Zanthoxylum melanostictum","diameter at breast height (1.3 m)","2.79","cm",NA,10.2108,-84.1125,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",397112
+"123","Zanthoxylum",NA,"diameter at breast height (1.3 m)","4","cm",NA,19.679,-100,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",411663
+"124","Zanthoxylum","Zanthoxylum melanostictum","diameter at breast height (1.3 m)","2.5","cm",NA,10.2108,-84.1125,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",424871
+"125","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","42","cm",NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",425058
+"126","Zanthoxylum","Zanthoxylum melanostictum","diameter at breast height (1.3 m)","47.4","cm",NA,10.1383,-84.1075,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",465247
+"127","Zanthoxylum","Zanthoxylum melanostictum","diameter at breast height (1.3 m)","5","cm",NA,17.5833,-96.35,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",545649
+"128","Zanthoxylum","Zanthoxylum arborescens","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",559209
+"129","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5","cm",NA,10.5,-85.1667,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",586301
+"130","Zanthoxylum","Zanthoxylum melanostictum","diameter at breast height (1.3 m)","10.3","cm",NA,10.1383,-84.1231,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",720709
+"131","Zanthoxylum","Zanthoxylum melanostictum","diameter at breast height (1.3 m)","15.5","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",734564
+"132","Zanthoxylum","Zanthoxylum melanostictum","diameter at breast height (1.3 m)","8.6","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",734565
+"133","Zanthoxylum","Zanthoxylum melanostictum","diameter at breast height (1.3 m)","56","cm",NA,10.1383,-84.1075,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",774439
+"134","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","32.2","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",816323
+"135","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","18.7","cm",NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",978483
+"136","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","3.2","cm",NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1046569
+"137","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","11.7","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1046618
+"138","Zanthoxylum","Zanthoxylum melanostictum","diameter at breast height (1.3 m)","2.5","cm",NA,10.1383,-84.1075,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1085774
+"139","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1166902
+"140","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1166903
+"141","Zanthoxylum","Zanthoxylum melanostictum","diameter at breast height (1.3 m)","5.5","cm",NA,17.5711,-96.3589,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1180144
+"142","Zanthoxylum","Zanthoxylum melanostictum","diameter at breast height (1.3 m)","8.39","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1383419
+"143","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","15.5","cm",NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1424721
+"144","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","8.3","cm",NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1438405
+"145","Zanthoxylum","Zanthoxylum riedelianum","diameter at breast height (1.3 m)","61.3","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1492118
+"146","Zanthoxylum","Zanthoxylum riedelianum","diameter at breast height (1.3 m)","3.5","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1505737
+"147","Zanthoxylum",NA,"diameter at breast height (1.3 m)","5","cm",NA,19.679,-100,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1597625
+"148","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","15.6","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1694408
+"149","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","13.1","cm",NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1734850
+"150","Zanthoxylum","Zanthoxylum melanostictum","whole plant growth form","tree",NA,NA,10.2108,-84.1125,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1758082
+"151","Zanthoxylum","Zanthoxylum melanostictum","whole plant growth form","tree",NA,NA,10.2108,-84.1125,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1798156
+"152","Zanthoxylum",NA,"whole plant growth form","tree",NA,NA,19.679,-100,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1800417
+"153","Zanthoxylum","Zanthoxylum melanostictum","whole plant growth form","tree",NA,NA,10.2108,-84.1125,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1801948
+"154","Zanthoxylum","Zanthoxylum ekmanii","whole plant growth form","tree",NA,NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1802182
+"155","Zanthoxylum","Zanthoxylum melanostictum","whole plant growth form","tree",NA,NA,10.1383,-84.1075,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1807293
+"156","Zanthoxylum","Zanthoxylum melanostictum","whole plant growth form","tree",NA,NA,17.5833,-96.35,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1818135
+"157","Zanthoxylum","Zanthoxylum arborescens","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1820105
+"158","Zanthoxylum","Zanthoxylum acuminatum","whole plant growth form","tree",NA,NA,10.5,-85.1667,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1823739
+"159","Zanthoxylum","Zanthoxylum melanostictum","whole plant growth form","tree",NA,NA,10.1383,-84.1231,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1841563
+"160","Zanthoxylum","Zanthoxylum melanostictum","whole plant growth form","tree",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1843674
+"161","Zanthoxylum","Zanthoxylum melanostictum","whole plant growth form","tree",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1843675
+"162","Zanthoxylum","Zanthoxylum melanostictum","whole plant growth form","tree",NA,NA,10.1383,-84.1075,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1848945
+"163","Zanthoxylum","Zanthoxylum ekmanii","whole plant growth form","tree",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1856104
+"164","Zanthoxylum","Zanthoxylum ekmanii","whole plant growth form","tree",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1856105
+"165","Zanthoxylum","Zanthoxylum panamense","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878368
+"166","Zanthoxylum","Zanthoxylum panamense","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878369
+"167","Zanthoxylum","Zanthoxylum panamense","whole plant growth form","tree",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1887552
+"168","Zanthoxylum","Zanthoxylum panamense","whole plant growth form","tree",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1887553
+"169","Zanthoxylum","Zanthoxylum panamense","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1887601
+"170","Zanthoxylum","Zanthoxylum panamense","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1887603
+"171","Zanthoxylum","Zanthoxylum melanostictum","whole plant growth form","tree",NA,NA,10.1383,-84.1075,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1891345
+"172","Zanthoxylum","Zanthoxylum acuminatum","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1902425
+"173","Zanthoxylum","Zanthoxylum acuminatum","whole plant growth form","tree",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1902426
+"174","Zanthoxylum","Zanthoxylum melanostictum","whole plant growth form","tree",NA,NA,17.5711,-96.3589,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1904066
+"175","Zanthoxylum","Zanthoxylum melanostictum","whole plant growth form","tree",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1931697
+"176","Zanthoxylum","Zanthoxylum panamense","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1938891
+"177","Zanthoxylum","Zanthoxylum panamense","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1938892
+"178","Zanthoxylum","Zanthoxylum panamense","whole plant growth form","tree",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1940823
+"179","Zanthoxylum","Zanthoxylum panamense","whole plant growth form","tree",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1940824
+"180","Zanthoxylum","Zanthoxylum riedelianum","whole plant growth form","tree",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1948272
+"181","Zanthoxylum","Zanthoxylum riedelianum","whole plant growth form","tree",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1948273
+"182","Zanthoxylum","Zanthoxylum riedelianum","whole plant growth form","tree",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1950221
+"183","Zanthoxylum","Zanthoxylum riedelianum","whole plant growth form","tree",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1950222
+"184","Zanthoxylum",NA,"whole plant growth form","tree",NA,NA,19.679,-100,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1961408
+"185","Zanthoxylum","Zanthoxylum panamense","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1975427
+"186","Zanthoxylum","Zanthoxylum panamense","whole plant growth form","tree",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1975428
+"187","Zanthoxylum","Zanthoxylum panamense","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1981076
+"188","Zanthoxylum","Zanthoxylum panamense","whole plant growth form","tree",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1981077
+"189","Zanthoxylum","Zanthoxylum setulosum","leaf carbon content per leaf dry mass","459.009","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3109275
+"190","Zanthoxylum",NA,"leaf phosphorus content per leaf dry mass","0.58959","mg.g-1",NA,9.53333,-83.8167,2050,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",3109324
+"191","Zanthoxylum",NA,"leaf nitrogen content per leaf dry mass","17.4","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",9.53333,-83.8167,2050,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",3109325
+"192","Zanthoxylum","Zanthoxylum melanostictum","leaf nitrogen content per leaf dry mass","22.14556","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.9285,-85.4653,1225,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste"," 1 km above Cacao Biological Station. Pacific slope of Cacao Volcano.","public",3109329
+"193","Zanthoxylum","Zanthoxylum melanostictum","leaf carbon content per leaf dry mass","460.6","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",9.54941,-83.7995,2430,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",3109330
+"194","Zanthoxylum","Zanthoxylum setulosum","leaf phosphorus content per leaf dry mass","1.18434265","mg.g-1",NA,10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3109334
+"195","Zanthoxylum","Zanthoxylum panamense","seed length","3.1","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3109883
+"196","Zanthoxylum","Zanthoxylum clava-herculis","leaf phosphorus content per leaf dry mass","1.19939","mg.g-1",NA,23.0345,-99.214,1205,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Mexico","Tamaulipas",NA,"public",3114599
+"197","Zanthoxylum","Zanthoxylum clava-herculis","leaf nitrogen content per leaf dry mass","43.4","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",23.0345,-99.214,1205,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Mexico","Tamaulipas",NA,"public",3114704
+"198","Zanthoxylum","Zanthoxylum panamense","seed length","2.8","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3115059
+"199","Zanthoxylum",NA,"leaf carbon content per leaf dry mass","461.307791","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",9.53333,-83.8167,2050,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",3121503
+"200","Zanthoxylum","Zanthoxylum panamense","seed length","2.8","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3121846
+"201","Zanthoxylum","Zanthoxylum melanostictum","leaf carbon content per leaf dry mass","452.526","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.9285,-85.4653,1225,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste"," 1 km above Cacao Biological Station. Pacific slope of Cacao Volcano.","public",3124107
+"202","Zanthoxylum","Zanthoxylum setulosum","leaf phosphorus content per leaf dry mass","1.40695","mg.g-1",NA,10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3146511
+"203","Zanthoxylum",NA,"leaf phosphorus content per leaf dry mass","0.85153","mg.g-1",NA,9.53333,-83.8167,2050,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",3152094
+"204","Zanthoxylum",NA,"leaf carbon content per leaf dry mass","468","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",9.53333,-83.8167,2050,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",3152095
+"205","Zanthoxylum","Zanthoxylum panamense","seed length","3","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3175665
+"206","Zanthoxylum","Zanthoxylum panamense","seed length","2.9","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3182108
+"207","Zanthoxylum","Zanthoxylum panamense","seed mass","15.7","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3182804
+"208","Zanthoxylum","Zanthoxylum panamense","seed mass","15","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3182773
+"209","Zanthoxylum","Zanthoxylum ekmanii","leaf thickness","0.24","mm","We measured maximum leaf thickness with a micrometer (SM112; Teclock, Okayashi, Japan). We measured leaf thickness of the lamina halfway between the midrib and the leaf margin. Results were log10-transformed prior to analysis.",9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.69ph0","Kraft TS","thomas.s.kraft@dartmouth.edu","Panama",NA,NA,"public",3182777
+"210","Zanthoxylum","Zanthoxylum panamense","seed mass","15","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3221252
+"211","Zanthoxylum","Zanthoxylum panamense","seed mass","15","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3221254
+"212","Zanthoxylum","Zanthoxylum ekmanii","Leaf lamina fracture toughness","435","J.m-2","Leaf fracture toughness was measured with a pair of scissors (Dovo, Germany) to control and direct crack growth (Lucas & Pereira 1990). The scissors, with an included angle of 55Â° and a radius of curvature (sharpness) of 1.6 Âµm, were mounted on a portable universal testing machine (Darvell et al. 1996). We fractured leaves in a transverse cut perpendicular to the midrib. This method, described by Lucas et al. (2001), allows the toughness of individual anatomical features, such as the secondary veins and lamina, to be calculated from a single scissors pass.",9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.69ph0","Kraft TS","thomas.s.kraft@dartmouth.edu","Panama",NA,NA,"public",3228844
+"213","Zanthoxylum","Zanthoxylum brachyacanthum","whole plant height","9.14","m","Maximum height",-28.62389,153,NA,NA,NA,NA,"Canada",NA,"Wiangree State Forest","public",3242689
+"214","Zanthoxylum","Zanthoxylum melanostictum","leaf phosphorus content per leaf dry mass","0.77616","mg.g-1",NA,10.9285,-85.4653,1225,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste"," 1 km above Cacao Biological Station. Pacific slope of Cacao Volcano.","public",3250770
+"215","Zanthoxylum","Zanthoxylum panamense","seed length","3.1","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3254101
+"216","Zanthoxylum","Zanthoxylum panamense","seed mass","14.1","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3254186
+"217","Zanthoxylum","Zanthoxylum panamense","seed mass","14.1","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3254185
+"218","Zanthoxylum","Zanthoxylum melanostictum","leaf nitrogen content per leaf dry mass","18.7","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",9.54941,-83.7995,2430,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",3261960
+"219","Zanthoxylum","Zanthoxylum juniperinum","leaf phosphorus content per leaf dry mass","0.89279072","mg.g-1",NA,10.54316,-85.16853,431,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Alajuela","Area de Concervacion Guanacaste Sector Rincon Rainforest (Caribe)","public",3700038
+"220","Zanthoxylum","Zanthoxylum panamense","seed mass","12.6","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3711475
+"221","Zanthoxylum","Zanthoxylum panamense","seed mass","16","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3711467
+"222","Zanthoxylum","Zanthoxylum caribaeum","seed length","4.3","mm",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3934961
+"223","Zanthoxylum","Zanthoxylum acuminatum","whole plant height","23","m","max height",9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3935134
+"224","Zanthoxylum","Zanthoxylum caribaeum","leaf dry mass per leaf fresh mass","363.1","mg.g-1",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3935141
+"225","Zanthoxylum","Zanthoxylum caribaeum","seed mass","13","mg",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3935146
+"226","Zanthoxylum","Zanthoxylum caribaeum","whole plant height","16","m","max height",16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3935152
+"227","Zanthoxylum","Zanthoxylum caribaeum","whole plant height","6","m","max height",16.664,-95.01425,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Oaxaca",NA,"public",3935153
+"228","Zanthoxylum","Zanthoxylum caribaeum","leaf dry mass per leaf fresh mass","0.5","mg.g-1",NA,16.664,-95.01425,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Oaxaca",NA,"public",3935155
+"229","Zanthoxylum","Zanthoxylum ekmanii","whole plant height","31","m","max height",9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3935167
+"230","Zanthoxylum","Zanthoxylum ekmanii","leaf dry mass per leaf fresh mass","286.2","mg.g-1",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3935168
+"231","Zanthoxylum","Zanthoxylum fagara","seed mass","3","mg",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3935173
+"232","Zanthoxylum","Zanthoxylum fagara","whole plant height","6","m","max height",19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3935174
+"233","Zanthoxylum","Zanthoxylum fagara","seed length","0.0189","mm",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3935176
+"234","Zanthoxylum","Zanthoxylum kellermanii","seed mass","7","mg",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3935193
+"235","Zanthoxylum","Zanthoxylum kellermanii","whole plant height","20","m","max height",16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3935194
+"236","Zanthoxylum","Zanthoxylum kellermanii","seed length","3.4","mm",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3935197
+"237","Zanthoxylum",NA,"whole plant height","9","m","max height",19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3935203
+"238","Zanthoxylum","Zanthoxylum panamense","seed mass","8","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3935211
+"239","Zanthoxylum","Zanthoxylum panamense","whole plant height","28","m","max height",9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3935212
+"240","Zanthoxylum","Zanthoxylum panamense","leaf dry mass per leaf fresh mass","370","mg.g-1",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3935213
+"241","Zanthoxylum","Zanthoxylum acuminatum","seed mass","16","mg",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3935220
+"242","Zanthoxylum","Zanthoxylum acuminatum","whole plant height","31","m","max height",16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3935221
+"243","Zanthoxylum","Zanthoxylum acuminatum","leaf dry mass per leaf fresh mass","432.7","mg.g-1",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3935222
+"244","Zanthoxylum","Zanthoxylum acuminatum","seed length","4.6","mm",NA,16.09152,-90.99602,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Chiapas",NA,"public",3935223
+"245","Zanthoxylum","Zanthoxylum setulosum","whole plant height","23","m","max height",9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3935246
+"246","Zanthoxylum","Zanthoxylum setulosum","leaf dry mass per leaf fresh mass","369.8","mg.g-1",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Panama","Panama",NA,"public",3935247
+"247","Zanthoxylum","Zanthoxylum setulosum","leaf nitrogen content per leaf dry mass","22.3","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",4184162
+"248","Zanthoxylum","Zanthoxylum juniperinum","leaf nitrogen content per leaf dry mass","17.963","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.54316,-85.16853,431,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Alajuela","Area de Concervacion Guanacaste Sector Rincon Rainforest (Caribe)","public",4189206
+"249","Zanthoxylum","Zanthoxylum setulosum","leaf nitrogen content per leaf dry mass","29.299","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",4302810
+"250","Zanthoxylum","Zanthoxylum setulosum","leaf carbon content per leaf dry mass","462.114","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",4302812
+"251","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.121700287,-79.67310333,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4640536
+"252","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.355830193,-79.72689819,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4650569
+"253","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4652089
+"254","Zanthoxylum","Zanthoxylum setulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4658839
+"255","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4707791
+"256","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4717740
+"257","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.156499863,-79.74420166,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4738721
+"258","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4747107
+"259","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.080479622,-79.64510345,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4750338
+"260","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4753632
+"261","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4760863
+"262","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.141489983,-79.6934967,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4795490
+"263","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.355830193,-79.72689819,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4800394
+"264","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.123720169,-79.67669678,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4803638
+"265","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.147870064,-79.69309998,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4811410
+"266","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.158240318,-79.86119843,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4831661
+"267","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.14673996,-79.71250153,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4832648
+"268","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.147870064,-79.69309998,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4837980
+"269","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.147870064,-79.69309998,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4841088
+"270","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4847832
+"271","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.156820297,-79.75170135,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4926943
+"272","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.280870438,-79.97470093,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4927210
+"273","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4927495
+"274","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4928320
+"275","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5005","cm",NA,9.143460274,-79.88249969,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4928592
+"276","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4928608
+"277","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.355830193,-79.72689819,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4931465
+"278","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4932969
+"279","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4935851
+"280","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4937536
+"281","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.080479622,-79.64510345,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4938295
+"282","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.121700287,-79.67310333,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4975415
+"283","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4978986
+"284","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.143460274,-79.88249969,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4984516
+"285","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4992072
+"286","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","13.97","cm",NA,18.344488,-64.736883,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5143311
+"287","Zanthoxylum","Zanthoxylum clava-herculis","diameter at breast height (1.3 m)","3.75","cm",NA,32.351385069,-80.800075613,NA,NA,"Robert Peet","uniola@email.unc.edu","United States",NA,"Rose Island","public",5144438
+"288","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","12.7","cm",NA,18.422974,-66.22101,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5212280
+"289","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",5239288
+"290","Zanthoxylum","Zanthoxylum setulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",5329022
+"291","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.125260353,-79.88529968,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",5417927
+"292","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","15.748","cm",NA,18.065278,-67.173455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5507154
+"293","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","10.922","cm",NA,18.131468,-65.480051,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5507175
+"294","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","16.002","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5615617
+"295","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","12.954","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5615618
+"296","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","19.812","cm",NA,18.26037,-66.904507,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5615666
+"297","Zanthoxylum","Zanthoxylum clava-herculis","diameter at breast height (1.3 m)","7.5","cm",NA,32.861196166,-79.767659754,NA,NA,"Robert Peet","uniola@email.unc.edu","United States",NA,"Buzzard Island","public",5645585
+"298","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","13.716","cm",NA,18.374719,-66.395708,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5810797
+"299","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","8.382","cm",NA,18.119008,-65.535403,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5810855
+"300","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","6.604","cm",NA,18.10109,-65.565047,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5810934
+"301","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","5.334","cm",NA,18.32287,-65.280246,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5810939
+"302","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","14.224","cm",NA,18.26037,-66.904507,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5908554
+"303","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",5937589
+"304","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","12.954","cm",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6016283
+"305","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","3.302","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6016303
+"306","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","15.748","cm",NA,17.94803,-66.177243,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6114425
+"307","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","9.398","cm",NA,18.141671,-67.022905,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6114436
+"308","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.123720169,-79.67669678,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6123639
+"309","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","12.954","cm",NA,18.149515,-65.993641,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6212922
+"310","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.764","cm",NA,18.122838,-66.418936,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6212931
+"311","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","20.066","cm",NA,18.291025,-66.368893,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6212960
+"312","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6309507
+"313","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.141489983,-79.6934967,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6310184
+"314","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","13.208","cm",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6310486
+"315","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","17.018","cm",NA,18.191511,-66.019684,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6310487
+"316","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","25.4","cm",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6310499
+"317","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","13.716","cm",NA,18.106085,-65.556687,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6310517
+"318","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","13.716","cm",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6310523
+"319","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5005","cm",NA,9.080479622,-79.64510345,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6310830
+"320","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","15.494","cm",NA,18.152965,-66.048475,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6516142
+"321","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","17.272","cm",NA,17.94803,-66.177243,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6516191
+"322","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","25.908","cm",NA,18.425862,-66.942017,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6516223
+"323","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","6.858","cm",NA,18.10109,-65.565047,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6613431
+"324","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","18.542","cm",NA,18.191511,-66.019684,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6711324
+"325","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","9.4234","cm",NA,18.119008,-65.535403,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6711358
+"326","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","13.716","cm",NA,18.041471,-66.430466,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6819946
+"327","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","6.604","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6820058
+"328","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6826200
+"329","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6914649
+"330","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.144909859,-79.87789917,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",6914924
+"331","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","15.494","cm",NA,18.422974,-66.22101,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6917512
+"332","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","4.318","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6917635
+"333","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","18.796","cm",NA,18.065278,-67.173455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7015220
+"334","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","8.636","cm",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7015250
+"335","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","32.004","cm",NA,18.065278,-67.173455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7015300
+"336","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","21.082","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7015334
+"337","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","5.588","cm",NA,18.119008,-65.535403,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7015336
+"338","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","15.24","cm",NA,18.418805,-66.727269,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7221631
+"339","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","17.78","cm",NA,18.273624,-65.721528,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7221715
+"340","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","32.766","cm",NA,18.106185,-65.547176,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7221733
+"341","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.764","cm",NA,18.342762,-65.877006,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7319365
+"342","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","22.606","cm",NA,18.31618,-66.569594,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7319368
+"343","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","17.272","cm",NA,18.425862,-66.942017,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7319406
+"344","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","4.318","cm",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7319432
+"345","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","4.826","cm",NA,18.059728,-66.924304,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7319465
+"346","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","7.112","cm",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7417201
+"347","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","17.018","cm",NA,18.151625,-66.927089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7417306
+"348","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","20.5486","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7417349
+"349","Zanthoxylum","Zanthoxylum americanum","diameter at breast height (1.3 m)","0.5","cm",NA,33.163673419,-80.002786669,NA,NA,"Robert Peet","uniola@email.unc.edu","United States",NA,"Lewisfield Plantation","public",7447902
+"350","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","14.478","cm",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7514936
+"351","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","29.972","cm",NA,18.425862,-66.942017,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7514978
+"352","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","18.034","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7515062
+"353","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.258020401,-79.95290375,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",7530193
+"354","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","14.478","cm",NA,18.344488,-64.736883,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7536793
+"355","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","23.368","cm",NA,18.398175,-66.545379,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7622743
+"356","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","9.398","cm",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7622814
+"357","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.124699593,-79.90480042,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",7623759
+"358","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.16092968,-79.74269867,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",7624666
+"359","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","17.526","cm",NA,18.354562,-66.774394,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7720705
+"360","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","41.148","cm",NA,18.080936,-66.599548,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7720715
+"361","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","3.81","cm",NA,18.260158,-66.787786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7720737
+"362","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.002","cm",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7720750
+"363","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","7.112","cm",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7818624
+"364","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","6.096","cm",NA,18.060934,-67.12293,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7818632
+"365","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","22.606","cm",NA,18.31618,-66.569594,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7818634
+"366","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","18.542","cm",NA,18.152965,-66.048475,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7818735
+"367","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","13.462","cm",NA,18.468674,-67.145209,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7916958
+"368","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","8.382","cm",NA,18.106085,-65.556687,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7916998
+"369","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","13.208","cm",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7916999
+"370","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",7934443
+"371","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","13.716","cm",NA,18.422974,-66.22101,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8025568
+"372","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","7.874","cm",NA,18.26037,-66.904507,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8025666
+"373","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","14.478","cm",NA,18.443322,-66.289559,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8123758
+"374","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","4.064","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8123882
+"375","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","5.334","cm",NA,18.119008,-65.535403,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8123883
+"376","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5005","cm",NA,9.147870064,-79.69309998,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8233342
+"377","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","19.812","cm",NA,18.342762,-65.877006,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8320498
+"378","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","18.796","cm",NA,18.152965,-66.048475,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8320519
+"379","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","6.604","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8320538
+"380","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","4.318","cm",NA,18.327501,-66.77466,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8423259
+"381","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","25.654","cm",NA,18.291025,-66.368893,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8423373
+"382","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","36.322","cm",NA,18.096986,-65.934889,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8522395
+"383","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8550228
+"384","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","12.954","cm",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8621886
+"385","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","24.384","cm",NA,18.342762,-65.877006,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8621907
+"386","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.002","cm",NA,18.425862,-66.942017,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8621938
+"387","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","14.732","cm",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8721306
+"388","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","13.208","cm",NA,18.053732,-66.67215,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8721321
+"389","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","15.494","cm",NA,18.124017,-66.243219,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8721333
+"390","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","14.478","cm",NA,18.041471,-66.430466,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8824283
+"391","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.256","cm",NA,18.052794,-67.175635,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9023684
+"392","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","5.08","cm",NA,18.401874,-66.245449,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9023723
+"393","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","14.986","cm",NA,18.286801,-66.560783,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9122742
+"394","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.125260353,-79.88529968,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9151362
+"395","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9152544
+"396","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9250763
+"397","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.258020401,-79.95290375,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9354659
+"398","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","13.97","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9425749
+"399","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9453342
+"400","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.002","cm",NA,18.122838,-66.418936,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9524870
+"401","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","18.034","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9524918
+"402","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","29.464","cm",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9524995
+"403","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","3.302","cm",NA,18.10109,-65.565047,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9525007
+"404","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.168780327,-79.74069977,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9544388
+"405","Zanthoxylum","Zanthoxylum clava-herculis","diameter at breast height (1.3 m)","3.75","cm",NA,32.349976253,-80.793468476,NA,NA,"Robert Peet","uniola@email.unc.edu","United States",NA,"Rose Island","public",9559417
+"406","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","16.256","cm",NA,18.041471,-66.430466,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9627998
+"407","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5005","cm",NA,9.125260353,-79.88529968,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9655834
+"408","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","27.432","cm",NA,18.370414,-66.525505,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9727169
+"409","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","17.78","cm",NA,18.397936,-66.519864,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9826671
+"410","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","14.478","cm",NA,18.26037,-66.904507,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9826764
+"411","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","4.318","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9926403
+"412","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5005","cm",NA,9.2603302,-79.95600128,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",10057724
+"413","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.156820297,-79.75170135,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",10158753
+"414","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","19.812","cm",NA,18.152965,-66.048475,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10228985
+"415","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","4.318","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10229009
+"416","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","15.748","cm",NA,18.382551,-65.790254,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10229045
+"417","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","19.05","cm",NA,18.152965,-66.048475,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10229060
+"418","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","5.08","cm",NA,18.059728,-66.924304,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10328787
+"419","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","2.794","cm",NA,18.131468,-65.480051,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10328826
+"420","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","24.892","cm",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10431475
+"421","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","3.81","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10431493
+"422","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","20.32","cm",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10431539
+"423","Zanthoxylum","Zanthoxylum americanum","diameter at breast height (1.3 m)","1.75","cm",NA,33.163116185,-80.006428485,NA,NA,"Robert Peet","uniola@email.unc.edu","United States",NA,"Lewisfield Plantation","public",10462283
+"424","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","14.986","cm",NA,18.338665,-66.744021,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10530428
+"425","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","25.4","cm",NA,18.080936,-66.599548,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10530472
+"426","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","7.112","cm",NA,18.10109,-65.565047,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10530539
+"427","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","3.048","cm",NA,17.728283,-64.829982,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10552587
+"428","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","30.226","cm",NA,18.124017,-66.243219,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10629996
+"429","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","8.636","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10630016
+"430","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","13.97","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10630019
+"431","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","24.13","cm",NA,18.080936,-66.599548,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10729119
+"432","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","6.604","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10729159
+"433","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","17.018","cm",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10832514
+"434","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","18.542","cm",NA,18.425862,-66.942017,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10931580
+"435","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","26.416","cm",NA,18.285302,-66.074122,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11030620
+"436","Zanthoxylum","Zanthoxylum caribaeum","diameter at breast height (1.3 m)","3.81","cm",NA,18.3714,-66.901359,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11030751
+"437","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11036611
+"438","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","14.478","cm",NA,18.407383,-66.818001,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11130340
+"439","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","20.066","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11130382
+"440","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.156820297,-79.75170135,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11224893
+"441","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","33.274","cm",NA,18.273624,-65.721528,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11332735
+"442","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.14673996,-79.71250153,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11430937
+"443","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","15.24","cm",NA,18.10109,-65.565047,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11431626
+"444","Zanthoxylum","Zanthoxylum setulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11460062
+"445","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","19.812","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11530837
+"446","Zanthoxylum","Zanthoxylum setulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11547852
+"447","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.332530022,-79.95410156,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11555607
+"448","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","3.556","cm",NA,18.260158,-66.787786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11632512
+"449","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","18.3388","cm",NA,17.741934,-64.852953,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11654680
+"450","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11718384
+"451","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.280870438,-79.97470093,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",11740695
+"452","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","3.302","cm",NA,18.072624,-66.106424,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11831597
+"453","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","6.096","cm",NA,18.060934,-67.12293,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11831622
+"454","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","3.302","cm",NA,18.072624,-66.106424,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12133119
+"455","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","29.718","cm",NA,18.141671,-67.022905,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12232575
+"456","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","31.242","cm",NA,18.285302,-66.074122,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12232584
+"457","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.158240318,-79.86119843,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",12253511
+"458","Zanthoxylum","Zanthoxylum setulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",12326896
+"459","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","18.288","cm",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12332126
+"460","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",12637443
+"461","Zanthoxylum","Zanthoxylum setulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",12638072
+"462","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","11.43","cm",NA,18.401874,-66.245449,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12731863
+"463","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","21.082","cm",NA,18.342762,-65.877006,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12833489
+"464","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","13.208","cm",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12833499
+"465","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","28.702","cm",NA,18.124017,-66.243219,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12833517
+"466","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","3.302","cm",NA,18.053732,-66.67215,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12932520
+"467","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","27.178","cm",NA,18.141671,-67.022905,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12932528
+"468","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","4.064","cm",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12932539
+"469","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","15.24","cm",NA,18.122717,-66.358131,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12932584
+"470","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","28.956","cm",NA,18.370414,-66.525505,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13032098
+"471","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5005","cm",NA,9.144909859,-79.87789917,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",13054749
+"472","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.51","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13132391
+"473","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.002","cm",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13234175
+"474","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","5.08","cm",NA,18.26037,-66.904507,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13234206
+"475","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.764","cm",NA,18.26037,-66.904507,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13234282
+"476","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","9.906","cm",NA,18.119008,-65.535403,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13234306
+"477","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.002","cm",NA,18.344488,-64.736883,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13256578
+"478","Zanthoxylum","Zanthoxylum setulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",13263591
+"479","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","18.3896","cm",NA,17.94803,-66.177243,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13334293
+"480","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",13363244
+"481","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.280870438,-79.97470093,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",13385563
+"482","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","23.622","cm",NA,18.291025,-66.368893,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13433641
+"483","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","38.1","cm",NA,18.096986,-65.934889,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13433714
+"484","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","19.558","cm",NA,18.344488,-64.736883,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13456084
+"485","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","26.162","cm",NA,18.285302,-66.074122,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13534354
+"486","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","19.05","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13534423
+"487","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","14.478","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13534494
+"488","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",13562082
+"489","Zanthoxylum","Zanthoxylum clava-herculis","diameter at breast height (1.3 m)","0.5","cm",NA,34.684086588,-76.900562929,NA,NA,"Robert Peet","uniola@email.unc.edu","United States",NA,"Bogue Banks","public",13567046
+"490","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","17.78","cm",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13635929
+"491","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","14.478","cm",NA,18.131468,-65.480051,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13636045
+"492","Zanthoxylum","Zanthoxylum setulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",13715424
+"493","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","23.114","cm",NA,18.398175,-66.545379,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13735703
+"494","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","4.826","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13735751
+"495","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","7.874","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13735755
+"496","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","15.748","cm",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13735765
+"497","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","5.08","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13735830
+"498","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.121700287,-79.67310333,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",13841902
+"499","Zanthoxylum","Zanthoxylum setulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",13823614
+"500","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","31.75","cm",NA,18.425862,-66.942017,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13835605
+"501","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","6.858","cm",NA,18.131468,-65.480051,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13835620
+"502","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","8.382","cm",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13934956
+"503","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","13.97","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13934970
+"504","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","26.924","cm",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13935036
+"505","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","13.97","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13935050
+"506","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.256","cm",NA,18.291025,-66.368893,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14037026
+"507","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.51","cm",NA,18.399846,-66.613423,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14037108
+"508","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","26.924","cm",NA,18.273624,-65.721528,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14136708
+"509","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","5.08","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14136808
+"510","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","17.78","cm",NA,17.741934,-64.852953,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14158928
+"511","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","4.064","cm",NA,18.344488,-64.736883,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14158946
+"512","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","24.638","cm",NA,18.106185,-65.547176,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14336277
+"513","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","5.08","cm",NA,18.119008,-65.535403,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14336278
+"514","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","65.532","cm",NA,18.295844,-66.619436,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14336324
+"515","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","15.748","cm",NA,18.053732,-66.67215,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14438628
+"516","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","24.384","cm",NA,18.286801,-66.560783,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14438700
+"517","Zanthoxylum","Zanthoxylum clava-herculis","diameter at breast height (1.3 m)","0.5","cm",NA,32.351385069,-80.800075613,NA,NA,"Robert Peet","uniola@email.unc.edu","United States",NA,"Rose Island","public",14469497
+"518","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","19.812","cm",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14537895
+"519","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","28.702","cm",NA,18.285302,-66.074122,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14537966
+"520","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","20.574","cm",NA,18.418805,-66.727269,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14537995
+"521","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","13.97","cm",NA,18.152965,-66.048475,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14638231
+"522","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","14.986","cm",NA,18.114549,-65.489984,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14638341
+"523","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14667598
+"524","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14724585
+"525","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","17.018","cm",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14737801
+"526","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","23.876","cm",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14737802
+"527","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","2.54","cm",NA,18.347197,-66.9856,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14737814
+"528","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.256","cm",NA,18.399846,-66.613423,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14737824
+"529","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","4.826","cm",NA,18.119008,-65.535403,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14737850
+"530","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","15.748","cm",NA,18.172543,-66.695994,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14737854
+"531","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","15.24","cm",NA,18.131468,-65.480051,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14737951
+"532","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14815042
+"533","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","21.082","cm",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14838795
+"534","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","3.556","cm",NA,18.344488,-64.736883,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14861378
+"535","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","8.89","cm",NA,18.119008,-65.535403,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14938502
+"536","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","9.906","cm",NA,18.258379,-65.675505,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14938508
+"537","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.168780327,-79.74069977,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",15059833
+"538","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","29.718","cm",NA,18.407383,-66.818001,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15137886
+"539","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","12.446","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15137927
+"540","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",15155096
+"541","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","14.732","cm",NA,18.106185,-65.547176,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15239237
+"542","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","25.908","cm",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15239291
+"543","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","12.954","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15239299
+"544","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.144909859,-79.87789917,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",15268396
+"545","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","16.764","cm",NA,18.106085,-65.556687,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15338687
+"546","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","6.096","cm",NA,18.131468,-65.480051,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15437780
+"547","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","19.05","cm",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15437813
+"548","Zanthoxylum","Zanthoxylum clava-herculis","diameter at breast height (1.3 m)","17.5","cm",NA,34.557707163,-77.335232129,NA,NA,"Robert Peet","uniola@email.unc.edu","United States",NA,"Camp Lejeune Military Reservation","public",15468681
+"549","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","46.99","cm",NA,18.398175,-66.545379,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15537137
+"550","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","17.018","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15638380
+"551","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.125260353,-79.88529968,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",15663034
+"552","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","20.574","cm",NA,18.052794,-67.175635,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15737171
+"553","Zanthoxylum","Zanthoxylum clava-herculis","diameter at breast height (1.3 m)","1.75","cm",NA,32.274101658,-80.753991302,NA,NA,"Robert Peet","uniola@email.unc.edu","United States",NA,"White Point","public",15767959
+"554","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","29.21","cm",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15836895
+"555","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","18.542","cm",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15936772
+"556","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","27.178","cm",NA,18.141671,-67.022905,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15936858
+"557","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.002","cm",NA,18.124017,-66.243219,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15936864
+"558","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","17.018","cm",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16038898
+"559","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.764","cm",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16038906
+"560","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","14.478","cm",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16038941
+"561","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","3.048","cm",NA,18.131468,-65.480051,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16038985
+"562","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","9.906","cm",NA,18.053732,-66.67215,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16139766
+"563","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","19.304","cm",NA,18.26037,-66.904507,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16139788
+"564","Zanthoxylum","Zanthoxylum americanum","diameter at breast height (1.3 m)","0.5","cm",NA,33.163643194,-80.01716824,NA,NA,"Robert Peet","uniola@email.unc.edu","United States",NA,"Lewisfield Plantation","public",16170638
+"565","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5005","cm",NA,9.121700287,-79.67310333,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",16216122
+"566","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","4.826","cm",NA,18.060934,-67.12293,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16239502
+"567","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","13.462","cm",NA,18.397936,-66.519864,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16239514
+"568","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","17.526","cm",NA,18.273624,-65.721528,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16239533
+"569","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","18.034","cm",NA,18.425862,-66.942017,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16239612
+"570","Zanthoxylum","Zanthoxylum setulosum","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",16244419
+"571","Zanthoxylum","Zanthoxylum clava-herculis","diameter at breast height (1.3 m)","1.75","cm",NA,32.351385069,-80.800075613,NA,NA,"Robert Peet","uniola@email.unc.edu","United States",NA,"Rose Island","public",16370969
+"572","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",16421320
+"573","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","17.018","cm",NA,17.94803,-66.177243,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16640498
+"574","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.51","cm",NA,18.401874,-66.245449,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16640576
+"575","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5005","cm",NA,9.168780327,-79.74069977,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",16644231
+"576","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","20.32","cm",NA,18.344488,-64.736883,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16663032
+"577","Zanthoxylum","Zanthoxylum flavum","diameter at breast height (1.3 m)","2.794","cm",NA,18.39067,-66.955757,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16740730
+"578","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","4.826","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16740792
+"579","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","13.462","cm",NA,18.124017,-66.243219,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16842364
+"580","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","37.084","cm",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17042209
+"581","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.143460274,-79.88249969,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17054484
+"582","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","3.302","cm",NA,17.751974,-64.843611,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17064604
+"583","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","22.098","cm",NA,18.344488,-64.736883,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17064631
+"584","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.144909859,-79.87789917,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17070475
+"585","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","3.048","cm",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17142203
+"586","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","22.098","cm",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17142264
+"587","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","9.906","cm",NA,18.141671,-67.022905,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17142282
+"588","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","3.81","cm",NA,18.347197,-66.9856,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17142286
+"589","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17161436
+"590","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","12.446","cm",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17243675
+"591","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.16176033,-79.74530029,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17266090
+"592","Zanthoxylum","Zanthoxylum clava-herculis","diameter at breast height (1.3 m)","3.75","cm",NA,32.274101658,-80.753991302,NA,NA,"Robert Peet","uniola@email.unc.edu","United States",NA,"White Point","public",17374955
+"593","Zanthoxylum","Zanthoxylum panamense","diameter at breast height (1.3 m)","5000.5","cm",NA,9.144619942,-79.85870361,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17443076
+"594","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","20.32","cm",NA,18.141671,-67.022905,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17443981
+"595","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","42.0624","cm",NA,18.080936,-66.599548,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17444031
+"596","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","17.78","cm",NA,18.152965,-66.048475,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17444054
+"597","Zanthoxylum","Zanthoxylum setulosum","diameter at breast height (1.3 m)","5000.5","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17533820
+"598","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5000.5","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17534982
+"599","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","21.082","cm",NA,18.354562,-66.774394,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17544145
+"600","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","5.08","cm",NA,18.401874,-66.245449,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17544161
+"601","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","16.51","cm",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17544234
+"602","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","19.05","cm",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17544235
+"603","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","43.942","cm",NA,18.26037,-66.904507,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17645012
+"604","Zanthoxylum","Zanthoxylum martinicense","diameter at breast height (1.3 m)","7.112","cm",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17645034
+"605","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","6.35","cm",NA,18.060934,-67.12293,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17645035
+"606","Zanthoxylum","Zanthoxylum flavum","diameter at breast height (1.3 m)","2.54","cm",NA,18.39067,-66.955757,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17645042
+"607","Zanthoxylum","Zanthoxylum acuminatum","diameter at breast height (1.3 m)","5005","cm",NA,9.16092968,-79.74269867,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17727752
+"608","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","3.302","cm",NA,18.053732,-66.67215,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17744813
+"609","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","3.302","cm",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17844834
+"610","Zanthoxylum","Zanthoxylum ekmanii","diameter at breast height (1.3 m)","5005","cm",NA,9.151249886,-79.8553009,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",17940153
+"611","Zanthoxylum","Zanthoxylum monophyllum","diameter at breast height (1.3 m)","16.002","cm",NA,18.096854,-65.543277,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17944124
+"612","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.3632","m",NA,18.344488,-64.736883,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17993956
+"613","Zanthoxylum","Zanthoxylum martinicense","whole plant height","11.8872","m",NA,18.422974,-66.22101,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18041044
+"614","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.0584","m",NA,18.065278,-67.173455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18245806
+"615","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","9.4488","m",NA,18.131468,-65.480051,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18245830
+"616","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","9.4488","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18319654
+"617","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","8.5344","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18319655
+"618","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.8496","m",NA,18.26037,-66.904507,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18319704
+"619","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.0584","m",NA,18.374719,-66.395708,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18455132
+"620","Zanthoxylum","Zanthoxylum martinicense","whole plant height","6.4008","m",NA,18.119008,-65.535403,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18455187
+"621","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","6.7056","m",NA,18.10109,-65.565047,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18455268
+"622","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","4.8768","m",NA,18.32287,-65.280246,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18455272
+"623","Zanthoxylum","Zanthoxylum martinicense","whole plant height","16.4592","m",NA,18.26037,-66.904507,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18523039
+"624","Zanthoxylum","Zanthoxylum martinicense","whole plant height","8.8392","m",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18596190
+"625","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","4.572","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18596210
+"626","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.0208","m",NA,17.94803,-66.177243,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18664251
+"627","Zanthoxylum","Zanthoxylum martinicense","whole plant height","4.8768","m",NA,18.141671,-67.022905,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18664262
+"628","Zanthoxylum","Zanthoxylum martinicense","whole plant height","11.8872","m",NA,18.149515,-65.993641,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18732455
+"629","Zanthoxylum","Zanthoxylum martinicense","whole plant height","12.4968","m",NA,18.122838,-66.418936,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18732464
+"630","Zanthoxylum","Zanthoxylum martinicense","whole plant height","17.0688","m",NA,18.291025,-66.368893,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18732492
+"631","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.668","m",NA,18.191511,-66.019684,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18800264
+"632","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.0584","m",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18800263
+"633","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.24","m",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18800274
+"634","Zanthoxylum","Zanthoxylum martinicense","whole plant height","7.3152","m",NA,18.106085,-65.556687,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18800294
+"635","Zanthoxylum","Zanthoxylum martinicense","whole plant height","9.144","m",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18800299
+"636","Zanthoxylum","Zanthoxylum martinicense","whole plant height","11.8872","m",NA,18.152965,-66.048475,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18941826
+"637","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.0584","m",NA,17.94803,-66.177243,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18941872
+"638","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.8496","m",NA,18.425862,-66.942017,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18941906
+"639","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","5.4864","m",NA,18.10109,-65.565047,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19009494
+"640","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.9728","m",NA,18.191511,-66.019684,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19077566
+"641","Zanthoxylum","Zanthoxylum martinicense","whole plant height","6.4008","m",NA,18.119008,-65.535403,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19077596
+"642","Zanthoxylum","Zanthoxylum martinicense","whole plant height","6.4008","m",NA,18.041471,-66.430466,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19151401
+"643","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","8.5344","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19151518
+"644","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.0584","m",NA,18.422974,-66.22101,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19219244
+"645","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","7.3152","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19219369
+"646","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.0584","m",NA,18.065278,-67.173455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19286856
+"647","Zanthoxylum","Zanthoxylum martinicense","whole plant height","7.9248","m",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19286886
+"648","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.9352","m",NA,18.065278,-67.173455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19286939
+"649","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","9.144","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19286966
+"650","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","2.1336","m",NA,18.119008,-65.535403,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19286968
+"651","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.24","m",NA,18.418805,-66.727269,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19429023
+"652","Zanthoxylum","Zanthoxylum martinicense","whole plant height","18.8976","m",NA,18.273624,-65.721528,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19429106
+"653","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.0208","m",NA,18.106185,-65.547176,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19429127
+"654","Zanthoxylum","Zanthoxylum martinicense","whole plant height","11.8872","m",NA,18.342762,-65.877006,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19496998
+"655","Zanthoxylum","Zanthoxylum martinicense","whole plant height","21.0312","m",NA,18.31618,-66.569594,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19497001
+"656","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.5448","m",NA,18.425862,-66.942017,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19497040
+"657","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","7.0104","m",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19497066
+"658","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","5.4864","m",NA,18.059728,-66.924304,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19497097
+"659","Zanthoxylum","Zanthoxylum martinicense","whole plant height","9.144","m",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19564885
+"660","Zanthoxylum","Zanthoxylum martinicense","whole plant height","11.8872","m",NA,18.151625,-66.927089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19564982
+"661","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","8.2296","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19565023
+"662","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.0584","m",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19633045
+"663","Zanthoxylum","Zanthoxylum martinicense","whole plant height","28.956","m",NA,18.425862,-66.942017,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19633087
+"664","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","7.0104","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19633168
+"665","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.9728","m",NA,18.344488,-64.736883,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19649042
+"666","Zanthoxylum","Zanthoxylum martinicense","whole plant height","18.5928","m",NA,18.398175,-66.545379,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19706063
+"667","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","8.5344","m",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19706128
+"668","Zanthoxylum","Zanthoxylum martinicense","whole plant height","13.1064","m",NA,18.354562,-66.774394,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19773932
+"669","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.0584","m",NA,18.080936,-66.599548,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19773945
+"670","Zanthoxylum","Zanthoxylum martinicense","whole plant height","3.048","m",NA,18.260158,-66.787786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19773970
+"671","Zanthoxylum","Zanthoxylum martinicense","whole plant height","17.9832","m",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19773984
+"672","Zanthoxylum","Zanthoxylum martinicense","whole plant height","7.0104","m",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19842047
+"673","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","6.096","m",NA,18.060934,-67.12293,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19842054
+"674","Zanthoxylum","Zanthoxylum martinicense","whole plant height","20.1168","m",NA,18.31618,-66.569594,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19842056
+"675","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.0208","m",NA,18.152965,-66.048475,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19842161
+"676","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","8.5344","m",NA,18.468674,-67.145209,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19910494
+"677","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","3.9624","m",NA,18.106085,-65.556687,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19910532
+"678","Zanthoxylum","Zanthoxylum martinicense","whole plant height","17.9832","m",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19910533
+"679","Zanthoxylum","Zanthoxylum martinicense","whole plant height","5.4864","m",NA,18.422974,-66.22101,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19984465
+"680","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.3632","m",NA,18.26037,-66.904507,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19984563
+"681","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.9352","m",NA,18.443322,-66.289559,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20053014
+"682","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","5.1816","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20053137
+"683","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","4.572","m",NA,18.119008,-65.535403,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20053138
+"684","Zanthoxylum","Zanthoxylum martinicense","whole plant height","13.1064","m",NA,18.342762,-65.877006,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20189593
+"685","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.9352","m",NA,18.152965,-66.048475,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20189628
+"686","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","5.7912","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20189650
+"687","Zanthoxylum","Zanthoxylum martinicense","whole plant height","5.1816","m",NA,18.327501,-66.77466,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20259993
+"688","Zanthoxylum","Zanthoxylum martinicense","whole plant height","21.0312","m",NA,18.291025,-66.368893,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20260101
+"689","Zanthoxylum","Zanthoxylum martinicense","whole plant height","18.288","m",NA,18.096986,-65.934889,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20328717
+"690","Zanthoxylum","Zanthoxylum martinicense","whole plant height","8.5344","m",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20397834
+"691","Zanthoxylum","Zanthoxylum martinicense","whole plant height","13.1064","m",NA,18.342762,-65.877006,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20397855
+"692","Zanthoxylum","Zanthoxylum martinicense","whole plant height","11.8872","m",NA,18.425862,-66.942017,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20397883
+"693","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.0584","m",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20467117
+"694","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","11.8872","m",NA,18.053732,-66.67215,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20467131
+"695","Zanthoxylum","Zanthoxylum martinicense","whole plant height","13.4112","m",NA,18.124017,-66.243219,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20467142
+"696","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","9.144","m",NA,18.041471,-66.430466,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20537169
+"697","Zanthoxylum","Zanthoxylum martinicense","whole plant height","7.9248","m",NA,18.052794,-67.175635,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20675389
+"698","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.0584","m",NA,18.401874,-66.245449,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20675426
+"699","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.9728","m",NA,18.286801,-66.560783,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20744210
+"700","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","7.62","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20953242
+"701","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.0584","m",NA,18.122838,-66.418936,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21022458
+"702","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","7.0104","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21022508
+"703","Zanthoxylum","Zanthoxylum martinicense","whole plant height","17.9832","m",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21022581
+"704","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","5.1816","m",NA,18.10109,-65.565047,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21022592
+"705","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","10.0584","m",NA,18.041471,-66.430466,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21093080
+"706","Zanthoxylum","Zanthoxylum martinicense","whole plant height","24.0792","m",NA,18.370414,-66.525505,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21161919
+"707","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.8496","m",NA,18.397936,-66.519864,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21230876
+"708","Zanthoxylum","Zanthoxylum martinicense","whole plant height","17.9832","m",NA,18.26037,-66.904507,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21230967
+"709","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","4.572","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21300332
+"710","Zanthoxylum","Zanthoxylum martinicense","whole plant height","13.4112","m",NA,18.152965,-66.048475,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21508979
+"711","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","5.4864","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21509003
+"712","Zanthoxylum","Zanthoxylum martinicense","whole plant height","8.5344","m",NA,18.382551,-65.790254,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21509040
+"713","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.0208","m",NA,18.152965,-66.048475,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21509055
+"714","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","4.8768","m",NA,18.059728,-66.924304,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21578527
+"715","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","5.7912","m",NA,18.131468,-65.480051,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21578570
+"716","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.9352","m",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21648906
+"717","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","3.048","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21648923
+"718","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.8496","m",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21648969
+"719","Zanthoxylum","Zanthoxylum martinicense","whole plant height","11.8872","m",NA,18.338665,-66.744021,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21717353
+"720","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.3632","m",NA,18.080936,-66.599548,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21717393
+"721","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","5.7912","m",NA,18.10109,-65.565047,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21717470
+"722","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","4.8768","m",NA,17.728283,-64.829982,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21733332
+"723","Zanthoxylum","Zanthoxylum martinicense","whole plant height","17.0688","m",NA,18.124017,-66.243219,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21786277
+"724","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","8.5344","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21786301
+"725","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","7.62","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21786303
+"726","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.0584","m",NA,18.080936,-66.599548,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21855161
+"727","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","4.8768","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21855203
+"728","Zanthoxylum","Zanthoxylum martinicense","whole plant height","13.4112","m",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21925651
+"729","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.5448","m",NA,18.425862,-66.942017,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21994335
+"730","Zanthoxylum","Zanthoxylum martinicense","whole plant height","13.1064","m",NA,18.285302,-66.074122,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22062928
+"731","Zanthoxylum","Zanthoxylum caribaeum","whole plant height","5.7912","m",NA,18.3714,-66.901359,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22063058
+"732","Zanthoxylum","Zanthoxylum martinicense","whole plant height","17.9832","m",NA,18.407383,-66.818001,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22131861
+"733","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","8.2296","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22131900
+"734","Zanthoxylum","Zanthoxylum martinicense","whole plant height","21.9456","m",NA,18.273624,-65.721528,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22272000
+"735","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","10.0584","m",NA,18.10109,-65.565047,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22340957
+"736","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","11.8872","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22409837
+"737","Zanthoxylum","Zanthoxylum martinicense","whole plant height","4.572","m",NA,18.260158,-66.787786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22479857
+"738","Zanthoxylum","Zanthoxylum martinicense","whole plant height","7.62","m",NA,17.741934,-64.852953,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22495784
+"739","Zanthoxylum","Zanthoxylum martinicense","whole plant height","7.0104","m",NA,18.072624,-66.106424,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22617690
+"740","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","6.7056","m",NA,18.060934,-67.12293,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22617713
+"741","Zanthoxylum","Zanthoxylum martinicense","whole plant height","6.7056","m",NA,18.072624,-66.106424,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22826152
+"742","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.8496","m",NA,18.285302,-66.074122,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22895254
+"743","Zanthoxylum","Zanthoxylum martinicense","whole plant height","18.8976","m",NA,18.141671,-67.022905,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22895270
+"744","Zanthoxylum","Zanthoxylum martinicense","whole plant height","13.1064","m",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22964327
+"745","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.9728","m",NA,18.401874,-66.245449,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23240624
+"746","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.0208","m",NA,18.342762,-65.877006,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23310385
+"747","Zanthoxylum","Zanthoxylum martinicense","whole plant height","13.1064","m",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23310395
+"748","Zanthoxylum","Zanthoxylum martinicense","whole plant height","9.4488","m",NA,18.124017,-66.243219,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23310415
+"749","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","4.8768","m",NA,18.053732,-66.67215,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23379063
+"750","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.24","m",NA,18.141671,-67.022905,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23379070
+"751","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","6.096","m",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23379081
+"752","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.9728","m",NA,18.122717,-66.358131,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23379124
+"753","Zanthoxylum","Zanthoxylum martinicense","whole plant height","18.5928","m",NA,18.370414,-66.525505,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23448076
+"754","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.668","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23517844
+"755","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.9728","m",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23587563
+"756","Zanthoxylum","Zanthoxylum martinicense","whole plant height","7.3152","m",NA,18.26037,-66.904507,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23587592
+"757","Zanthoxylum","Zanthoxylum martinicense","whole plant height","17.9832","m",NA,18.26037,-66.904507,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23587668
+"758","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","3.9624","m",NA,18.119008,-65.535403,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23587689
+"759","Zanthoxylum","Zanthoxylum martinicense","whole plant height","7.9248","m",NA,18.344488,-64.736883,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23603718
+"760","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.6304","m",NA,17.94803,-66.177243,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23656752
+"761","Zanthoxylum","Zanthoxylum martinicense","whole plant height","20.1168","m",NA,18.291025,-66.368893,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23725218
+"762","Zanthoxylum","Zanthoxylum martinicense","whole plant height","21.0312","m",NA,18.096986,-65.934889,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23725286
+"763","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.3632","m",NA,18.344488,-64.736883,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23741375
+"764","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.8496","m",NA,18.285302,-66.074122,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23794954
+"765","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","7.9248","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23795016
+"766","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","7.62","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23795085
+"767","Zanthoxylum","Zanthoxylum martinicense","whole plant height","13.1064","m",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23865210
+"768","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","10.0584","m",NA,18.131468,-65.480051,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23865319
+"769","Zanthoxylum","Zanthoxylum martinicense","whole plant height","4.572","m",NA,18.398175,-66.545379,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23934283
+"770","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","4.572","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23934327
+"771","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","6.096","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23934328
+"772","Zanthoxylum","Zanthoxylum martinicense","whole plant height","17.9832","m",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23934337
+"773","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","7.62","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23934408
+"774","Zanthoxylum","Zanthoxylum martinicense","whole plant height","22.86","m",NA,18.425862,-66.942017,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24003444
+"775","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","9.144","m",NA,18.131468,-65.480051,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24003463
+"776","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","9.4488","m",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24072622
+"777","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","7.0104","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24072634
+"778","Zanthoxylum","Zanthoxylum martinicense","whole plant height","18.8976","m",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24072697
+"779","Zanthoxylum","Zanthoxylum martinicense","whole plant height","8.2296","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24072709
+"780","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.9352","m",NA,18.291025,-66.368893,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24142511
+"781","Zanthoxylum","Zanthoxylum martinicense","whole plant height","21.9456","m",NA,18.399846,-66.613423,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24142586
+"782","Zanthoxylum","Zanthoxylum martinicense","whole plant height","16.4592","m",NA,18.273624,-65.721528,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24211824
+"783","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","7.0104","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24211918
+"784","Zanthoxylum","Zanthoxylum martinicense","whole plant height","7.62","m",NA,17.741934,-64.852953,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24227873
+"785","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","5.1816","m",NA,18.344488,-64.736883,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24227891
+"786","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.3632","m",NA,18.106185,-65.547176,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24350606
+"787","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","4.572","m",NA,18.119008,-65.535403,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24350607
+"788","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.9352","m",NA,18.295844,-66.619436,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24350655
+"789","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","10.0584","m",NA,18.053732,-66.67215,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24420656
+"790","Zanthoxylum","Zanthoxylum martinicense","whole plant height","24.0792","m",NA,18.286801,-66.560783,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24420728
+"791","Zanthoxylum","Zanthoxylum martinicense","whole plant height","11.8872","m",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24489259
+"792","Zanthoxylum","Zanthoxylum martinicense","whole plant height","12.192","m",NA,18.285302,-66.074122,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24489334
+"793","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.8496","m",NA,18.418805,-66.727269,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24489362
+"794","Zanthoxylum","Zanthoxylum martinicense","whole plant height","12.4968","m",NA,18.152965,-66.048475,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24558635
+"795","Zanthoxylum","Zanthoxylum martinicense","whole plant height","11.2776","m",NA,18.114549,-65.489984,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24558751
+"796","Zanthoxylum","Zanthoxylum martinicense","whole plant height","11.8872","m",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24627641
+"797","Zanthoxylum","Zanthoxylum martinicense","whole plant height","17.0688","m",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24627642
+"798","Zanthoxylum","Zanthoxylum martinicense","whole plant height","6.096","m",NA,18.347197,-66.9856,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24627654
+"799","Zanthoxylum","Zanthoxylum martinicense","whole plant height","16.764","m",NA,18.399846,-66.613423,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24627663
+"800","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","4.572","m",NA,18.119008,-65.535403,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24627691
+"801","Zanthoxylum","Zanthoxylum martinicense","whole plant height","8.8392","m",NA,18.172543,-66.695994,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24627694
+"802","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","10.0584","m",NA,18.131468,-65.480051,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24627783
+"803","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.6304","m",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24697079
+"804","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","6.096","m",NA,18.344488,-64.736883,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24713130
+"805","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","5.4864","m",NA,18.119008,-65.535403,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24765910
+"806","Zanthoxylum","Zanthoxylum martinicense","whole plant height","8.5344","m",NA,18.258379,-65.675505,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24765916
+"807","Zanthoxylum","Zanthoxylum martinicense","whole plant height","22.2504","m",NA,18.407383,-66.818001,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24903707
+"808","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","7.0104","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24903750
+"809","Zanthoxylum","Zanthoxylum martinicense","whole plant height","7.9248","m",NA,18.106185,-65.547176,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24973465
+"810","Zanthoxylum","Zanthoxylum martinicense","whole plant height","17.9832","m",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24973520
+"811","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","9.4488","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24973529
+"812","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","7.9248","m",NA,18.106085,-65.556687,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25042293
+"813","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","5.4864","m",NA,18.131468,-65.480051,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25111138
+"814","Zanthoxylum","Zanthoxylum martinicense","whole plant height","13.1064","m",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25111172
+"815","Zanthoxylum","Zanthoxylum martinicense","whole plant height","22.86","m",NA,18.398175,-66.545379,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25180115
+"816","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","6.7056","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25249490
+"817","Zanthoxylum","Zanthoxylum martinicense","whole plant height","13.4112","m",NA,18.052794,-67.175635,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25317811
+"818","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.8496","m",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25386942
+"819","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.24","m",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25456521
+"820","Zanthoxylum","Zanthoxylum martinicense","whole plant height","12.192","m",NA,18.141671,-67.022905,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25456592
+"821","Zanthoxylum","Zanthoxylum martinicense","whole plant height","17.0688","m",NA,18.124017,-66.243219,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25456597
+"822","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","7.0104","m",NA,18.112868,-65.520761,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25526585
+"823","Zanthoxylum","Zanthoxylum martinicense","whole plant height","17.9832","m",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25526592
+"824","Zanthoxylum","Zanthoxylum martinicense","whole plant height","13.1064","m",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25526627
+"825","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","6.096","m",NA,18.131468,-65.480051,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25526663
+"826","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","9.144","m",NA,18.053732,-66.67215,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25596112
+"827","Zanthoxylum","Zanthoxylum martinicense","whole plant height","16.4592","m",NA,18.26037,-66.904507,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25596134
+"828","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","6.096","m",NA,18.060934,-67.12293,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25665187
+"829","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.6304","m",NA,18.397936,-66.519864,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25665199
+"830","Zanthoxylum","Zanthoxylum martinicense","whole plant height","16.1544","m",NA,18.273624,-65.721528,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25665218
+"831","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.5448","m",NA,18.425862,-66.942017,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25665299
+"832","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.0208","m",NA,17.94803,-66.177243,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25942705
+"833","Zanthoxylum","Zanthoxylum martinicense","whole plant height","12.4968","m",NA,18.401874,-66.245449,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25942784
+"834","Zanthoxylum","Zanthoxylum martinicense","whole plant height","8.5344","m",NA,18.344488,-64.736883,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25958795
+"835","Zanthoxylum","Zanthoxylum flavum","whole plant height","4.572","m",NA,18.39067,-66.955757,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26012320
+"836","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","6.4008","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26012386
+"837","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.0584","m",NA,18.124017,-66.243219,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26082100
+"838","Zanthoxylum","Zanthoxylum martinicense","whole plant height","18.8976","m",NA,18.175859,-67.070613,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26220863
+"839","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","4.8768","m",NA,17.751974,-64.843611,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26237008
+"840","Zanthoxylum","Zanthoxylum martinicense","whole plant height","9.144","m",NA,18.344488,-64.736883,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26237035
+"841","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","5.4864","m",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26290221
+"842","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.3256","m",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26290281
+"843","Zanthoxylum","Zanthoxylum martinicense","whole plant height","5.4864","m",NA,18.141671,-67.022905,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26290299
+"844","Zanthoxylum","Zanthoxylum martinicense","whole plant height","6.7056","m",NA,18.347197,-66.9856,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26290306
+"845","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","9.144","m",NA,18.103906,-65.514476,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26360093
+"846","Zanthoxylum","Zanthoxylum martinicense","whole plant height","11.5824","m",NA,18.141671,-67.022905,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26498481
+"847","Zanthoxylum","Zanthoxylum martinicense","whole plant height","10.0584","m",NA,18.080936,-66.599548,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26498537
+"848","Zanthoxylum","Zanthoxylum martinicense","whole plant height","14.0208","m",NA,18.152965,-66.048475,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26498561
+"849","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.24","m",NA,18.354562,-66.774394,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26568243
+"850","Zanthoxylum","Zanthoxylum martinicense","whole plant height","7.9248","m",NA,18.401874,-66.245449,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26568258
+"851","Zanthoxylum","Zanthoxylum martinicense","whole plant height","15.8496","m",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26568326
+"852","Zanthoxylum","Zanthoxylum martinicense","whole plant height","13.716","m",NA,18.232433,-65.983076,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26568328
+"853","Zanthoxylum","Zanthoxylum martinicense","whole plant height","16.1544","m",NA,18.26037,-66.904507,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26637478
+"854","Zanthoxylum","Zanthoxylum martinicense","whole plant height","6.7056","m",NA,18.14744,-66.239268,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26637499
+"855","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","6.7056","m",NA,18.060934,-67.12293,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26637500
+"856","Zanthoxylum","Zanthoxylum flavum","whole plant height","3.6576","m",NA,18.39067,-66.955757,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26637508
+"857","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","4.8768","m",NA,18.053732,-66.67215,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26706772
+"858","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","4.8768","m",NA,18.140955,-67.171455,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26775986
+"859","Zanthoxylum","Zanthoxylum monophyllum","whole plant height","7.9248","m",NA,18.096854,-65.543277,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26844443

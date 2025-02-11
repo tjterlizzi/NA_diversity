@@ -1,0 +1,963 @@
+"","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Paullinia",NA,"diameter at breast height (1.3 m)","2.59","cm",NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",127336
+"2","Paullinia",NA,"diameter at breast height (1.3 m)","0.8","cm",NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",735734
+"3","Paullinia",NA,"diameter at breast height (1.3 m)","0.8","cm",NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",992085
+"4","Paullinia",NA,"diameter at breast height (1.3 m)","1","cm",NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1100496
+"5","Paullinia",NA,"diameter at breast height (1.3 m)","0.8","cm",NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1276446
+"6","Paullinia",NA,"diameter at breast height (1.3 m)","5","cm",NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1666405
+"7","Paullinia",NA,"diameter at breast height (1.3 m)","0.6","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1707921
+"8","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1745990
+"9","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1803994
+"10","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1852357
+"11","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1894760
+"12","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1946826
+"13","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.432,-84.0348,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1971692
+"14","Paullinia","Paullinia fibrigera","seed length","9.51","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3107508
+"15","Paullinia",NA,"leaf area","6900","mm2","Area of dry blade calculated on photographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","Panama",NA,NA,"public",3114171
+"16","Paullinia","Paullinia rugosa","leaf nitrogen content per leaf dry mass","25.7","mg.g-1","Canopy N% was estimated with the Carnegie Airborne Observatory Airborne Taxonomic Mapping System (CAO-AToMs) onboard a Dornier 228 Aircraft. The sensor configuration used consisted of a high-fidelity imaging spectrometer (HiFIS) and a dual laser, waveform light detection and ranging (LiDAR) sensor.",NA,NA,50,"http://datadryad.org/resource/doi:10.5061/dryad.ck585","Balzotti CS","cbalzotti@carnegiescience.edu","Costa Rica","Puntarenas",NA,"public",3124625
+"17","Paullinia","Paullinia fibrigera","seed mass","165320.4","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208739
+"18","Paullinia","Paullinia turbacensis","leaf nitrogen content per leaf dry mass","24.2","mg.g-1","Canopy N% was estimated with the Carnegie Airborne Observatory Airborne Taxonomic Mapping System (CAO-AToMs) onboard a Dornier 228 Aircraft. The sensor configuration used consisted of a high-fidelity imaging spectrometer (HiFIS) and a dual laser, waveform light detection and ranging (LiDAR) sensor.",NA,NA,50,"http://datadryad.org/resource/doi:10.5061/dryad.ck585","Balzotti CS","cbalzotti@carnegiescience.edu","Costa Rica","Puntarenas",NA,"public",3258732
+"19","Paullinia","Paullinia turbacensis","leaf nitrogen content per leaf dry mass","26.9","mg.g-1","Canopy N% was estimated with the Carnegie Airborne Observatory Airborne Taxonomic Mapping System (CAO-AToMs) onboard a Dornier 228 Aircraft. The sensor configuration used consisted of a high-fidelity imaging spectrometer (HiFIS) and a dual laser, waveform light detection and ranging (LiDAR) sensor.",NA,NA,50,"http://datadryad.org/resource/doi:10.5061/dryad.ck585","Balzotti CS","cbalzotti@carnegiescience.edu","Costa Rica","Puntarenas",NA,"public",3704578
+"20","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,NA,NA,NA,"http://onlinelibrary.wiley.com/doi/10.1111/j.1365-2435.2006.01218.x/full","Santiago LS","santiago@ucr.edu","Panama",NA,NA,"public",3835291
+"21","Paullinia","Paullinia clavigera","whole plant growth form","vine",NA,NA,NA,NA,NA,"http://onlinelibrary.wiley.com/doi/10.1111/j.1523-1739.2000.99072.x/abstract","Galindo-Gonzalez J","galindoj@ecologia.edu.mx","Mexico","Veracruz",NA,"public",3842486
+"22","Paullinia","Paullinia bracteosa","whole plant growth form","liana",NA,NA,NA,NA,NA,"https://www.researchgate.net/profile/Fernando_Valladares/publication/51212118_Convergence_in_light_capture_efficiencies_among_tropical_forest_understory_plants_with_contrasting_crown_architectures_A_case_of_morphological_compensation/links/02e7e5263aff233b9b000000/Convergence-in-light-capture-efficiencies-among-tropical-forest-understory-plants-with-contrasting-crown-architectures-A-case-of-morphological-compensation.pdf","Valladares F",NA,"Panama","Panama",NA,"public",3844584
+"23","Paullinia","Paullinia clavigera","whole plant growth form","liana",NA,NA,NA,NA,NA,"https://www.researchgate.net/profile/Pedro_Dias9/publication/6399685_Foraging_Habits_of_Alouatta_palliata_mexicana_in_Three_Forest_Fragments/links/0c960530e4702898c2000000.pdf","Asensio N",NA,"Mexico",NA,NA,"public",3844640
+"24","Paullinia",NA,"whole plant growth form","liana",NA,NA,NA,NA,NA,"https://www.researchgate.net/profile/Pedro_Dias9/publication/6399685_Foraging_Habits_of_Alouatta_palliata_mexicana_in_Three_Forest_Fragments/links/0c960530e4702898c2000000.pdf","Asensio N",NA,"Mexico",NA,NA,"public",3844642
+"25","Paullinia","Paullinia cururu","leaf phosphorus content per leaf dry mass","0.40425895","mg.g-1",NA,10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",15093
+"26","Paullinia",NA,"diameter at breast height (1.3 m)","0.8","cm",NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",20062
+"27","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.5","cm",NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",34662
+"28","Paullinia","Paullinia serjaniifolia","diameter at breast height (1.3 m)","2.2","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",34752
+"29","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","1.9","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",47898
+"30","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","1.4","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",47899
+"31","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","1.2","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",47900
+"32","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","2.8","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",47902
+"33","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","9","cm",NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",59928
+"34","Paullinia","Paullinia clavigera","diameter at breast height (1.3 m)","2.9","cm",NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",59988
+"35","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","2.4","cm",NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",61175
+"36","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","0.6","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",61207
+"37","Paullinia",NA,"diameter at breast height (1.3 m)","4","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",71560
+"38","Paullinia","Paullinia fibrigera","diameter at breast height (1.3 m)","1","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",74353
+"39","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","4","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",74354
+"40","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","4","cm",NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",87727
+"41","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","2.1","cm",NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",89051
+"42","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.9","cm",NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",89092
+"43","Paullinia",NA,"diameter at breast height (1.3 m)","2.31","cm",NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",115543
+"44","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","2.4","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",115549
+"45","Paullinia","Paullinia fibrigera","diameter at breast height (1.3 m)","2.3","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",115570
+"46","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","1.4","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",115617
+"47","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","1","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",115618
+"48","Paullinia","Paullinia fibrigera","diameter at breast height (1.3 m)","2.5","cm",NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",127454
+"49","Paullinia","Paullinia pterocarpa","diameter at breast height (1.3 m)","1.7","cm",NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",142904
+"50","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","0.7","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",156133
+"51","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","4","cm",NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",168368
+"52","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","2.3","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",182371
+"53","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","1","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",182421
+"54","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","7.8","cm",NA,10.2,-84.1,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",195566
+"55","Paullinia",NA,"diameter at breast height (1.3 m)","3","cm",NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",195686
+"56","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","1.1","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",196777
+"57","Paullinia","Paullinia pterocarpa","diameter at breast height (1.3 m)","0.5","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",196878
+"58","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","3.6","cm",NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",196897
+"59","Paullinia","Paullinia cururu","diameter at breast height (1.3 m)","7","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",208979
+"60","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","2","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",210029
+"61","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","2.6","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",210078
+"62","Paullinia",NA,"diameter at breast height (1.3 m)","4.5","cm",NA,17.5778,-96.3333,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",221860
+"63","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","2.27","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",223104
+"64","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","8.6","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",223147
+"65","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.9","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",223227
+"66","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",223228
+"67","Paullinia","Paullinia clavigera","diameter at breast height (1.3 m)","5.4","cm",NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",235163
+"68","Paullinia",NA,"diameter at breast height (1.3 m)","2.79","cm",NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",236676
+"69","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","1.9","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",250714
+"70","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1.1","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",250745
+"71","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","4.7","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",250830
+"72","Paullinia","Paullinia bracteosa","diameter at breast height (1.3 m)","2.5","cm",NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",262962
+"73","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1.42","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",263867
+"74","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","7.3","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",263890
+"75","Paullinia","Paullinia alata","diameter at breast height (1.3 m)","0.7","cm",NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",263974
+"76","Paullinia","Paullinia alata","diameter at breast height (1.3 m)","2.1","cm",NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",263975
+"77","Paullinia","Paullinia alata","diameter at breast height (1.3 m)","0.7","cm",NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",263976
+"78","Paullinia",NA,"diameter at breast height (1.3 m)","1.69","cm",NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",277145
+"79","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","1.7","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",277243
+"80","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.6","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",277271
+"81","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","1.8","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",290360
+"82","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","1.5","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",290387
+"83","Paullinia","Paullinia cururu","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",290761
+"84","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.7","cm",NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",304585
+"85","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",304620
+"86","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1.1","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",304688
+"87","Paullinia","Paullinia pterocarpa","diameter at breast height (1.3 m)","0.5","cm",NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",317777
+"88","Paullinia","Paullinia pterocarpa","diameter at breast height (1.3 m)","0.5","cm",NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",317778
+"89","Paullinia",NA,"diameter at breast height (1.3 m)","5.3","cm",NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",317861
+"90","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.6","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",317877
+"91","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","2.1","cm",NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",330905
+"92","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","2.2","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",344282
+"93","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","4.7","cm",NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",344318
+"94","Paullinia",NA,"diameter at breast height (1.3 m)","3.4","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",345418
+"95","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","2.6","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",358437
+"96","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.7","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",358455
+"97","Paullinia",NA,"diameter at breast height (1.3 m)","2.5","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",370630
+"98","Paullinia","Paullinia bracteosa","diameter at breast height (1.3 m)","2.5","cm",NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",383908
+"99","Paullinia","Paullinia bracteosa","diameter at breast height (1.3 m)","5","cm",NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",383910
+"100","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","6.2","cm",NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",385005
+"101","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.5","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",398294
+"102","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.8","cm",NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",398354
+"103","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.9","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",412734
+"104","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","2.2","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",412744
+"105","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","3.1","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",412774
+"106","Paullinia","Paullinia fibrigera","diameter at breast height (1.3 m)","7.9","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",426131
+"107","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.6","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",426141
+"108","Paullinia",NA,"diameter at breast height (1.3 m)","3","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",436851
+"109","Paullinia",NA,"diameter at breast height (1.3 m)","2.5","cm",NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",438433
+"110","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1","cm",NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",452581
+"111","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","3.9","cm",NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",452582
+"112","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","4.19","cm",NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",465269
+"113","Paullinia","Paullinia pinnata","diameter at breast height (1.3 m)","2.5","cm",NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",465478
+"114","Paullinia","Paullinia fibrigera","diameter at breast height (1.3 m)","0.7","cm",NA,10.432,-84.0348,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",466405
+"115","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.7","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",466432
+"116","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","6.2","cm",NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",493138
+"117","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","0.7","cm",NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",493142
+"118","Paullinia",NA,"diameter at breast height (1.3 m)","3.79","cm",NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",504983
+"119","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","2.7","cm",NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",504986
+"120","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","2.6","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",506283
+"121","Paullinia",NA,"diameter at breast height (1.3 m)","5.9","cm",NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",518880
+"122","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","5.5","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",533365
+"123","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","6.5","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",533399
+"124","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.8","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",533452
+"125","Paullinia",NA,"diameter at breast height (1.3 m)","1.5","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",544199
+"126","Paullinia",NA,"diameter at breast height (1.3 m)","0.7","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",546858
+"127","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1.2","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",546883
+"128","Paullinia","Paullinia alata","diameter at breast height (1.3 m)","0.5","cm",NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",546926
+"129","Paullinia","Paullinia bracteosa","diameter at breast height (1.3 m)","2.5","cm",NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",557404
+"130","Paullinia",NA,"diameter at breast height (1.3 m)","1.5","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",560425
+"131","Paullinia",NA,"diameter at breast height (1.3 m)","2.9","cm",NA,17.5778,-96.3333,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",572843
+"132","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","1","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",573984
+"133","Paullinia","Paullinia paullinioides","diameter at breast height (1.3 m)","7","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",586311
+"134","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","6.1","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",587295
+"135","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.7","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",587331
+"136","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.5","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",587332
+"137","Paullinia","Paullinia alata","diameter at breast height (1.3 m)","0.9","cm",NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",587370
+"138","Paullinia",NA,"diameter at breast height (1.3 m)","0.9","cm",NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",600626
+"139","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","5.4","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",600657
+"140","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","6.6","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",614295
+"141","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.8","cm",NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",627903
+"142","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","1.2","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",627967
+"143","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","1.8","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",641207
+"144","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","2.3","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",641217
+"145","Paullinia","Paullinia pinnata","diameter at breast height (1.3 m)","2.5","cm",NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",652005
+"146","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","5.8","cm",NA,10.2,-84.1,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",653438
+"147","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","6.5","cm",NA,10.2908,-84.0606,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",666753
+"148","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.5","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",667892
+"149","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.7","cm",NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",667970
+"150","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","1.4","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",668022
+"151","Paullinia",NA,"diameter at breast height (1.3 m)","3.9","cm",NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",680392
+"152","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","4.19","cm",NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",680407
+"153","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","4","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",681715
+"154","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","2","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",694818
+"155","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","0.7","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",708424
+"156","Paullinia","Paullinia fibrigera","diameter at breast height (1.3 m)","1","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",708440
+"157","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","17.5","cm",NA,10.2,-84.1,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",720799
+"158","Paullinia","Paullinia pterocarpa","diameter at breast height (1.3 m)","1.5","cm",NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",722069
+"159","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","2.1","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",722100
+"160","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","3.4","cm",NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",734492
+"161","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","5.69","cm",NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",734501
+"162","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","2.6","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",735717
+"163","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.6","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",749225
+"164","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",749227
+"165","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.7","cm",NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",749252
+"166","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.5","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",749308
+"167","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","2.1","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",749369
+"168","Paullinia",NA,"diameter at breast height (1.3 m)","0.51","cm",NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",762342
+"169","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","2.2","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",762424
+"170","Paullinia","Paullinia sessiliflora","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",788346
+"171","Paullinia","Paullinia sessiliflora","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",788347
+"172","Paullinia","Paullinia sessiliflora","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",788348
+"173","Paullinia",NA,"diameter at breast height (1.3 m)","3.5","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",789377
+"174","Paullinia","Paullinia fibrigera","diameter at breast height (1.3 m)","2.9","cm",NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",789393
+"175","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","0.7","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",789399
+"176","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","0.5","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",789401
+"177","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.6","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",789429
+"178","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.8","cm",NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",802805
+"179","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","5","cm",NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",814934
+"180","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","0.7","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",816212
+"181","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","1.1","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",816276
+"182","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","1.2","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",816277
+"183","Paullinia","Paullinia sessiliflora","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",828614
+"184","Paullinia","Paullinia sessiliflora","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",828615
+"185","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","0.5","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",829601
+"186","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","2.3","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",829645
+"187","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","0.5","cm",NA,10.3615,-83.9928,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",829665
+"188","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","3.1","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",829719
+"189","Paullinia","Paullinia pterocarpa","diameter at breast height (1.3 m)","0.9","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",829733
+"190","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","3.29","cm",NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",842305
+"191","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","5","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",843557
+"192","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","6.8","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",856926
+"193","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.5","cm",NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",856933
+"194","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.66","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",883740
+"195","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","7.7","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",883756
+"196","Paullinia","Paullinia costata","diameter at breast height (1.3 m)","2.5","cm",NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",896240
+"197","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.9","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",897379
+"198","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","2.3","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",897388
+"199","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","6","cm",NA,10.2908,-84.0606,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",909483
+"200","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1.3","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",924264
+"201","Paullinia",NA,"diameter at breast height (1.3 m)","0.6","cm",NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",937890
+"202","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.7","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",937636
+"203","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.88","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",951259
+"204","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","6.5","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",951300
+"205","Paullinia",NA,"diameter at breast height (1.3 m)","0.8","cm",NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",975374
+"206","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","5.5","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",978422
+"207","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","3.5","cm",NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",978467
+"208","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","2","cm",NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",978503
+"209","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","1.1","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",978518
+"210","Paullinia","Paullinia pterocarpa","diameter at breast height (1.3 m)","1.3","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",978521
+"211","Paullinia","Paullinia serjaniifolia","diameter at breast height (1.3 m)","4.5","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",978552
+"212","Paullinia",NA,"diameter at breast height (1.3 m)","3","cm",NA,19.5,-96.95,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",990943
+"213","Paullinia",NA,"diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-96.95,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",990970
+"214","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1.7","cm",NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",992063
+"215","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","6.3","cm",NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",992143
+"216","Paullinia",NA,"diameter at breast height (1.3 m)","0.6","cm",NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",992227
+"217","Paullinia","Paullinia paullinioides","diameter at breast height (1.3 m)","3","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1004983
+"218","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.68","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1006017
+"219","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","3.2","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1006052
+"220","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","3","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1006053
+"221","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","7.3","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1006140
+"222","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1.02","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1019461
+"223","Paullinia","Paullinia sessiliflora","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1045512
+"224","Paullinia","Paullinia sessiliflora","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1045513
+"225","Paullinia","Paullinia sessiliflora","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1045514
+"226","Paullinia","Paullinia sessiliflora","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1045515
+"227","Paullinia","Paullinia sessiliflora","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1045516
+"228","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.8","cm",NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1046567
+"229","Paullinia",NA,"diameter at breast height (1.3 m)","3.4","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1060145
+"230","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","0.8","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1060243
+"231","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","7.3","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1073612
+"232","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","1","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1073624
+"233","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","0.9","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1073625
+"234","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.9","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1073628
+"235","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","1.2","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1087029
+"236","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","3.2","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1100473
+"237","Paullinia","Paullinia serjaniifolia","diameter at breast height (1.3 m)","1.5","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1114291
+"238","Paullinia","Paullinia serjaniifolia","diameter at breast height (1.3 m)","1.2","cm",NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1114293
+"239","Paullinia","Paullinia cururu","diameter at breast height (1.3 m)","5","cm",NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1126721
+"240","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","1.8","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1127651
+"241","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.8","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1127715
+"242","Paullinia","Paullinia sessiliflora","diameter at breast height (1.3 m)","7","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140112
+"243","Paullinia","Paullinia sessiliflora","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140113
+"244","Paullinia","Paullinia sessiliflora","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140114
+"245","Paullinia","Paullinia sessiliflora","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1140115
+"246","Paullinia","Paullinia fibrigera","diameter at breast height (1.3 m)","1.7","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1141174
+"247","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.7","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1154532
+"248","Paullinia","Paullinia fibrigera","diameter at breast height (1.3 m)","0.6","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1181392
+"249","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","2.2","cm",NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1181405
+"250","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","3.2","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1181416
+"251","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","2.4","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1181417
+"252","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","1","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1181422
+"253","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","2.1","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1208452
+"254","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","2","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1208484
+"255","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1.5","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1222099
+"256","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","2","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1222100
+"257","Paullinia","Paullinia fibrigera","diameter at breast height (1.3 m)","3.5","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1222205
+"258","Paullinia",NA,"diameter at breast height (1.3 m)","6.3","cm",NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1233252
+"259","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","10.6","cm",NA,10.2,-84.1,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1234407
+"260","Paullinia","Paullinia costaricensis","diameter at breast height (1.3 m)","5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1234496
+"261","Paullinia",NA,"diameter at breast height (1.3 m)","2.1","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1235469
+"262","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1.2","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1235566
+"263","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.7","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1235568
+"264","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.6","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1235569
+"265","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","0.5","cm",NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1248957
+"266","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.6","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1249028
+"267","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","2.8","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1249030
+"268","Paullinia",NA,"diameter at breast height (1.3 m)","3","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1261431
+"269","Paullinia",NA,"diameter at breast height (1.3 m)","4.1","cm",NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1262573
+"270","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","1","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1262725
+"271","Paullinia",NA,"diameter at breast height (1.3 m)","3.79","cm",NA,17.5778,-96.3333,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1273470
+"272","Paullinia",NA,"diameter at breast height (1.3 m)","0.8","cm",NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1276448
+"273","Paullinia",NA,"diameter at breast height (1.3 m)","0.7","cm",NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1289943
+"274","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.9","cm",NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1316954
+"275","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","1.1","cm",NA,10.4329,-83.9864,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1316995
+"276","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.9","cm",NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1317008
+"277","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1.1","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1317028
+"278","Paullinia",NA,"diameter at breast height (1.3 m)","1.5","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1330691
+"279","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","1.6","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1330751
+"280","Paullinia","Paullinia bracteosa","diameter at breast height (1.3 m)","5","cm",NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1343189
+"281","Paullinia","Paullinia bracteosa","diameter at breast height (1.3 m)","2.5","cm",NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1343190
+"282","Paullinia","Paullinia bracteosa","diameter at breast height (1.3 m)","5","cm",NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1343191
+"283","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.8","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1344205
+"284","Paullinia",NA,"diameter at breast height (1.3 m)","0.6","cm",NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1344244
+"285","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","2.9","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1344335
+"286","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","4.19","cm",NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1369708
+"287","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","1.1","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1371062
+"288","Paullinia",NA,"diameter at breast height (1.3 m)","1.5","cm",NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1371149
+"289","Paullinia",NA,"diameter at breast height (1.3 m)","2.9","cm",NA,17.5778,-96.3333,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1383413
+"290","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","2.8","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1384585
+"291","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","3.2","cm",NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1396741
+"292","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1.32","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1397867
+"293","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","2.6","cm",NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1397978
+"294","Paullinia",NA,"diameter at breast height (1.3 m)","5.5","cm",NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1410017
+"295","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.9","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1424663
+"296","Paullinia","Paullinia pterocarpa","diameter at breast height (1.3 m)","0.7","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1438449
+"297","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.5","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1451908
+"298","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1.2","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1451988
+"299","Paullinia",NA,"diameter at breast height (1.3 m)","3.17","cm",NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1465016
+"300","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.7","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1465049
+"301","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","2.6","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1478441
+"302","Paullinia",NA,"diameter at breast height (1.3 m)","6","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1491058
+"303","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.6","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1492121
+"304","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.9","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1492122
+"305","Paullinia",NA,"diameter at breast height (1.3 m)","4","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1517974
+"306","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","5.4","cm",NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1518988
+"307","Paullinia","Paullinia pterocarpa","diameter at breast height (1.3 m)","1.7","cm",NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1532666
+"308","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1.6","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1532710
+"309","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","0.5","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1532817
+"310","Paullinia",NA,"diameter at breast height (1.3 m)","4","cm",NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1543418
+"311","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","5","cm",NA,10.2,-84.1,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1545093
+"312","Paullinia",NA,"diameter at breast height (1.3 m)","6","cm",NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1558804
+"313","Paullinia","Paullinia fuscescens","diameter at breast height (1.3 m)","2.4","cm",NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1559914
+"314","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","5.4","cm",NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1585561
+"315","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","1","cm",NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1586730
+"316","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","2.6","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1586754
+"317","Paullinia","Paullinia fibrigera","diameter at breast height (1.3 m)","2.3","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1586766
+"318","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","4.6","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1600323
+"319","Paullinia","Paullinia fibrigera","diameter at breast height (1.3 m)","2.1","cm",NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1600332
+"320","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.8","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1600368
+"321","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1.8","cm",NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1600370
+"322","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","1.1","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1613904
+"323","Paullinia","Paullinia paullinioides","diameter at breast height (1.3 m)","3","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1626306
+"324","Paullinia","Paullinia paullinioides","diameter at breast height (1.3 m)","8","cm",NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1639529
+"325","Paullinia","Paullinia alata","diameter at breast height (1.3 m)","0.6","cm",NA,10.4345,-84.0267,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1640538
+"326","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.7","cm",NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1640543
+"327","Paullinia","Paullinia sessiliflora","diameter at breast height (1.3 m)","10","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1653073
+"328","Paullinia","Paullinia sessiliflora","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1653074
+"329","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","3.2","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1654211
+"330","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","5.9","cm",NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1666192
+"331","Paullinia",NA,"diameter at breast height (1.3 m)","0.6","cm",NA,10.432,-84.0348,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1667334
+"332","Paullinia",NA,"diameter at breast height (1.3 m)","0.6","cm",NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1667419
+"333","Paullinia",NA,"diameter at breast height (1.3 m)","6","cm",NA,19.5,-96.95,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1679641
+"334","Paullinia","Paullinia rugosa","diameter at breast height (1.3 m)","1","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1680764
+"335","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","1.3","cm",NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1694331
+"336","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","4.2","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1694387
+"337","Paullinia","Paullinia cururu","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1706697
+"338","Paullinia","Paullinia cururu","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1706698
+"339","Paullinia",NA,"diameter at breast height (1.3 m)","13","cm",NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1706719
+"340","Paullinia",NA,"diameter at breast height (1.3 m)","2","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1707923
+"341","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","1.6","cm",NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1707793
+"342","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","1.1","cm",NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1707867
+"343","Paullinia",NA,"diameter at breast height (1.3 m)","7.5","cm",NA,10.5,-85.1667,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1732160
+"344","Paullinia","Paullinia fibrigera","diameter at breast height (1.3 m)","3.6","cm",NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1721392
+"345","Paullinia","Paullinia ingaefolia","diameter at breast height (1.3 m)","5.3","cm",NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1733591
+"346","Paullinia",NA,"diameter at breast height (1.3 m)","2.5","cm",NA,10.5,-85.1667,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1733723
+"347","Paullinia","Paullinia ingifolia","diameter at breast height (1.3 m)","0.6","cm",NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1734838
+"348","Paullinia","Paullinia granatensis","diameter at breast height (1.3 m)","1.8","cm",NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1734852
+"349","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1746275
+"350","Paullinia","Paullinia fibrigera","diameter at breast height (1.3 m)","0.8","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1748888
+"351","Paullinia","Paullinia fibrigera","diameter at breast height (1.3 m)","1.4","cm",NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1748890
+"352","Paullinia","Paullinia fibrigera","diameter at breast height (1.3 m)","1.7","cm",NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1748934
+"353","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1750765
+"354","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1750766
+"355","Paullinia","Paullinia serjaniifolia","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1750856
+"356","Paullinia","Paullinia serjaniifolia","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1750857
+"357","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1752546
+"358","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1752547
+"359","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1752548
+"360","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1752549
+"361","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1752550
+"362","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1752551
+"363","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1752672
+"364","Paullinia","Paullinia clavigera","whole plant growth form","liana",NA,NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1752735
+"365","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1754246
+"366","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1754247
+"367","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1754278
+"368","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1754279
+"369","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1755957
+"370","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1755958
+"371","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1755959
+"372","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1755960
+"373","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1756078
+"374","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1756171
+"375","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1756270
+"376","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1757982
+"377","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1757983
+"378","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1758027
+"379","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1758028
+"380","Paullinia",NA,"whole plant growth form","liana",NA,NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1761738
+"381","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1761496
+"382","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1761501
+"383","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1761502
+"384","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1761523
+"385","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1761524
+"386","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1761573
+"387","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1761574
+"388","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1761575
+"389","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1761866
+"390","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1765001
+"391","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1765002
+"392","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1766811
+"393","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1766812
+"394","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1767133
+"395","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1770101
+"396","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1770103
+"397","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1770151
+"398","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1770152
+"399","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2,-84.1,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1770509
+"400","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1770645
+"401","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1772147
+"402","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1772148
+"403","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1772254
+"404","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1772255
+"405","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1772277
+"406","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1772278
+"407","Paullinia","Paullinia cururu","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1772634
+"408","Paullinia",NA,"whole plant growth form","liana",NA,NA,17.5778,-96.3333,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1774226
+"409","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1773979
+"410","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1773980
+"411","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1774032
+"412","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1774033
+"413","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1775785
+"414","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1775786
+"415","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1775830
+"416","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1775831
+"417","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1775916
+"418","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1775917
+"419","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1775918
+"420","Paullinia","Paullinia clavigera","whole plant growth form","liana",NA,NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1776050
+"421","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1777716
+"422","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1779565
+"423","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1779566
+"424","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1779594
+"425","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1779595
+"426","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1779682
+"427","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1779683
+"428","Paullinia","Paullinia bracteosa","whole plant growth form","liana",NA,NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1779993
+"429","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1781313
+"430","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1781314
+"431","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1781336
+"432","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1781337
+"433","Paullinia","Paullinia alata","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1781420
+"434","Paullinia","Paullinia alata","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1781421
+"435","Paullinia","Paullinia alata","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1781422
+"436","Paullinia","Paullinia alata","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1781423
+"437","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1783232
+"438","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1783231
+"439","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1783335
+"440","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1783336
+"441","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1783367
+"442","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1783368
+"443","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1784963
+"444","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1784965
+"445","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1784992
+"446","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1784993
+"447","Paullinia","Paullinia cururu","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1785101
+"448","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1786895
+"449","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1786896
+"450","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1786933
+"451","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1786934
+"452","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1787005
+"453","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1787006
+"454","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1788722
+"455","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1788723
+"456","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1788724
+"457","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1788807
+"458","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1788808
+"459","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1788825
+"460","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1788826
+"461","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1790552
+"462","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1790553
+"463","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1792429
+"464","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1792430
+"465","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1792466
+"466","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1792467
+"467","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1792626
+"468","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1794299
+"469","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1794300
+"470","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1794317
+"471","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1794318
+"472","Paullinia",NA,"whole plant growth form","liana",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1794729
+"473","Paullinia","Paullinia bracteosa","whole plant growth form","liana",NA,NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1796550
+"474","Paullinia","Paullinia bracteosa","whole plant growth form","liana",NA,NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1796552
+"475","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1798053
+"476","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1798054
+"477","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1799771
+"478","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1799772
+"479","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1799833
+"480","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1799834
+"481","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1799900
+"482","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1801805
+"483","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1801807
+"484","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1801814
+"485","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1801815
+"486","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1801846
+"487","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1801847
+"488","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1803678
+"489","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1803679
+"490","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1803690
+"491","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1803691
+"492","Paullinia",NA,"whole plant growth form","liana",NA,NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1804037
+"493","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1807054
+"494","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1807055
+"495","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1807056
+"496","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1807316
+"497","Paullinia","Paullinia pinnata","whole plant growth form","liana",NA,NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1807548
+"498","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.432,-84.0348,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1808871
+"499","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.432,-84.0348,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1808872
+"500","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1808899
+"501","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1808900
+"502","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1812727
+"503","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1812646
+"504","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1812647
+"505","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1812650
+"506","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1812651
+"507","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1812730
+"508","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1814413
+"509","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1814414
+"510","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.3328,-84.0789,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1814573
+"511","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1817902
+"512","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1817903
+"513","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1817938
+"514","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1817939
+"515","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1817992
+"516","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1817993
+"517","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1819760
+"518","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1819761
+"519","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1819762
+"520","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1819746
+"521","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1819747
+"522","Paullinia","Paullinia alata","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1819795
+"523","Paullinia","Paullinia alata","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1819796
+"524","Paullinia","Paullinia bracteosa","whole plant growth form","liana",NA,NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1820130
+"525","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1821630
+"526","Paullinia",NA,"whole plant growth form","liana",NA,NA,17.5778,-96.3333,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1821810
+"527","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1823385
+"528","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1823386
+"529","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1823480
+"530","Paullinia","Paullinia paullinioides","whole plant growth form","liana",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1823749
+"531","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825052
+"532","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825053
+"533","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825088
+"534","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825089
+"535","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825090
+"536","Paullinia","Paullinia alata","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825128
+"537","Paullinia","Paullinia alata","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825129
+"538","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1826910
+"539","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1826909
+"540","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1826943
+"541","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1826944
+"542","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1828918
+"543","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1828919
+"544","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1830688
+"545","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1830690
+"546","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1830755
+"547","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1830756
+"548","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1832472
+"549","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1832473
+"550","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1832480
+"551","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1832482
+"552","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2,-84.1,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1832742
+"553","Paullinia","Paullinia pinnata","whole plant growth form","liana",NA,NA,18.598,-95.096,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1832941
+"554","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2908,-84.0606,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1834462
+"555","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1835948
+"556","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1835949
+"557","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1836023
+"558","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1836024
+"559","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1836077
+"560","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1836078
+"561","Paullinia",NA,"whole plant growth form","hemiepiphyte",NA,NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1836199
+"562","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1836214
+"563","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1837946
+"564","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1837960
+"565","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1839651
+"566","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1839652
+"567","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1841457
+"568","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1841458
+"569","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1841474
+"570","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1841475
+"571","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2,-84.1,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1841658
+"572","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1843295
+"573","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1843297
+"574","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1843323
+"575","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1843324
+"576","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1843594
+"577","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1843603
+"578","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1845196
+"579","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1845197
+"580","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1845214
+"581","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1845215
+"582","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1846941
+"583","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1846942
+"584","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1846943
+"585","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1846968
+"586","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1846969
+"587","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1847028
+"588","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1847030
+"589","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1847089
+"590","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1847090
+"591","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1848798
+"592","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1848799
+"593","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1848883
+"594","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1848884
+"595","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1850044
+"596","Paullinia","Paullinia sessiliflora","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1850965
+"597","Paullinia","Paullinia sessiliflora","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1850966
+"598","Paullinia","Paullinia sessiliflora","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1850967
+"599","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1852373
+"600","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1852374
+"601","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1852379
+"602","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1852380
+"603","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1852381
+"604","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1852408
+"605","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1852409
+"606","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1854284
+"607","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1854285
+"608","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1854377
+"609","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1855986
+"610","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1855987
+"611","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1856053
+"612","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1856054
+"613","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1856055
+"614","Paullinia","Paullinia sessiliflora","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1856459
+"615","Paullinia","Paullinia sessiliflora","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1856461
+"616","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1857811
+"617","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1857812
+"618","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1857857
+"619","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1857858
+"620","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.3615,-83.9928,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1857878
+"621","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.3615,-83.9928,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1857879
+"622","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1857933
+"623","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1857934
+"624","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1857947
+"625","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1857948
+"626","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1858130
+"627","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1859790
+"628","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1859791
+"629","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1861653
+"630","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1861654
+"631","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1861661
+"632","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1861662
+"633","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1865271
+"634","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1865272
+"635","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1865289
+"636","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1865290
+"637","Paullinia","Paullinia costata","whole plant growth form","liana",NA,NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1865708
+"638","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1867225
+"639","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1867226
+"640","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1867233
+"641","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1867234
+"642","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2908,-84.0606,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1867380
+"643","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1870810
+"644","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1870811
+"645","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1872651
+"646","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1872652
+"647","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1872814
+"648","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1874486
+"649","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1874487
+"650","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1874530
+"651","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1874531
+"652","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1877267
+"653","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878171
+"654","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878305
+"655","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878306
+"656","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878353
+"657","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878354
+"658","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878390
+"659","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878391
+"660","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878406
+"661","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878407
+"662","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878408
+"663","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878409
+"664","Paullinia","Paullinia serjaniifolia","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878438
+"665","Paullinia","Paullinia serjaniifolia","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1878439
+"666","Paullinia",NA,"whole plant growth form","liana",NA,NA,19.5,-96.95,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1878701
+"667","Paullinia",NA,"whole plant growth form","liana",NA,NA,19.5,-96.95,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1878675
+"668","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1880163
+"669","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1880164
+"670","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1880174
+"671","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1880186
+"672","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4554,-84.0659,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1880187
+"673","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1880246
+"674","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1880247
+"675","Paullinia","Paullinia paullinioides","whole plant growth form","liana",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1880614
+"676","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1882016
+"677","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1882017
+"678","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1882051
+"679","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1882052
+"680","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1882053
+"681","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1882089
+"682","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1882140
+"683","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1882141
+"684","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1883851
+"685","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1883852
+"686","Paullinia","Paullinia sessiliflora","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1886108
+"687","Paullinia","Paullinia sessiliflora","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1886109
+"688","Paullinia","Paullinia sessiliflora","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1886110
+"689","Paullinia","Paullinia sessiliflora","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1886111
+"690","Paullinia","Paullinia sessiliflora","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1886112
+"691","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1887533
+"692","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1887551
+"693","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1889376
+"694","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1889377
+"695","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1889475
+"696","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1889476
+"697","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1891141
+"698","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1891142
+"699","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1891152
+"700","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1891153
+"701","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1891154
+"702","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1891155
+"703","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1891156
+"704","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1891157
+"705","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1892955
+"706","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1892956
+"707","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1894735
+"708","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1894736
+"709","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1894761
+"710","Paullinia","Paullinia serjaniifolia","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1896644
+"711","Paullinia","Paullinia serjaniifolia","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1896645
+"712","Paullinia","Paullinia serjaniifolia","whole plant growth form","liana",NA,NA,10.399,-84.0995,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1896646
+"713","Paullinia","Paullinia cururu","whole plant growth form","liana",NA,NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1896967
+"714","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1898306
+"715","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1898308
+"716","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1898373
+"717","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1898374
+"718","Paullinia","Paullinia sessiliflora","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898729
+"719","Paullinia","Paullinia sessiliflora","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898730
+"720","Paullinia","Paullinia sessiliflora","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898731
+"721","Paullinia","Paullinia sessiliflora","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1898732
+"722","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1900312
+"723","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1900313
+"724","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1902040
+"725","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1902042
+"726","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1905731
+"727","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1905732
+"728","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1905744
+"729","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1905745
+"730","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1905756
+"731","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1905757
+"732","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1905758
+"733","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1905761
+"734","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1905762
+"735","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1909272
+"736","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1909273
+"737","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1909303
+"738","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1909305
+"739","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1911172
+"740","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1911173
+"741","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1911174
+"742","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1911280
+"743","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1911281
+"744","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1911337
+"745","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2,-84.1,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1911401
+"746","Paullinia","Paullinia costaricensis","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1911528
+"747","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1912945
+"748","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1912946
+"749","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1913044
+"750","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1913045
+"751","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1913046
+"752","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1913047
+"753","Paullinia",NA,"whole plant growth form","liana",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1914136
+"754","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1914828
+"755","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1914829
+"756","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1914903
+"757","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1914905
+"758","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1914906
+"759","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1916793
+"760","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1916794
+"761","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1916863
+"762","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1916864
+"763","Paullinia",NA,"whole plant growth form","liana",NA,NA,17.5778,-96.3333,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1917034
+"764","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1918155
+"765","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1918692
+"766","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1918693
+"767","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1920599
+"768","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1920613
+"769","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1924205
+"770","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.0117,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1924206
+"771","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4329,-83.9864,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1924246
+"772","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4329,-83.9864,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1924248
+"773","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1924261
+"774","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1924262
+"775","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1924282
+"776","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1924283
+"777","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1926094
+"778","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1926095
+"779","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1926158
+"780","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1926159
+"781","Paullinia","Paullinia bracteosa","whole plant growth form","liana",NA,NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1926496
+"782","Paullinia","Paullinia bracteosa","whole plant growth form","liana",NA,NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1926497
+"783","Paullinia","Paullinia bracteosa","whole plant growth form","liana",NA,NA,8.5,-83.607,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1926498
+"784","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1927842
+"785","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1927843
+"786","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1927882
+"787","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1927978
+"788","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1927979
+"789","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1929763
+"790","Paullinia",NA,"whole plant growth form","liana",NA,NA,17.5778,-96.3333,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1931357
+"791","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1931506
+"792","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1931507
+"793","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1931571
+"794","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1933328
+"795","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1933329
+"796","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1933354
+"797","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2958,-84.0769,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1933489
+"798","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1935096
+"799","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1935289
+"800","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1935097
+"801","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1935209
+"802","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1935210
+"803","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1938829
+"804","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1938830
+"805","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1940871
+"806","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1940872
+"807","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1942685
+"808","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1942686
+"809","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1942770
+"810","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1942771
+"811","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1944490
+"812","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1944491
+"813","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1944523
+"814","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1944525
+"815","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1946468
+"816","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1946469
+"817","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1948277
+"818","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1948278
+"819","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1948279
+"820","Paullinia",NA,"whole plant growth form","liana",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1950391
+"821","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951866
+"822","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1951867
+"823","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1953784
+"824","Paullinia","Paullinia pterocarpa","whole plant growth form","liana",NA,NA,10.4351,-84.0264,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1953785
+"825","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1953829
+"826","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1953830
+"827","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1953932
+"828","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1953933
+"829","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2,-84.1,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1954126
+"830","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1954322
+"831","Paullinia",NA,"whole plant growth form","liana",NA,NA,9.58,-84.577,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1956028
+"832","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4551,-84.0645,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1957461
+"833","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1957502
+"834","Paullinia","Paullinia fuscescens","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1957503
+"835","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2772,-84.0825,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1959434
+"836","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1961060
+"837","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4326,-83.9867,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1961061
+"838","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1961086
+"839","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1961087
+"840","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1961098
+"841","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1961099
+"842","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1962768
+"843","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1962769
+"844","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1962776
+"845","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1962777
+"846","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1962814
+"847","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1962815
+"848","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4248,-84.0395,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1962816
+"849","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1964640
+"850","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1964641
+"851","Paullinia","Paullinia paullinioides","whole plant growth form","liana",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1965045
+"852","Paullinia","Paullinia paullinioides","whole plant growth form","liana",NA,NA,10.4333,-84.0167,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1966777
+"853","Paullinia","Paullinia alata","whole plant growth form","liana",NA,NA,10.4345,-84.0267,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1968130
+"854","Paullinia","Paullinia alata","whole plant growth form","liana",NA,NA,10.4345,-84.0267,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1968131
+"855","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1968134
+"856","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4143,-84.0025,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1968135
+"857","Paullinia","Paullinia sessiliflora","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1968548
+"858","Paullinia","Paullinia sessiliflora","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1968549
+"859","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1970069
+"860","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1970070
+"861","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1970148
+"862","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1970379
+"863","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.432,-84.0348,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1971693
+"864","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1971778
+"865","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4263,-83.9958,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1971779
+"866","Paullinia",NA,"whole plant growth form","liana",NA,NA,19.5,-96.95,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1972086
+"867","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1973568
+"868","Paullinia","Paullinia rugosa","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1973570
+"869","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1975349
+"870","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.412,-84.0078,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1975350
+"871","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1975404
+"872","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1975405
+"873","Paullinia","Paullinia cururu","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1975751
+"874","Paullinia","Paullinia cururu","whole plant growth form","liana",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1975752
+"875","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4,-84.05,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1975775
+"876","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1977329
+"877","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1977198
+"878","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4304,-84.0167,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1977199
+"879","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1977330
+"880","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1977271
+"881","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1977283
+"882","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1977328
+"883","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1979201
+"884","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4334,-84.0334,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1979202
+"885","Paullinia","Paullinia ingaefolia","whole plant growth form","liana",NA,NA,10.2972,-84.0736,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1979398
+"886","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.5,-85.1667,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1979563
+"887","Paullinia",NA,"whole plant growth form","liana",NA,NA,10.5,-85.1667,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1979576
+"888","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1981062
+"889","Paullinia","Paullinia ingifolia","whole plant growth form","liana",NA,NA,10.4345,-84.0231,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1981063
+"890","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1981078
+"891","Paullinia","Paullinia granatensis","whole plant growth form","liana",NA,NA,10.4115,-84.0314,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1981079
+"892","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1982759
+"893","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1982760
+"894","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4134,-84.0278,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1982761
+"895","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1982801
+"896","Paullinia","Paullinia fibrigera","whole plant growth form","liana",NA,NA,10.4209,-84.0259,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1982802
+"897","Paullinia","Paullinia fibrigera","seed length","9.77","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3107555
+"898","Paullinia","Paullinia turbacensis","seed mass","282.8","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3107572
+"899","Paullinia","Paullinia turbacensis","seed mass","221.3","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3107577
+"900","Paullinia","Paullinia turbacensis","seed mass","236.2","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3107578
+"901","Paullinia","Paullinia turbacensis","seed mass","225.9","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3107579
+"902","Paullinia","Paullinia turbacensis","seed length","10.3","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3107580
+"903","Paullinia","Paullinia turbacensis","seed length","9.1","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3107581
+"904","Paullinia","Paullinia turbacensis","seed length","9.8","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3107582
+"905","Paullinia","Paullinia turbacensis","seed length","9.8","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3107583
+"906","Paullinia","Paullinia turbacensis","seed length","9.8","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3107584
+"907","Paullinia","Paullinia bracteosa","leaf area per leaf dry mass","23.17703125","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.49824,-84.03149,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3108065
+"908","Paullinia","Paullinia bracteosa","leaf area per leaf dry mass","17.35216667","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.49824,-84.03149,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3108068
+"909","Paullinia","Paullinia cururu","leaf phosphorus content per leaf dry mass","1.69504","mg.g-1",NA,10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3109511
+"910","Paullinia","Paullinia bracteosa","leaf area per leaf dry mass","20.04214286","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.49824,-84.03149,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3114913
+"911","Paullinia","Paullinia tomentosa","leaf phosphorus content per leaf dry mass","1.13748","mg.g-1",NA,23.0575,-99.1787,835,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Mexico","Tamaulipas","Reserva de La Biosfera El Cielo. On steep slopes and ridge crest at edge of plateau just above final switchback along main road from Gomez Farias to Alta Cima.","public",3118626
+"912","Paullinia","Paullinia cururu","leaf carbon content per leaf dry mass","424.352","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3120494
+"913","Paullinia","Paullinia ingaefolia","leaf phosphorus content per leaf dry mass","1.52077532","mg.g-1",NA,10.98407,-85.42447,650,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Pitilla Station","public",3120495
+"914","Paullinia","Paullinia fibrigera","seed mass","468.8","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3151527
+"915","Paullinia","Paullinia cururu","leaf nitrogen content per leaf dry mass","22.66310571","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3152278
+"916","Paullinia","Paullinia fibrigera","seed length","11.99","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3171996
+"917","Paullinia","Paullinia fibrigera","seed length","116.5","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3172019
+"918","Paullinia","Paullinia fibrigera","seed mass","1437.8","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3172241
+"919","Paullinia","Paullinia fibrigera","seed mass","1785.7","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3172244
+"920","Paullinia","Paullinia fibrigera","seed mass","460.8","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3172245
+"921","Paullinia","Paullinia fibrigera","seed mass","189860.4","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3172246
+"922","Paullinia","Paullinia fibrigera","seed length","131.1","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208740
+"923","Paullinia","Paullinia fibrigera","seed length","101.73","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208741
+"924","Paullinia","Paullinia fibrigera","seed length","12.2","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3209867
+"925","Paullinia","Paullinia fibrigera","seed mass","1683","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3209934
+"926","Paullinia","Paullinia fibrigera","seed mass","484.2","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3209935
+"927","Paullinia","Paullinia fibrigera","seed mass","425","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3209923
+"928","Paullinia","Paullinia fibrigera","seed mass","344.5","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3209924
+"929","Paullinia","Paullinia fibrigera","seed mass","292.6","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3209925
+"930","Paullinia","Paullinia fibrigera","seed length","103.3","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3209928
+"931","Paullinia","Paullinia fibrigera","seed length","122","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3209930
+"932","Paullinia","Paullinia fibrigera","seed mass","531.6","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3209946
+"933","Paullinia","Paullinia turbacensis","seed length","8.6","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3209951
+"934","Paullinia","Paullinia turbacensis","seed mass","157.3","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3209961
+"935","Paullinia","Paullinia turbacensis","seed length","10.9","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3209962
+"936","Paullinia","Paullinia turbacensis","seed length","8.6","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3209963
+"937","Paullinia","Paullinia bracteosa","leaf area per leaf dry mass","21.79598647","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.49824,-84.03149,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3220293
+"938","Paullinia","Paullinia bracteosa","leaf area per leaf dry mass","17.7702963","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.49824,-84.03149,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3220305
+"939","Paullinia","Paullinia tomentosa","leaf carbon content per leaf dry mass","494.4","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",23.0575,-99.1787,835,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Mexico","Tamaulipas","Reserva de La Biosfera El Cielo. On steep slopes and ridge crest at edge of plateau just above final switchback along main road from Gomez Farias to Alta Cima.","public",3227219
+"940","Paullinia","Paullinia ingaefolia","leaf nitrogen content per leaf dry mass","32.25042885","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.98407,-85.42447,650,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Pitilla Station","public",3227636
+"941","Paullinia","Paullinia fibrigera","seed length","10","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3255475
+"942","Paullinia","Paullinia fibrigera","seed length","96.2","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3256993
+"943","Paullinia","Paullinia turbacensis","seed mass","242.8","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3257005
+"944","Paullinia","Paullinia turbacensis","seed mass","237.6","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3257019
+"945","Paullinia","Paullinia turbacensis","seed mass","212.4","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3257022
+"946","Paullinia","Paullinia tomentosa","leaf nitrogen content per leaf dry mass","24.1","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",23.0575,-99.1787,835,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Mexico","Tamaulipas","Reserva de La Biosfera El Cielo. On steep slopes and ridge crest at edge of plateau just above final switchback along main road from Gomez Farias to Alta Cima.","public",3258694
+"947","Paullinia","Paullinia turbacensis","seed mass","261.2","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3470006
+"948","Paullinia","Paullinia fibrigera","seed length","10.5","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3477923
+"949","Paullinia","Paullinia turbacensis","seed length","10.2","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3478084
+"950","Paullinia","Paullinia fibrigera","seed length","9.86","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3478095
+"951","Paullinia","Paullinia fibrigera","seed mass","320.1","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3478107
+"952","Paullinia","Paullinia fibrigera","seed length","11.8","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3478136
+"953","Paullinia","Paullinia fibrigera","seed length","10.03","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3478183
+"954","Paullinia","Paullinia fibrigera","seed mass","154297.2","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3487520
+"955","Paullinia","Paullinia fibrigera","seed mass","394.9","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3491774
+"956","Paullinia","Paullinia bracteosa","leaf area per leaf dry mass","20.82115976","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.49824,-84.03149,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3704535
+"957","Paullinia","Paullinia cururu","leaf nitrogen content per leaf dry mass","12.443","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3704569
+"958","Paullinia","Paullinia ingaefolia","leaf carbon content per leaf dry mass","524.77418","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.98407,-85.42447,650,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Pitilla Station","public",3704570
+"959","Paullinia","Paullinia bracteosa","leaf area per leaf dry mass","17.72709578","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.49824,-84.03149,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3704572
+"960","Paullinia","Paullinia bracteosa","leaf area per leaf dry mass","17.64052392","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.49824,-84.03149,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3704573
+"961","Paullinia","Paullinia bracteosa","leaf area per leaf dry mass","18.26782353","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.49824,-84.03149,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3704574
+"962","Paullinia","Paullinia cururu","leaf carbon content per leaf dry mass","451.885733","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",4298844

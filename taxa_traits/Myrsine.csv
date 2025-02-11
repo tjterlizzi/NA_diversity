@@ -1,0 +1,231 @@
+"","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Myrsine",NA,"diameter at breast height (1.3 m)","9.89","cm",NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",491753
+"2","Myrsine","Myrsine floridana","leaf area","3680","mm2","Area of dry blade calculated on photographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Florida Panther National Wildlife Refuge","public",3124834
+"3","Myrsine","Myrsine floridana","leaf nitrogen content per leaf dry mass","13.7","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Florida Panther National Wildlife Refuge","public",3183348
+"4","Myrsine","Myrsine floridana","leaf dry mass","0.21","g","actual measurement",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Florida Panther National Wildlife Refuge","public",3229033
+"5","Myrsine","Myrsine floridana","leaf area per leaf dry mass","11.50747986","m2.kg-1","leaf dry area calculated with photpographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Florida Panther National Wildlife Refuge","public",3229036
+"6","Myrsine","Myrsine floridana","leaf area per leaf dry mass","11.52073733","m2.kg-1","leaf dry area calculated with photpographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Florida Panther National Wildlife Refuge","public",3229038
+"7","Myrsine","Myrsine floridana","leaf area","2400","mm2","Area of dry blade calculated on photographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Florida Panther National Wildlife Refuge","public",3229040
+"8","Myrsine","Myrsine floridana","leaf area per leaf dry mass","11.93317422","m2.kg-1","leaf dry area calculated with photpographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Florida Panther National Wildlife Refuge","public",3229043
+"9","Myrsine","Myrsine lessertiana","stem wood density","0.531452827","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.rs7b0.2","Mascaro J","jmascaro@stanford.edu","United States","Hawaii",NA,"public",3448731
+"10","Myrsine","Myrsine floridana","leaf dry mass","0.31","g","actual measurement",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Florida Panther National Wildlife Refuge","public",3464426
+"11","Myrsine","Myrsine floridana","leaf area","3730","mm2","Area of dry blade calculated on photographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Florida Panther National Wildlife Refuge","public",3464507
+"12","Myrsine","Myrsine floridana","leaf dry mass","0.33","g","actual measurement",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","United States","Florida","Florida Panther National Wildlife Refuge","public",3464510
+"13","Myrsine","Myrsine juergensenii","leaf carbon content per leaf dry mass","491.3","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",9.54941,-83.7995,2430,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",4189088
+"14","Myrsine","Myrsine juergensenii","leaf phosphorus content per leaf dry mass","1.74972","mg.g-1",NA,23.0451,-99.236,1755,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Mexico","Tamaulipas","Reserva de La Biosfera El Cielo. Ca. 1 km to N of high point of road from La Gloria to Joya Manantiales.","public",4189046
+"15","Myrsine","Myrsine juergensenii","leaf nitrogen content per leaf dry mass","15","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",9.54941,-83.7995,2430,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",4189082
+"16","Myrsine","Myrsine cubana","whole plant height","9.144","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",4406618
+"17","Myrsine",NA,"diameter at breast height (1.3 m)","12.8","cm",NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1610
+"18","Myrsine",NA,"diameter at breast height (1.3 m)","4.9","cm",NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",114304
+"19","Myrsine",NA,"diameter at breast height (1.3 m)","4.19","cm",NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",141663
+"20","Myrsine","Myrsine juergensenii","diameter at breast height (1.3 m)","7.8","cm",NA,17.5931,-96.4764,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",208730
+"21","Myrsine","Myrsine juergensenii","diameter at breast height (1.3 m)","13","cm",NA,17.5931,-96.4764,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",235108
+"22","Myrsine",NA,"diameter at breast height (1.3 m)","7.3","cm",NA,10.2131,-84.1014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",409856
+"23","Myrsine","Myrsine pittieri","diameter at breast height (1.3 m)","26.79","cm",NA,10.1372,-84.1056,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",438290
+"24","Myrsine",NA,"diameter at breast height (1.3 m)","28.7","cm",NA,10.2131,-84.1014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",559057
+"25","Myrsine",NA,"diameter at breast height (1.3 m)","12","cm",NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",653349
+"26","Myrsine",NA,"diameter at breast height (1.3 m)","4.5","cm",NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",719905
+"27","Myrsine",NA,"diameter at breast height (1.3 m)","13.1","cm",NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",734487
+"28","Myrsine",NA,"diameter at breast height (1.3 m)","5.9","cm",NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",855631
+"29","Myrsine",NA,"diameter at breast height (1.3 m)","8","cm",NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",869083
+"30","Myrsine","Myrsine juergensenii","diameter at breast height (1.3 m)","9","cm",NA,17.5931,-96.4764,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",909518
+"31","Myrsine","Myrsine pellucidopunctata","diameter at breast height (1.3 m)","2.5","cm",NA,8.98333,-79.55,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1193840
+"32","Myrsine","Myrsine juergensenii","diameter at breast height (1.3 m)","17.5","cm",NA,17.5711,-96.3589,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1207325
+"33","Myrsine",NA,"diameter at breast height (1.3 m)","5","cm",NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1261257
+"34","Myrsine",NA,"diameter at breast height (1.3 m)","5.59","cm",NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1410013
+"35","Myrsine",NA,"diameter at breast height (1.3 m)","18.29","cm",NA,10.2131,-84.1014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1421703
+"36","Myrsine","Myrsine juergensenii","diameter at breast height (1.3 m)","9.19","cm",NA,17.5931,-96.4764,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1463805
+"37","Myrsine",NA,"diameter at breast height (1.3 m)","11.89","cm",NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1516231
+"38","Myrsine",NA,"diameter at breast height (1.3 m)","35.59","cm",NA,10.1836,-84.1072,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1544983
+"39","Myrsine","Myrsine pittieri","diameter at breast height (1.3 m)","16","cm",NA,10.1372,-84.1056,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1558589
+"40","Myrsine",NA,"diameter at breast height (1.3 m)","4.69","cm",NA,10.1825,-84.1069,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1706040
+"41","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1759867
+"42","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1763369
+"43","Myrsine","Myrsine juergensenii","whole plant growth form","tree",NA,NA,17.5931,-96.4764,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1772389
+"44","Myrsine","Myrsine juergensenii","whole plant growth form","tree",NA,NA,17.5931,-96.4764,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1775996
+"45","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1797895
+"46","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.2131,-84.1014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1800146
+"47","Myrsine","Myrsine pittieri","whole plant growth form","tree",NA,NA,10.1372,-84.1056,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1803835
+"48","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1810470
+"49","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.2131,-84.1014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1819937
+"50","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1832645
+"51","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1841537
+"52","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1843589
+"53","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1859890
+"54","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1861849
+"55","Myrsine","Myrsine juergensenii","whole plant growth form","tree",NA,NA,17.5931,-96.4764,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1867411
+"56","Myrsine","Myrsine pellucidopunctata","whole plant growth form","tree",NA,NA,8.98333,-79.55,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1906093
+"57","Myrsine","Myrsine juergensenii","whole plant growth form","tree",NA,NA,17.5711,-96.3589,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1907728
+"58","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1915043
+"59","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1935285
+"60","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.2131,-84.1014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1937098
+"61","Myrsine","Myrsine juergensenii","whole plant growth form","tree",NA,NA,17.5931,-96.4764,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1942927
+"62","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.1686,-84.1133,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1950284
+"63","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.1836,-84.1072,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1954016
+"64","Myrsine","Myrsine pittieri","whole plant growth form","tree",NA,NA,10.1372,-84.1056,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1955767
+"65","Myrsine",NA,"whole plant growth form","tree",NA,NA,10.1825,-84.1069,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Costa Rica",NA,NA,"public",1975515
+"66","Myrsine","Myrsine juergensenii","leaf nitrogen content per leaf dry mass","12.6","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",9.54941,-83.7995,2430,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",3101736
+"67","Myrsine","Myrsine dependens","leaf area per leaf dry mass","5.511470588","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.55875,-83.74345,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3123586
+"68","Myrsine","Myrsine dependens","leaf area per leaf dry mass","6.559347826","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.55875,-83.74345,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3123587
+"69","Myrsine","Myrsine dependens","leaf area per leaf dry mass","6.131458332","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.55875,-83.74345,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3123588
+"70","Myrsine","Myrsine dependens","leaf area per leaf dry mass","7.318846154","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.55875,-83.74345,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3123589
+"71","Myrsine","Myrsine juergensenii","leaf phosphorus content per leaf dry mass","0.550928","mg.g-1",NA,9.54941,-83.7995,2430,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",3168479
+"72","Myrsine","Myrsine juergensenii","leaf phosphorus content per leaf dry mass","0.8082","mg.g-1",NA,23.0345,-99.214,1205,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Mexico","Tamaulipas",NA,"public",3168480
+"73","Myrsine","Myrsine lessertiana","leaf area per leaf dry mass","6.413","m2.kg-1",NA,19.475,-155.608,2000,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","United States","Hawaii",NA,"public",3242258
+"74","Myrsine","Myrsine juergensenii","leaf nitrogen content per leaf dry mass","21.76666667","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",23.0451,-99.236,1755,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Mexico","Tamaulipas","Reserva de La Biosfera El Cielo. Ca. 1 km to N of high point of road from La Gloria to Joya Manantiales.","public",3262608
+"75","Myrsine","Myrsine dependens","leaf area per leaf dry mass","6.63","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.55875,-83.74345,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3448750
+"76","Myrsine","Myrsine dependens","leaf area per leaf dry mass","6.092727273","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.55875,-83.74345,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3448751
+"77","Myrsine","Myrsine dependens","leaf area per leaf dry mass","6.915294117","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.55875,-83.74345,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3448758
+"78","Myrsine","Myrsine dependens","leaf area per leaf dry mass","6.253599998","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.55875,-83.74345,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3448760
+"79","Myrsine","Myrsine dependens","leaf area per leaf dry mass","6.989999998","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.55875,-83.74345,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3448765
+"80","Myrsine","Myrsine dependens","leaf area per leaf dry mass","8.414999997","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.55875,-83.74345,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3448766
+"81","Myrsine","Myrsine dependens","leaf area per leaf dry mass","7.842400002","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.55875,-83.74345,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3448767
+"82","Myrsine","Myrsine dependens","leaf area per leaf dry mass","7.491818184","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.55875,-83.74345,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3448768
+"83","Myrsine","Myrsine dependens","leaf area per leaf dry mass","5.568181819","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.55875,-83.74345,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3448769
+"84","Myrsine","Myrsine dependens","leaf area per leaf dry mass","8.401249998","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.55875,-83.74345,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3448770
+"85","Myrsine","Myrsine dependens","leaf area per leaf dry mass","7.138846152","m2.kg-1","area/dry mass (Cornelissen et al. 2003)",9.55875,-83.74345,NA,"www.amjbot.org/content/suppl/2012/11/07/ajb.1200062.DC1/Blonder_AppS1A_observational_data.csv","Benjamin Blonder","bblonder@gmail.com","Costa Rica",NA,NA,"public",3448771
+"86","Myrsine","Myrsine juergensenii","leaf carbon content per leaf dry mass","490.2","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",9.54941,-83.7995,2430,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",4009725
+"87","Myrsine","Myrsine juergensenii","leaf phosphorus content per leaf dry mass","0.83867","mg.g-1",NA,9.54941,-83.7995,2430,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","San Jose","OTS Plot","public",4014601
+"88","Myrsine","Myrsine juergensenii","leaf carbon content per leaf dry mass","454.766667","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",23.0451,-99.236,1755,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Mexico","Tamaulipas","Reserva de La Biosfera El Cielo. Ca. 1 km to N of high point of road from La Gloria to Joya Manantiales.","public",4189240
+"89","Myrsine","Myrsine juergensenii","leaf carbon content per leaf dry mass","481.9","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",23.0345,-99.214,1205,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Mexico","Tamaulipas",NA,"public",4189237
+"90","Myrsine","Myrsine juergensenii","leaf nitrogen content per leaf dry mass","20.5","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",23.0345,-99.214,1205,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Mexico","Tamaulipas",NA,"public",4189238
+"91","Myrsine","Myrsine lessertiana","leaf stomatal conductance for H2O per leaf area","146","mol.H2O.m-2.s-1",NA,19.475,-155.608,2000,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","United States","Hawaii",NA,"public",4292060
+"92","Myrsine","Myrsine lessertiana","leaf nitrogen content per leaf area","0.0014969593","kg.m-2",NA,19.475,-155.608,2000,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","United States","Hawaii",NA,"public",4292061
+"93","Myrsine","Myrsine lessertiana","leaf nitrogen content per leaf dry mass","9.6","mg.g-1",NA,19.475,-155.608,2000,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","United States","Hawaii",NA,"public",4292062
+"94","Myrsine","Myrsine lessertiana","leaf phosphorus content per leaf area","0.06237","g.m-2",NA,19.475,-155.608,2000,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","United States","Hawaii",NA,"public",4292063
+"95","Myrsine","Myrsine lessertiana","leaf phosphorus content per leaf dry mass","0.4","mg.g-1",NA,19.475,-155.608,2000,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","United States","Hawaii",NA,"public",4292064
+"96","Myrsine","Myrsine lessertiana","leaf photosynthetic rate per leaf area","7.315","Âµmol.m-2.s-1",NA,19.475,-155.608,2000,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","United States","Hawaii",NA,"public",4292065
+"97","Myrsine","Myrsine lessertiana","leaf photosynthetic rate per leaf dry mass","0.046911095","Âµmol.g-1.s-1",NA,19.475,-155.608,2000,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","United States","Hawaii",NA,"public",4292066
+"98","Myrsine","Myrsine lessertiana","leaf carbon content per leaf nitrogen content","12.122",NA,NA,19.475,-155.608,2000,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","United States","Hawaii",NA,"public",4292067
+"99","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.556","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5310754
+"100","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.81","cm",NA,18.468674,-67.145209,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5713117
+"101","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","14.224","cm",NA,18.343255,-66.243494,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5810824
+"102","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.302","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5908587
+"103","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","4.318","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6114475
+"104","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.81","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6212911
+"105","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.556","cm",NA,18.398286,-66.692141,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6418480
+"106","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","7.62","cm",NA,18.327501,-66.77466,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6819941
+"107","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.8608","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6819998
+"108","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","4.826","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6917509
+"109","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","5.842","cm",NA,18.468674,-67.145209,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7015186
+"110","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.048","cm",NA,18.367253,-66.923359,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7015215
+"111","Myrsine","Myrsine cubana","diameter at breast height (1.3 m)","7.366","cm",NA,18.372189,-66.474155,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7015260
+"112","Myrsine","Myrsine cubana","diameter at breast height (1.3 m)","14.224","cm",NA,18.372189,-66.474155,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7113794
+"113","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","6.604","cm",NA,18.095091,-66.751554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7319445
+"114","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.302","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7720767
+"115","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","12.954","cm",NA,18.06486,-65.956775,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8123778
+"116","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","2.794","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8221581
+"117","Myrsine","Myrsine cubana","diameter at breast height (1.3 m)","36.576","cm",NA,18.372189,-66.474155,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8221640
+"118","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","13.716","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8423324
+"119","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","20.828","cm",NA,18.399846,-66.613423,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8721335
+"120","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","5.08","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8924162
+"121","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","14.224","cm",NA,18.343255,-66.243494,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9122758
+"122","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","6.096","cm",NA,18.468674,-67.145209,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9325645
+"123","Myrsine","Myrsine cubana","diameter at breast height (1.3 m)","2.794","cm",NA,18.343607,-66.845863,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9325663
+"124","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","2.54","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9627918
+"125","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","15.748","cm",NA,18.398286,-66.692141,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9727151
+"126","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","7.874","cm",NA,18.324611,-66.508089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10029529
+"127","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.3528","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10229023
+"128","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","5.08","cm",NA,18.324611,-66.508089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10431449
+"129","Myrsine","Myrsine cubana","diameter at breast height (1.3 m)","4.572","cm",NA,18.343607,-66.845863,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10530411
+"130","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","7.62","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10530467
+"131","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","6.858","cm",NA,18.468674,-67.145209,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10931540
+"132","Myrsine","Myrsine cubana","diameter at breast height (1.3 m)","3.3274","cm",NA,18.343607,-66.845863,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10931619
+"133","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","4.318","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11233496
+"134","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","16.764","cm",NA,18.343255,-66.243494,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11233511
+"135","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","4.826","cm",NA,18.095091,-66.751554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11431530
+"136","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.81","cm",NA,18.311788,-66.72552,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11431616
+"137","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","13.97","cm",NA,18.398286,-66.692141,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11530686
+"138","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.0988","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11632500
+"139","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","7.366","cm",NA,18.311788,-66.72552,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12033395
+"140","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","14.224","cm",NA,18.398286,-66.692141,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12232498
+"141","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","5.588","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12833556
+"142","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","5.08","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13132235
+"143","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","9.144","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13433599
+"144","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.556","cm",NA,18.367253,-66.923359,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13433631
+"145","Myrsine","Myrsine cubana","diameter at breast height (1.3 m)","5.08","cm",NA,18.372189,-66.474155,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13835558
+"146","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","12.446","cm",NA,18.399846,-66.613423,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14136699
+"147","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","10.2362","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14236053
+"148","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.302","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14438602
+"149","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","13.208","cm",NA,18.343255,-66.243494,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14638221
+"150","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","4.318","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14737870
+"151","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.302","cm",NA,18.373015,-66.32012,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14938529
+"152","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","13.462","cm",NA,18.398286,-66.692141,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15338649
+"153","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","5.6388","cm",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15437796
+"154","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.556","cm",NA,18.327501,-66.77466,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15936768
+"155","Myrsine","Myrsine cubana","diameter at breast height (1.3 m)","13.208","cm",NA,18.372189,-66.474155,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16038918
+"156","Myrsine","Myrsine cubana","diameter at breast height (1.3 m)","4.8514","cm",NA,18.343607,-66.845863,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16038942
+"157","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","4.318","cm",NA,18.393008,-66.437145,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16139771
+"158","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.556","cm",NA,18.373015,-66.32012,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16139837
+"159","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","4.318","cm",NA,18.324611,-66.508089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16640489
+"160","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","3.302","cm",NA,18.324611,-66.508089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16640490
+"161","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","9.906","cm",NA,18.367253,-66.923359,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16640512
+"162","Myrsine","Myrsine cubana","diameter at breast height (1.3 m)","16.51","cm",NA,18.372189,-66.474155,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16640544
+"163","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","8.382","cm",NA,18.367253,-66.923359,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17644994
+"164","Myrsine","Myrsine coriacea","diameter at breast height (1.3 m)","16.256","cm",NA,18.398286,-66.692141,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17844795
+"165","Myrsine","Myrsine coriacea","whole plant height","5.1816","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18109557
+"166","Myrsine","Myrsine coriacea","whole plant height","3.3528","m",NA,18.468674,-67.145209,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18387269
+"167","Myrsine","Myrsine coriacea","whole plant height","7.0104","m",NA,18.343255,-66.243494,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18455159
+"168","Myrsine","Myrsine coriacea","whole plant height","4.572","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18523074
+"169","Myrsine","Myrsine coriacea","whole plant height","5.4864","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18664301
+"170","Myrsine","Myrsine coriacea","whole plant height","5.1816","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18732446
+"171","Myrsine","Myrsine coriacea","whole plant height","4.8768","m",NA,18.398286,-66.692141,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18873922
+"172","Myrsine","Myrsine coriacea","whole plant height","3.9624","m",NA,18.327501,-66.77466,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19151398
+"173","Myrsine","Myrsine coriacea","whole plant height","4.8768","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19151449
+"174","Myrsine","Myrsine coriacea","whole plant height","4.8768","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19219243
+"175","Myrsine","Myrsine coriacea","whole plant height","5.7912","m",NA,18.468674,-67.145209,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19286821
+"176","Myrsine","Myrsine coriacea","whole plant height","5.4864","m",NA,18.367253,-66.923359,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19286850
+"177","Myrsine","Myrsine cubana","whole plant height","5.7912","m",NA,18.372189,-66.474155,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19286895
+"178","Myrsine","Myrsine cubana","whole plant height","0.3048","m",NA,18.372189,-66.474155,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19355348
+"179","Myrsine","Myrsine coriacea","whole plant height","6.4008","m",NA,18.095091,-66.751554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19497078
+"180","Myrsine","Myrsine coriacea","whole plant height","4.572","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19774004
+"181","Myrsine","Myrsine coriacea","whole plant height","7.0104","m",NA,18.06486,-65.956775,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20053032
+"182","Myrsine","Myrsine coriacea","whole plant height","3.9624","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20121100
+"183","Myrsine","Myrsine cubana","whole plant height","21.9456","m",NA,18.372189,-66.474155,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20121161
+"184","Myrsine","Myrsine coriacea","whole plant height","7.62","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20260052
+"185","Myrsine","Myrsine coriacea","whole plant height","17.0688","m",NA,18.399846,-66.613423,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20467144
+"186","Myrsine","Myrsine coriacea","whole plant height","4.8768","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20606452
+"187","Myrsine","Myrsine coriacea","whole plant height","14.6304","m",NA,18.343255,-66.243494,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20744224
+"188","Myrsine","Myrsine coriacea","whole plant height","6.4008","m",NA,18.468674,-67.145209,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20883906
+"189","Myrsine","Myrsine cubana","whole plant height","3.3528","m",NA,18.343607,-66.845863,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20883923
+"190","Myrsine","Myrsine coriacea","whole plant height","3.9624","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21093002
+"191","Myrsine","Myrsine coriacea","whole plant height","11.8872","m",NA,18.398286,-66.692141,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21161900
+"192","Myrsine","Myrsine coriacea","whole plant height","5.1816","m",NA,18.324611,-66.508089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21370675
+"193","Myrsine","Myrsine coriacea","whole plant height","3.9624","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21509018
+"194","Myrsine","Myrsine coriacea","whole plant height","5.1816","m",NA,18.324611,-66.508089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21648879
+"195","Myrsine","Myrsine cubana","whole plant height","4.572","m",NA,18.343607,-66.845863,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21717337
+"196","Myrsine","Myrsine coriacea","whole plant height","8.2296","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21717391
+"197","Myrsine","Myrsine coriacea","whole plant height","5.4864","m",NA,18.468674,-67.145209,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21994292
+"198","Myrsine","Myrsine cubana","whole plant height","3.3528","m",NA,18.343607,-66.845863,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21994371
+"199","Myrsine","Myrsine coriacea","whole plant height","5.1816","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22202830
+"200","Myrsine","Myrsine coriacea","whole plant height","14.9352","m",NA,18.343255,-66.243494,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22202846
+"201","Myrsine","Myrsine coriacea","whole plant height","6.4008","m",NA,18.095091,-66.751554,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22340864
+"202","Myrsine","Myrsine coriacea","whole plant height","3.048","m",NA,18.311788,-66.72552,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22340948
+"203","Myrsine","Myrsine coriacea","whole plant height","13.1064","m",NA,18.398286,-66.692141,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22409692
+"204","Myrsine","Myrsine coriacea","whole plant height","3.9624","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22479845
+"205","Myrsine","Myrsine coriacea","whole plant height","6.096","m",NA,18.311788,-66.72552,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22756862
+"206","Myrsine","Myrsine coriacea","whole plant height","9.144","m",NA,18.398286,-66.692141,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22895163
+"207","Myrsine","Myrsine coriacea","whole plant height","6.7056","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23310451
+"208","Myrsine","Myrsine coriacea","whole plant height","4.8768","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23517675
+"209","Myrsine","Myrsine coriacea","whole plant height","7.0104","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23725176
+"210","Myrsine","Myrsine coriacea","whole plant height","5.7912","m",NA,18.367253,-66.923359,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23725208
+"211","Myrsine","Myrsine cubana","whole plant height","5.4864","m",NA,18.372189,-66.474155,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24003404
+"212","Myrsine","Myrsine coriacea","whole plant height","12.192","m",NA,18.399846,-66.613423,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24211813
+"213","Myrsine","Myrsine coriacea","whole plant height","7.0104","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24280852
+"214","Myrsine","Myrsine coriacea","whole plant height","4.8768","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24420629
+"215","Myrsine","Myrsine coriacea","whole plant height","9.144","m",NA,18.343255,-66.243494,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24558628
+"216","Myrsine","Myrsine coriacea","whole plant height","3.9624","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24627708
+"217","Myrsine","Myrsine coriacea","whole plant height","2.7432","m",NA,18.373015,-66.32012,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24765934
+"218","Myrsine","Myrsine coriacea","whole plant height","13.1064","m",NA,18.398286,-66.692141,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25042260
+"219","Myrsine","Myrsine coriacea","whole plant height","4.8768","m",NA,18.330155,-66.445676,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25111156
+"220","Myrsine","Myrsine coriacea","whole plant height","3.6576","m",NA,18.327501,-66.77466,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25456505
+"221","Myrsine","Myrsine cubana","whole plant height","10.9728","m",NA,18.372189,-66.474155,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25526602
+"222","Myrsine","Myrsine cubana","whole plant height","4.572","m",NA,18.343607,-66.845863,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25526628
+"223","Myrsine","Myrsine coriacea","whole plant height","5.1816","m",NA,18.393008,-66.437145,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25596116
+"224","Myrsine","Myrsine coriacea","whole plant height","3.9624","m",NA,18.373015,-66.32012,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25596187
+"225","Myrsine","Myrsine coriacea","whole plant height","3.9624","m",NA,18.324611,-66.508089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25942697
+"226","Myrsine","Myrsine coriacea","whole plant height","4.572","m",NA,18.324611,-66.508089,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25942698
+"227","Myrsine","Myrsine coriacea","whole plant height","7.9248","m",NA,18.367253,-66.923359,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25942718
+"228","Myrsine","Myrsine cubana","whole plant height","9.4488","m",NA,18.372189,-66.474155,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25942752
+"229","Myrsine","Myrsine coriacea","whole plant height","9.4488","m",NA,18.367253,-66.923359,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26637461
+"230","Myrsine","Myrsine coriacea","whole plant height","21.0312","m",NA,18.398286,-66.692141,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26775948

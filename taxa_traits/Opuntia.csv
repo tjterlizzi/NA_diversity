@@ -1,0 +1,48 @@
+"","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Opuntia","Opuntia ficus-indica","whole plant height","4.2672","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",3101211
+"2","Opuntia","Opuntia fragilis","plant flowering begin","7/5/1912","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3115883
+"3","Opuntia","Opuntia polyacantha","plant flowering begin","7/21/1938","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3153008
+"4","Opuntia","Opuntia fragilis","plant flowering begin","7","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3188712
+"5","Opuntia","Opuntia basilaris","whole plant growth form","shrub",NA,NA,NA,NA,NA,"https://www.jstor.org/stable/1936684?seq=1#page_scan_tab_contents","Shmida A",NA,"United States","California",NA,"public",3229965
+"6","Opuntia","Opuntia polyacantha","plant flowering begin","7","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3237388
+"7","Opuntia","Opuntia polyacantha","plant flowering begin","6/29/1913","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3237788
+"8","Opuntia","Opuntia polyacantha","plant flowering begin","6","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3237816
+"9","Opuntia","Opuntia polyacantha","plant flowering begin","7","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3237940
+"10","Opuntia","Opuntia polyacantha","plant flowering begin","7/5/1912","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3237949
+"11","Opuntia","Opuntia fragilis","seed mass","22.36643","mg","These measurements are taken from of a larger dataset assembled by Cornwell. Cornwell, W.K., Westoby, M., Falster, D.S. et al. (2014) Functional distinctiveness of major plant lineages. Journal of Ecology, 102, 345Â356.",NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.m88g7","Marx HE","h.marx.h@gmail.com","United States","Washington",NA,"public",3453843
+"12","Opuntia","Opuntia fragilis","whole plant height","0.2","m","These measurements are taken from of a larger dataset assembled by Cornwell. Cornwell, W.K., Westoby, M., Falster, D.S. et al. (2014) Functional distinctiveness of major plant lineages. Journal of Ecology, 102, 345Â356.",NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.m88g7","Marx HE","h.marx.h@gmail.com","United States","Washington",NA,"public",3453845
+"13","Opuntia","Opuntia polyacantha","plant flowering begin","6/21/1918","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3762767
+"14","Opuntia","Opuntia polyacantha","plant flowering begin","7/18/1915","date","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3781443
+"15","Opuntia","Opuntia polyacantha","plant flowering begin","6","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3781442
+"16","Opuntia","Opuntia polyacantha","plant flowering begin","7","month","first-flowering time",NA,NA,NA,NA,"Steven Travers","steven.travers@ndsu.edu","United States","North Dakota",NA,"public",3783810
+"17","Opuntia","Opuntia laevis","whole plant growth form","shrub",NA,NA,NA,NA,NA,"http://www.jstor.org.ezproxy4.library.arizona.edu/stable/pdf/40021924.pdf","Whittaker RH",NA,"United States","Arizona","Santa Clarita Mountains","public",3845356
+"18","Opuntia","Opuntia atropes","whole plant growth form","tree",NA,NA,NA,NA,NA,"https://www.researchgate.net/profile/Guillermo_Ibarra-Manriquez/publication/257197702_Fruiting_phenology_of_seed_dispersal_syndromes_in_a_Mexican_Neotropical_temperate_forest/links/5665c34e08ae418a786f266d.pdf","Cortés-Flores F",NA,"Mexico",NA,NA,"public",3846694
+"19","Opuntia","Opuntia engelmannii","whole plant growth form","cactus",NA,NA,NA,NA,NA,"http://www.jstor.org.ezproxy1.library.arizona.edu/stable/pdf/2424164.pdf","Halvorson WL",NA,"United States","Arizona",NA,"public",3851072
+"20","Opuntia","Opuntia littoralis","seed mass","7.294","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4432147
+"21","Opuntia","Opuntia basilaris","seed mass","56.043","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4432171
+"22","Opuntia","Opuntia basilaris","seed mass","27.608","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4432172
+"23","Opuntia",NA,"diameter at breast height (1.3 m)","4.5","cm",NA,15.3333,-92.2,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",21408
+"24","Opuntia",NA,"diameter at breast height (1.3 m)","5","cm",NA,15.3333,-92.2,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",60015
+"25","Opuntia",NA,"diameter at breast height (1.3 m)","25","cm",NA,15.3333,-92.2,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",60093
+"26","Opuntia",NA,"diameter at breast height (1.3 m)","3.5","cm",NA,15.3333,-92.2,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",60094
+"27","Opuntia","Opuntia excelsa","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",640168
+"28","Opuntia","Opuntia excelsa","diameter at breast height (1.3 m)","11","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",640169
+"29","Opuntia",NA,"diameter at breast height (1.3 m)","4","cm",NA,15.3333,-92.2,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1153485
+"30","Opuntia",NA,"diameter at breast height (1.3 m)","3","cm",NA,15.3333,-92.2,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1153486
+"31","Opuntia",NA,"diameter at breast height (1.3 m)","3","cm",NA,15.3333,-92.2,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1153487
+"32","Opuntia","Opuntia excelsa","diameter at breast height (1.3 m)","22","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1599321
+"33","Opuntia",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.2,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1752904
+"34","Opuntia",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.2,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1749200
+"35","Opuntia",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.2,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1752902
+"36","Opuntia",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.2,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1752903
+"37","Opuntia","Opuntia excelsa","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1830902
+"38","Opuntia","Opuntia excelsa","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1831028
+"39","Opuntia",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.2,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1900628
+"40","Opuntia",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.2,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1900629
+"41","Opuntia",NA,"whole plant growth form","tree",NA,NA,15.3333,-92.2,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1900630
+"42","Opuntia","Opuntia excelsa","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1961378
+"43","Opuntia","Opuntia phaeacantha","diameter at breast height (1.3 m)","10","cm",NA,37.283549461,-113.097965329,NA,NA,"Marion Reid",NA,"United States",NA,"Kolob Terrace Road - 1.85 miles from Park entrance, just south of Subway Trailhead.; ZION","public",5241827
+"44","Opuntia","Opuntia phaeacantha","diameter at breast height (1.3 m)","10","cm",NA,37.283549461,-113.097965329,NA,NA,"Marion Reid",NA,"United States",NA,"Kolob Terrace Road - 1.85 miles from Park entrance, just south of Subway Trailhead.; ZION","public",5841235
+"45","Opuntia","Opuntia phaeacantha","diameter at breast height (1.3 m)","10","cm",NA,37.283549461,-113.097965329,NA,NA,"Marion Reid",NA,"United States",NA,"Kolob Terrace Road - 1.85 miles from Park entrance, just south of Subway Trailhead.; ZION","public",11663620
+"46","Opuntia","Opuntia macrorhiza","diameter at breast height (1.3 m)","11","cm",NA,37.283549461,-113.097965329,NA,NA,"Marion Reid",NA,"United States",NA,"Kolob Terrace Road - 1.85 miles from Park entrance, just south of Subway Trailhead.; ZION","public",13566381
+"47","Opuntia","Opuntia phaeacantha","diameter at breast height (1.3 m)","10","cm",NA,37.283549461,-113.097965329,NA,NA,"Marion Reid",NA,"United States",NA,"Kolob Terrace Road - 1.85 miles from Park entrance, just south of Subway Trailhead.; ZION","public",15170914

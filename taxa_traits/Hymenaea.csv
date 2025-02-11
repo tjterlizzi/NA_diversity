@@ -1,0 +1,216 @@
+"","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Hymenaea","Hymenaea courbaril","leaf area per leaf dry mass","7.64","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Costa Rica",NA,NA,"public",3241141
+"2","Hymenaea","Hymenaea courbaril","leaf phosphorus content per leaf dry mass","1.09234","mg.g-1",NA,10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3246589
+"3","Hymenaea","Hymenaea courbaril","stem wood density","0.527","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3870917
+"4","Hymenaea","Hymenaea courbaril","leaf area per leaf dry mass","10.8154","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3871002
+"5","Hymenaea","Hymenaea courbaril","seed mass","5235.6","mg",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.h9083","Paine CET","c.e.t.paine@stir.ac.uk","Panama",NA,NA,"public",3871101
+"6","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","23.876","cm",NA,18.053732,-66.67215,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10129562
+"7","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5005","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14949446
+"8","Hymenaea","Hymenaea courbaril","leaf phosphorus content per leaf dry mass","0.65080899","mg.g-1",NA,10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",4
+"9","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","30","cm",NA,10.5333,-85.3,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",411645
+"10","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","2.5","cm",NA,10.5,-85.1667,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",707287
+"11","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5","cm",NA,10.5,-85.1667,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",855828
+"12","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5","cm",NA,10.5333,-85.3,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1572266
+"13","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","30","cm",NA,10.5,-85.1667,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1679649
+"14","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","30","cm",NA,10.5,-85.1667,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1679650
+"15","Hymenaea","Hymenaea courbaril","whole plant growth form","tree",NA,NA,10.5333,-85.3,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1800396
+"16","Hymenaea","Hymenaea courbaril","whole plant growth form","tree",NA,NA,10.5,-85.1667,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1839908
+"17","Hymenaea","Hymenaea courbaril","whole plant growth form","tree",NA,NA,10.5,-85.1667,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1860117
+"18","Hymenaea","Hymenaea courbaril","whole plant growth form","tree",NA,NA,10.5333,-85.3,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1957834
+"19","Hymenaea","Hymenaea courbaril","whole plant growth form","tree",NA,NA,10.5,-85.1667,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1972122
+"20","Hymenaea","Hymenaea courbaril","whole plant growth form","tree",NA,NA,10.5,-85.1667,NA,NA,"James S. MIller",NA,"Costa Rica",NA,NA,"public",1972123
+"21","Hymenaea","Hymenaea courbaril","leaf carbon content per leaf dry mass","509.542673","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3103532
+"22","Hymenaea","Hymenaea courbaril","leaf phosphorus content per leaf dry mass","1.18859","mg.g-1",NA,10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3104790
+"23","Hymenaea","Hymenaea courbaril","leaf carbon content per leaf dry mass","503.851117","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3104881
+"24","Hymenaea","Hymenaea courbaril","leaf carbon content per leaf dry mass","412.527804","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3104892
+"25","Hymenaea","Hymenaea courbaril","leaf phosphorus content per leaf dry mass","1.70549","mg.g-1",NA,10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3104897
+"26","Hymenaea","Hymenaea courbaril","leaf carbon content per leaf dry mass","473.181","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3104900
+"27","Hymenaea","Hymenaea courbaril","leaf nitrogen content per leaf dry mass","22.463","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3112444
+"28","Hymenaea","Hymenaea courbaril","leaf nitrogen content per leaf dry mass","17.888","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3112442
+"29","Hymenaea","Hymenaea courbaril","leaf phosphorus content per leaf dry mass","0.58074734","mg.g-1",NA,10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3121119
+"30","Hymenaea","Hymenaea courbaril","seed mass","6583.1","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3150354
+"31","Hymenaea","Hymenaea courbaril","seed mass","5950.8","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3158453
+"32","Hymenaea","Hymenaea courbaril","seed mass","3311.8","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3159297
+"33","Hymenaea","Hymenaea courbaril","seed mass","6651.3","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3160427
+"34","Hymenaea","Hymenaea courbaril","seed mass","66789","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3160444
+"35","Hymenaea","Hymenaea courbaril","leaf nitrogen content per leaf dry mass","18.59148582","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3195580
+"36","Hymenaea","Hymenaea courbaril","seed length","26.92","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208002
+"37","Hymenaea","Hymenaea courbaril","seed length","24.31","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208017
+"38","Hymenaea","Hymenaea courbaril","seed length","161.06","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208018
+"39","Hymenaea","Hymenaea courbaril","seed length","33.31","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208020
+"40","Hymenaea","Hymenaea courbaril","seed length","33.01","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208022
+"41","Hymenaea","Hymenaea courbaril","seed length","32.55","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208023
+"42","Hymenaea","Hymenaea courbaril","seed length","32.56","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208024
+"43","Hymenaea","Hymenaea courbaril","seed length","33.89","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208025
+"44","Hymenaea","Hymenaea courbaril","seed length","142.6","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208028
+"45","Hymenaea","Hymenaea courbaril","seed length","143.34","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208031
+"46","Hymenaea","Hymenaea courbaril","seed length","112.34","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208032
+"47","Hymenaea","Hymenaea courbaril","seed length","135.21","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208034
+"48","Hymenaea","Hymenaea courbaril","seed length","108.77","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208035
+"49","Hymenaea","Hymenaea courbaril","seed length","180","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208037
+"50","Hymenaea","Hymenaea courbaril","seed length","165","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208038
+"51","Hymenaea","Hymenaea courbaril","seed length","26.13","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208045
+"52","Hymenaea","Hymenaea courbaril","seed length","152.51","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208046
+"53","Hymenaea","Hymenaea courbaril","seed length","160","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208047
+"54","Hymenaea","Hymenaea courbaril","seed length","28.45","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208049
+"55","Hymenaea","Hymenaea courbaril","seed length","30.4","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208050
+"56","Hymenaea","Hymenaea courbaril","seed length","25.99","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208052
+"57","Hymenaea","Hymenaea courbaril","seed length","30.7","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3208053
+"58","Hymenaea","Hymenaea courbaril","leaf nitrogen content per leaf dry mass","29.22314687","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3245633
+"59","Hymenaea","Hymenaea courbaril","leaf nitrogen content per leaf dry mass","19.18974369","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3245685
+"60","Hymenaea","Hymenaea courbaril","leaf nitrogen content per leaf dry mass","25.20997942","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3246570
+"61","Hymenaea","Hymenaea courbaril","leaf nitrogen content per leaf dry mass","19.92337512","mg.g-1","Total amount of N per unit of dry leaf mass - Cornelissen et al. 2003",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3246586
+"62","Hymenaea","Hymenaea courbaril","leaf carbon content per leaf dry mass","512.164747","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3246587
+"63","Hymenaea","Hymenaea courbaril","leaf carbon content per leaf dry mass","516.912989","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3246588
+"64","Hymenaea","Hymenaea courbaril","leaf phosphorus content per leaf dry mass","1.22421","mg.g-1",NA,10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3246590
+"65","Hymenaea","Hymenaea courbaril","leaf carbon content per leaf dry mass","496.586","mg.g-1","carbon concentration of oven-dried (70ÃÂ°C for 72 hours) tissue",10.50371,-85.37081,289,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste","public",3260842
+"66","Hymenaea","Hymenaea courbaril","leaf phosphorus content per leaf dry mass","0.8001","mg.g-1",NA,10.83343,-85.60024,300,NA,"Cyrille Violle/Brian Enquist ","cyrille.violle@cefe.cnrs.fr;benquist@email.arizona.edu","Costa Rica","Guanacaste","Area de Concervacion Guanacaste Sector Santa Rosa","public",3279429
+"67","Hymenaea","Hymenaea courbaril","seed mass","5204","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3396297
+"68","Hymenaea","Hymenaea courbaril","seed mass","6730.8","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3396751
+"69","Hymenaea","Hymenaea courbaril","seed mass","5872.2","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3396720
+"70","Hymenaea","Hymenaea courbaril","seed mass","5512.7","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3451867
+"71","Hymenaea","Hymenaea courbaril","seed mass","6829.4","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3442665
+"72","Hymenaea","Hymenaea courbaril","seed mass","135612.5","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3453787
+"73","Hymenaea","Hymenaea courbaril","seed mass","111601.8","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3463796
+"74","Hymenaea","Hymenaea courbaril","seed mass","136461","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3463842
+"75","Hymenaea","Hymenaea courbaril","seed mass","111854.3","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3463848
+"76","Hymenaea","Hymenaea courbaril","seed mass","6358.3","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3463854
+"77","Hymenaea","Hymenaea courbaril","seed mass","6389.2","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3463866
+"78","Hymenaea","Hymenaea courbaril","seed mass","199791.3","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3463874
+"79","Hymenaea","Hymenaea courbaril","seed mass","63609.5","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3463880
+"80","Hymenaea","Hymenaea courbaril","seed mass","142097","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3463886
+"81","Hymenaea","Hymenaea courbaril","seed mass","6300.1","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3463894
+"82","Hymenaea","Hymenaea courbaril","seed mass","111782.9","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3463920
+"83","Hymenaea","Hymenaea courbaril","seed mass","106350.6","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3463921
+"84","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5005","cm",NA,9.168299675,-79.74639893,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4637948
+"85","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5005","cm",NA,9.199170113,-79.77410126,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4646745
+"86","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5000.5","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4732046
+"87","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5000.5","cm",NA,9.156820297,-79.75170135,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4746058
+"88","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5000.5","cm",NA,9.168299675,-79.74639893,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4749502
+"89","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5000.5","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4799913
+"90","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5005","cm",NA,9.14673996,-79.71250153,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4814865
+"91","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5000.5","cm",NA,9.199170113,-79.77410126,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4936859
+"92","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5000.5","cm",NA,9.141489983,-79.6934967,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4965349
+"93","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5000.5","cm",NA,9.16092968,-79.74269867,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4968310
+"94","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5000.5","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",4995505
+"95","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5005","cm",NA,9.16092968,-79.74269867,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",5005049
+"96","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","3.81","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5212315
+"97","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","31.75","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5310694
+"98","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","16.764","cm",NA,17.94803,-66.177243,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5713124
+"99","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","16.256","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",5713191
+"100","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","16.51","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6114416
+"101","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","50.292","cm",NA,18.229661,-66.072926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6212897
+"102","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","14.986","cm",NA,18.382551,-65.790254,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6212950
+"103","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","34.036","cm",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6310451
+"104","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5.334","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6310460
+"105","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","24.13","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6711241
+"106","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","52.324","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",6820010
+"107","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","39.116","cm",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7015258
+"108","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","26.162","cm",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7113793
+"109","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","11.684","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7417296
+"110","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5005","cm",NA,9.141489983,-79.6934967,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",7522115
+"111","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","19.812","cm",NA,18.053732,-66.67215,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7622768
+"112","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","16.51","cm",NA,18.360601,-64.970955,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7840189
+"113","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5.842","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8221592
+"114","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","12.954","cm",NA,18.229661,-66.072926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8320419
+"115","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5005","cm",NA,8.995849609,-79.64250183,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8323701
+"116","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5005","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",8750417
+"117","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","24.13","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",8924104
+"118","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5000.5","cm",NA,8.995849609,-79.64250183,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",9136155
+"119","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","16.764","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9122739
+"120","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","28.702","cm",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9226182
+"121","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5.08","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9325743
+"122","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","10.414","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9727155
+"123","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","50.292","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9826665
+"124","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","19.812","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9926362
+"125","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","30.48","cm",NA,17.94803,-66.177243,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9926368
+"126","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","12.954","cm",NA,18.117456,-66.983462,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",9926427
+"127","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","19.558","cm",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10629870
+"128","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5.842","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10729100
+"129","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","24.892","cm",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",10832413
+"130","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","33.782","cm",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11130318
+"131","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","26.67","cm",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",11130319
+"132","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","34.036","cm",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12232569
+"133","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","48.514","cm",NA,18.229661,-66.072926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12731838
+"134","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","25.4","cm",NA,18.229661,-66.072926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",12932504
+"135","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","12.7","cm",NA,18.229661,-66.072926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13132294
+"136","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","12.7","cm",NA,18.117456,-66.983462,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13234212
+"137","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","13.716","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",13635924
+"138","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","14.478","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14037003
+"139","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","33.02","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14236069
+"140","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","9.906","cm",NA,18.061241,-65.805718,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14438597
+"141","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","4.064","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14638199
+"142","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5000.5","cm",NA,9.14673996,-79.71250153,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",14766366
+"143","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","26.416","cm",NA,18.229661,-66.072926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",14838797
+"144","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","21.844","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15137951
+"145","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","6.858","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15338707
+"146","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","25.654","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15638322
+"147","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5005","cm",NA,8.986410141,-79.61799622,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",15666016
+"148","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","13.97","cm",NA,18.229661,-66.072926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",15836867
+"149","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","14.224","cm",NA,18.229661,-66.072926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16139817
+"150","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","21.082","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16239504
+"151","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5005","cm",NA,9.156820297,-79.75170135,NA,NA,"Richard Condit",NA,"Panama",NA,NA,"public",16422141
+"152","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5.842","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",16640556
+"153","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","3.81","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17042082
+"154","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","22.606","cm",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17042146
+"155","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","13.462","cm",NA,18.117456,-66.983462,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17142244
+"156","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","17.526","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17243700
+"157","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","13.208","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17744869
+"158","Hymenaea","Hymenaea courbaril","diameter at breast height (1.3 m)","5.334","cm",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",17844862
+"159","Hymenaea","Hymenaea courbaril","whole plant height","5.1816","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18041115
+"160","Hymenaea","Hymenaea courbaril","whole plant height","15.8496","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18109493
+"161","Hymenaea","Hymenaea courbaril","whole plant height","17.0688","m",NA,17.94803,-66.177243,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18387275
+"162","Hymenaea","Hymenaea courbaril","whole plant height","11.8872","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18387343
+"163","Hymenaea","Hymenaea courbaril","whole plant height","9.144","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18664243
+"164","Hymenaea","Hymenaea courbaril","whole plant height","14.0208","m",NA,18.229661,-66.072926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18732429
+"165","Hymenaea","Hymenaea courbaril","whole plant height","9.4488","m",NA,18.382551,-65.790254,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18732480
+"166","Hymenaea","Hymenaea courbaril","whole plant height","17.0688","m",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18800228
+"167","Hymenaea","Hymenaea courbaril","whole plant height","7.9248","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",18800239
+"168","Hymenaea","Hymenaea courbaril","whole plant height","14.0208","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19077483
+"169","Hymenaea","Hymenaea courbaril","whole plant height","14.9352","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19151462
+"170","Hymenaea","Hymenaea courbaril","whole plant height","16.4592","m",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19286857
+"171","Hymenaea","Hymenaea courbaril","whole plant height","12.4968","m",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19355347
+"172","Hymenaea","Hymenaea courbaril","whole plant height","10.3632","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19564962
+"173","Hymenaea","Hymenaea courbaril","whole plant height","11.8872","m",NA,18.053732,-66.67215,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19706084
+"174","Hymenaea","Hymenaea courbaril","whole plant height","9.144","m",NA,18.360601,-64.970955,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19857810
+"175","Hymenaea","Hymenaea courbaril","whole plant height","7.0104","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20121111
+"176","Hymenaea","Hymenaea courbaril","whole plant height","10.0584","m",NA,18.229661,-66.072926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20189521
+"177","Hymenaea","Hymenaea courbaril","whole plant height","10.0584","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20606395
+"178","Hymenaea","Hymenaea courbaril","whole plant height","10.3632","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20744207
+"179","Hymenaea","Hymenaea courbaril","whole plant height","10.9728","m",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20815054
+"180","Hymenaea","Hymenaea courbaril","whole plant height","7.62","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",20884006
+"181","Hymenaea","Hymenaea courbaril","whole plant height","9.144","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21161904
+"182","Hymenaea","Hymenaea courbaril","whole plant height","15.8496","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21230869
+"183","Hymenaea","Hymenaea courbaril","whole plant height","9.144","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21300292
+"184","Hymenaea","Hymenaea courbaril","whole plant height","18.8976","m",NA,17.94803,-66.177243,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21300299
+"185","Hymenaea","Hymenaea courbaril","whole plant height","9.144","m",NA,18.117456,-66.983462,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21300359
+"186","Hymenaea","Hymenaea courbaril","whole plant height","13.1064","m",NA,18.053732,-66.67215,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21440032
+"187","Hymenaea","Hymenaea courbaril","whole plant height","14.9352","m",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21786149
+"188","Hymenaea","Hymenaea courbaril","whole plant height","9.144","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21855142
+"189","Hymenaea","Hymenaea courbaril","whole plant height","15.8496","m",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",21925554
+"190","Hymenaea","Hymenaea courbaril","whole plant height","15.8496","m",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22131840
+"191","Hymenaea","Hymenaea courbaril","whole plant height","14.0208","m",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22131841
+"192","Hymenaea","Hymenaea courbaril","whole plant height","13.1064","m",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",22895242
+"193","Hymenaea","Hymenaea courbaril","whole plant height","21.9456","m",NA,18.229661,-66.072926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23240597
+"194","Hymenaea","Hymenaea courbaril","whole plant height","18.8976","m",NA,18.229661,-66.072926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23379048
+"195","Hymenaea","Hymenaea courbaril","whole plant height","8.5344","m",NA,18.229661,-66.072926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23517736
+"196","Hymenaea","Hymenaea courbaril","whole plant height","7.9248","m",NA,18.117456,-66.983462,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23587597
+"197","Hymenaea","Hymenaea courbaril","whole plant height","9.144","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",23865205
+"198","Hymenaea","Hymenaea courbaril","whole plant height","10.9728","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24142487
+"199","Hymenaea","Hymenaea courbaril","whole plant height","14.9352","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24280869
+"200","Hymenaea","Hymenaea courbaril","whole plant height","9.7536","m",NA,18.061241,-65.805718,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24420782
+"201","Hymenaea","Hymenaea courbaril","whole plant height","6.096","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24558602
+"202","Hymenaea","Hymenaea courbaril","whole plant height","13.4112","m",NA,18.229661,-66.072926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24697091
+"203","Hymenaea","Hymenaea courbaril","whole plant height","13.1064","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",24903777
+"204","Hymenaea","Hymenaea courbaril","whole plant height","10.0584","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25042313
+"205","Hymenaea","Hymenaea courbaril","whole plant height","14.0208","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25249410
+"206","Hymenaea","Hymenaea courbaril","whole plant height","8.5344","m",NA,18.229661,-66.072926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25386914
+"207","Hymenaea","Hymenaea courbaril","whole plant height","10.9728","m",NA,18.229661,-66.072926,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25596164
+"208","Hymenaea","Hymenaea courbaril","whole plant height","13.1064","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25665189
+"209","Hymenaea","Hymenaea courbaril","whole plant height","7.62","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",25942749
+"210","Hymenaea","Hymenaea courbaril","whole plant height","4.8768","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26220729
+"211","Hymenaea","Hymenaea courbaril","whole plant height","12.4968","m",NA,18.341617,-65.738786,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26220800
+"212","Hymenaea","Hymenaea courbaril","whole plant height","9.7536","m",NA,18.117456,-66.983462,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26290223
+"213","Hymenaea","Hymenaea courbaril","whole plant height","13.1064","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26360118
+"214","Hymenaea","Hymenaea courbaril","whole plant height","10.3632","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26706821
+"215","Hymenaea","Hymenaea courbaril","whole plant height","9.144","m",NA,18.06734,-66.189815,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",26776007

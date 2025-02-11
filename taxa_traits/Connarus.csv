@@ -1,0 +1,160 @@
+"","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",289367
+"2","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1775899
+"3","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1787149
+"4","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1843491
+"5","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1907730
+"6","Connarus","Connarus turczaninowii","seed mass","1406","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3238537
+"7","Connarus","Connarus turczaninowii","leaf area","1460","mm2","Area of dry blade calculated on photographies",NA,NA,NA,NA,"Dana Royer","droyer@wesleyan.edu","Panama",NA,NA,"public",3239268
+"8","Connarus",NA,"diameter at breast height (1.3 m)","4.69","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",33501
+"9","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","7.5","cm",NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",33591
+"10","Connarus",NA,"diameter at breast height (1.3 m)","3.5","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",87785
+"11","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",87890
+"12","Connarus",NA,"diameter at breast height (1.3 m)","3.29","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",101072
+"13","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.5","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",128553
+"14","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",208987
+"15","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",208988
+"16","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",208989
+"17","Connarus",NA,"diameter at breast height (1.3 m)","4.59","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",235164
+"18","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","1.7","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",236439
+"19","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.8","cm",NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",263955
+"20","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.6","cm",NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",263957
+"21","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",274659
+"22","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",276092
+"23","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",276093
+"24","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.9","cm",NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",290458
+"25","Connarus",NA,"diameter at breast height (1.3 m)","3","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",316573
+"26","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.8","cm",NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",344309
+"27","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",411653
+"28","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",411654
+"29","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.7","cm",NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",439446
+"30","Connarus",NA,"diameter at breast height (1.3 m)","3.9","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",451428
+"31","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","1.2","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",479829
+"32","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","1.3","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",479830
+"33","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","2.5","cm",NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",571203
+"34","Connarus",NA,"diameter at breast height (1.3 m)","4.9","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",572860
+"35","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","1.1","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",574057
+"36","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.8","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",574061
+"37","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.8","cm",NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",574063
+"38","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.7","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",574083
+"39","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.9","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",587424
+"40","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.6","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",587426
+"41","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.6","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",668000
+"42","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.6","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",681717
+"43","Connarus",NA,"diameter at breast height (1.3 m)","3.5","cm",NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",722388
+"44","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.7","cm",NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",829771
+"45","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","1.1","cm",NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",829773
+"46","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.5","cm",NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1046614
+"47","Connarus",NA,"diameter at breast height (1.3 m)","2.79","cm",NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1072410
+"48","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1099358
+"49","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1099360
+"50","Connarus",NA,"diameter at breast height (1.3 m)","5.3","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1126592
+"51","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1140125
+"52","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","1.1","cm",NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1168053
+"53","Connarus",NA,"diameter at breast height (1.3 m)","3.79","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1207327
+"54","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","2.5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1207407
+"55","Connarus","Connarus panamensis","diameter at breast height (1.3 m)","5","cm",NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1207434
+"56","Connarus",NA,"diameter at breast height (1.3 m)","2.79","cm",NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1221049
+"57","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.5","cm",NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1411232
+"58","Connarus",NA,"diameter at breast height (1.3 m)","4.8","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1450675
+"59","Connarus",NA,"diameter at breast height (1.3 m)","3.9","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1450674
+"60","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","1.8","cm",NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1492198
+"61","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.7","cm",NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1505743
+"62","Connarus",NA,"diameter at breast height (1.3 m)","4.4","cm",NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1545089
+"63","Connarus",NA,"diameter at breast height (1.3 m)","5.3","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1624531
+"64","Connarus","Connarus costaricensis","diameter at breast height (1.3 m)","0.7","cm",NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1667444
+"65","Connarus",NA,"diameter at breast height (1.3 m)","2.59","cm",NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1733659
+"66","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1745422
+"67","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1749447
+"68","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1756332
+"69","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1756461
+"70","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1758162
+"71","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1763210
+"72","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1763211
+"73","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1772643
+"74","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1772644
+"75","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1772645
+"76","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1777704
+"77","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1777705
+"78","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1781401
+"79","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1781402
+"80","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1781403
+"81","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1781754
+"82","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1781755
+"83","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1781756
+"84","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1783633
+"85","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1785065
+"86","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4115,-84.1131,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1785066
+"87","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1792457
+"88","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1792458
+"89","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1800404
+"90","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1800405
+"91","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1805391
+"92","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.3904,-84.1286,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1805392
+"93","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1805579
+"94","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1810790
+"95","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1810791
+"96","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1810792
+"97","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1821829
+"98","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.16667,-79.75,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1821985
+"99","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1823463
+"100","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1823464
+"101","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1823467
+"102","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1823468
+"103","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4015,-84.112,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1823469
+"104","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1823489
+"105","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1823490
+"106","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825183
+"107","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825184
+"108","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1825185
+"109","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1836055
+"110","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1836056
+"111","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1837949
+"112","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1837950
+"113","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1857989
+"114","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1857990
+"115","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4143,-84.1045,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1857991
+"116","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1887597
+"117","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1887598
+"118","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1889640
+"119","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1893271
+"120","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1893273
+"121","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1896798
+"122","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1898744
+"123","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1903915
+"124","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4426,-84.0656,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1903916
+"125","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1907875
+"126","Connarus","Connarus panamensis","whole plant growth form","liana",NA,NA,9.1,-79.6,NA,NA,"James S. MIller",NA,"Panama",NA,NA,"public",1907902
+"127","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1909609
+"128","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1936988
+"129","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1936989
+"130","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1940418
+"131","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1940438
+"132","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1948354
+"133","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4054,-84.1211,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1948355
+"134","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1950227
+"135","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4054,-84.102,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1950228
+"136","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6167,-96.2833,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1954122
+"137","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1964875
+"138","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1971804
+"139","Connarus","Connarus costaricensis","whole plant growth form","liana",NA,NA,10.4565,-84.0681,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1971805
+"140","Connarus",NA,"whole plant growth form","liana",NA,NA,17.6639,-96.3014,NA,NA,"Brad Boyle","bboyle@email.arizona.edu","Mexico",NA,NA,"public",1979471
+"141","Connarus","Connarus turczaninowii","seed length","18.5","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3111491
+"142","Connarus","Connarus turczaninowii","seed length","16.3","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3116120
+"143","Connarus","Connarus turczaninowii","seed length","17.6","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3120779
+"144","Connarus","Connarus turczaninowii","seed length","11.5","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3121718
+"145","Connarus","Connarus turczaninowii","seed length","17.8","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3125414
+"146","Connarus","Connarus turczaninowii","seed length","16.3","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3190719
+"147","Connarus","Connarus turczaninowii","seed mass","1346.1","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3191374
+"148","Connarus","Connarus turczaninowii","seed length","16.7","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3191615
+"149","Connarus","Connarus turczaninowii","seed length","18","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3191618
+"150","Connarus","Connarus turczaninowii","seed mass","1952.1","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3191762
+"151","Connarus","Connarus turczaninowii","seed length","11.2","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3191770
+"152","Connarus","Connarus turczaninowii","seed mass","390.2","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3191771
+"153","Connarus","Connarus turczaninowii","seed mass","1856.5","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3239266
+"154","Connarus","Connarus turczaninowii","seed mass","1656.6","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3239180
+"155","Connarus","Connarus turczaninowii","seed mass","1508.2","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3239271
+"156","Connarus","Connarus turczaninowii","seed length","11.2","mm",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3239272
+"157","Connarus","Connarus turczaninowii","seed mass","395","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3255157
+"158","Connarus","Connarus turczaninowii","seed mass","380.4","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3255158
+"159","Connarus","Connarus turczaninowii","seed mass","1825","mg",NA,9.15,-79.85,NA,"http://datadryad.org/resource/doi:10.5061/dryad.90f03","Fricke EC","ecfricke@iastate.edu","Panama","Panama",NA,"public",3798492

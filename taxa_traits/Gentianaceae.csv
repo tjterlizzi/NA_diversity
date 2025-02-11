@@ -1,0 +1,12 @@
+"","scrubbed_family","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Gentianaceae","Bartonia","Bartonia virginica","whole plant height","0.3","m","Maximum height",NA,NA,NA,NA,NA,NA,"United States","Indiana",NA,"public",3127421
+"2","Gentianaceae","Sabatia","Sabatia angularis","whole plant height","0.6","m","Maximum height",NA,NA,NA,NA,NA,NA,"United States","Indiana",NA,"public",3874611
+"3","Gentianaceae","Sabatia","Sabatia angularis","maximum whole plant height","0.8","m",NA,NA,NA,NA,NA,"Angela Moles","a.moles@unsw.edu.au","United States","Indiana",NA,"public",3963610
+"4","Gentianaceae","Eustoma","Eustoma exaltatum","seed mass","0.017","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4427006
+"5","Gentianaceae","Gentiana","Gentiana sceptrum","seed mass","0.128","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4426928
+"6","Gentianaceae","Gentiana","Gentiana affinis","seed mass","0.12","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4427023
+"7","Gentianaceae","Gentiana","Gentiana sceptrum","seed mass","0.086","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4426957
+"8","Gentianaceae","Swertia","Swertia radiata","seed mass","2.936","mg","data compilation",NA,NA,NA,"http://ucjeps.berkeley.edu/EFT.html","D.D. Ackerly","dackerly@berkeley.edu","United States","California",NA,"public",4428327
+"9","Gentianaceae","Potalia","Potalia turbinata","diameter at breast height (1.3 m)","2.5","cm",NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",61242
+"10","Gentianaceae","Potalia","Potalia turbinata","whole plant growth form","tree",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1754316
+"11","Gentianaceae","Potalia","Potalia turbinata","whole plant growth form","tree",NA,NA,10.4568,-84.0631,NA,NA,"Susan Letcher","SUSAN.LETCHER@purchase.edu","Costa Rica",NA,NA,"public",1754317

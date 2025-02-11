@@ -1,0 +1,397 @@
+"","scrubbed_genus","scrubbed_species_binomial","trait_name","trait_value","unit","method","latitude","longitude","elevation_m","url_source","project_pi","region","country","state_province","locality_description","access","id"
+"1","Caesalpinia","Caesalpinia caladenia","stem wood density","0.58","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3111164
+"2","Caesalpinia","Caesalpinia pulcherrima","whole plant height","4.8768","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",3146650
+"3","Caesalpinia","Caesalpinia pulcherrima","whole plant height","3.6576","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",3148109
+"4","Caesalpinia","Caesalpinia caladenia","leaf nitrogen content per leaf dry mass","20","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3188790
+"5","Caesalpinia","Caesalpinia coriaria","stem wood density","1.14","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.234","Lopez-Gonzalez G","G.Lopez-Gonzalez@leeds.ac.uk","Mexico",NA,NA,"public",3188850
+"6","Caesalpinia","Caesalpinia platyloba","stem wood density","1.03","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.234","Lopez-Gonzalez G","G.Lopez-Gonzalez@leeds.ac.uk","Mexico",NA,NA,"public",3188861
+"7","Caesalpinia","Caesalpinia eriostachys","stem wood density","0.61","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3188889
+"8","Caesalpinia","Caesalpinia sclerocarpa","leaf area per leaf dry mass","21.83","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3188912
+"9","Caesalpinia","Caesalpinia coriaria","stem wood density","0.71","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3189065
+"10","Caesalpinia","Caesalpinia eriostachys","stem wood density","0.74","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.234","Lopez-Gonzalez G","G.Lopez-Gonzalez@leeds.ac.uk","Mexico",NA,NA,"public",3189080
+"11","Caesalpinia","Caesalpinia pulcherrima","stem wood density","0.84","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.234","Lopez-Gonzalez G","G.Lopez-Gonzalez@leeds.ac.uk","Mexico",NA,NA,"public",3189084
+"12","Caesalpinia","Caesalpinia sclerocarpa","stem wood density","1.39","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.234","Lopez-Gonzalez G","G.Lopez-Gonzalez@leeds.ac.uk","Mexico",NA,NA,"public",3189086
+"13","Caesalpinia","Caesalpinia caladenia","stem wood density","0.58","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3237939
+"14","Caesalpinia","Caesalpinia caladenia","leaf nitrogen content per leaf dry mass","20","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3237945
+"15","Caesalpinia","Caesalpinia caladenia","stem wood density","0.91","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.234","Lopez-Gonzalez G","G.Lopez-Gonzalez@leeds.ac.uk","Mexico",NA,NA,"public",3237963
+"16","Caesalpinia","Caesalpinia caladenia","leaf area per leaf dry mass","17.16","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3237975
+"17","Caesalpinia","Caesalpinia coriaria","leaf area per leaf dry mass","12.38","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3238075
+"18","Caesalpinia","Caesalpinia eriostachys","leaf area per leaf dry mass","21.08","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3238084
+"19","Caesalpinia","Caesalpinia caladenia","leaf area per leaf dry mass","23.01","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3254842
+"20","Caesalpinia","Caesalpinia caladenia","leaf area per leaf dry mass","23.01","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3254843
+"21","Caesalpinia","Caesalpinia platyloba","leaf area per leaf dry mass","18.27","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3254851
+"22","Caesalpinia","Caesalpinia platyloba","leaf area per leaf dry mass","16.47","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3254852
+"23","Caesalpinia","Caesalpinia caladenia","stem wood density","0.58","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3259710
+"24","Caesalpinia","Caesalpinia caladenia","leaf nitrogen content per leaf dry mass","23","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3259741
+"25","Caesalpinia","Caesalpinia caladenia","leaf nitrogen content per leaf dry mass","23","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3259743
+"26","Caesalpinia","Caesalpinia caladenia","stem wood density","0.58","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3259745
+"27","Caesalpinia","Caesalpinia caladenia","leaf area per leaf dry mass","17.9","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3259749
+"28","Caesalpinia","Caesalpinia coriaria","stem wood density","0.68","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3784238
+"29","Caesalpinia","Caesalpinia eriostachys","stem wood density","0.61","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3784620
+"30","Caesalpinia","Caesalpinia eriostachys","leaf nitrogen content per leaf dry mass","26","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3784635
+"31","Caesalpinia","Caesalpinia eriostachys","stem wood density","0.61","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3784765
+"32","Caesalpinia","Caesalpinia platyloba","leaf nitrogen content per leaf dry mass","33","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3784780
+"33","Caesalpinia","Caesalpinia eriostachys","leaf nitrogen content per leaf dry mass","25","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3784882
+"34","Caesalpinia","Caesalpinia coriaria","leaf nitrogen content per leaf dry mass","30","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3785111
+"35","Caesalpinia","Caesalpinia eriostachys","leaf area per leaf dry mass","26.01","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3785248
+"36","Caesalpinia","Caesalpinia platyloba","leaf nitrogen content per leaf dry mass","31","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3785386
+"37","Caesalpinia","Caesalpinia eriostachys","leaf nitrogen content per leaf dry mass","26","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3785477
+"38","Caesalpinia","Caesalpinia eriostachys","leaf nitrogen content per leaf dry mass","26","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3785486
+"39","Caesalpinia","Caesalpinia platyloba","stem wood density","0.49","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3785611
+"40","Caesalpinia","Caesalpinia eriostachys","leaf area per leaf dry mass","18.63","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3785613
+"41","Caesalpinia","Caesalpinia eriostachys","leaf area per leaf dry mass","17.06","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3785625
+"42","Caesalpinia","Caesalpinia eriostachys","stem wood density","0.61","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3785778
+"43","Caesalpinia","Caesalpinia sclerocarpa","stem wood density","0.57","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3785901
+"44","Caesalpinia","Caesalpinia sclerocarpa","stem wood density","0.57","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3785919
+"45","Caesalpinia","Caesalpinia platyloba","stem wood density","0.54","g.cm-3",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3786498
+"46","Caesalpinia","Caesalpinia coriaria","leaf nitrogen content per leaf dry mass","24","mg.g-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3786635
+"47","Caesalpinia","Caesalpinia coriaria","leaf area per leaf dry mass","12.38","m2.kg-1",NA,NA,NA,NA,"http://datadryad.org/resource/doi:10.5061/dryad.6p9v5","Bhaskar R","radika@gmail.com","Mexico","Jalisco",NA,"public",3786843
+"48","Caesalpinia","Caesalpinia decapetala","whole plant growth form","shrub",NA,NA,NA,NA,NA,"https://pdfs.semanticscholar.org/b407/4eba9d8ed375b0c6c502501f21f2913d1777.pdf","Smith CW",NA,"United States","Hawaii",NA,"public",3847152
+"49","Caesalpinia","Caesalpinia mexicana","whole plant growth form","tree",NA,NA,NA,NA,NA,"http://ac.els-cdn.com.ezproxy3.library.arizona.edu/037811279090064I/1-s2.0-037811279090064I-main.pdf?_tid=7fd5d844-5e91-11e7-a5e4-00000aab0f6b&acdnat=1498936646_f1bb5a29cd006ad500b75c57217cdfb9","Reid N",NA,"Mexico",NA,NA,"public",3850141
+"50","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","shrub",NA,NA,NA,NA,NA,"http://stoppinginvasives.com/dotAsset/bf62d955-67c3-4d09-b961-1bc56149c3c1.pdf","Morton JF",NA,"United States","Florida",NA,"public",3862926
+"51","Caesalpinia","Caesalpinia mexicana","whole plant height","8.2296","m","Maximum height",NA,NA,NA,"http://www.americanforests.org/resources/bigtrees/register.php",NA,NA,"United States",NA,NA,"public",4428870
+"52","Caesalpinia","Caesalpinia platyloba","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",60060
+"53","Caesalpinia","Caesalpinia platyloba","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",60061
+"54","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",101151
+"55","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",101152
+"56","Caesalpinia","Caesalpinia coriaria","diameter at breast height (1.3 m)","21","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",114481
+"57","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","18","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",141863
+"58","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","14","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",141864
+"59","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","35","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",141865
+"60","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","17","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",141866
+"61","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","13","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",141867
+"62","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",155078
+"63","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",155079
+"64","Caesalpinia","Caesalpinia caladenia","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",179991
+"65","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",195655
+"66","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","16","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",208957
+"67","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","7","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",235256
+"68","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",235257
+"69","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","11","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",249657
+"70","Caesalpinia","Caesalpinia sclerocarpa","diameter at breast height (1.3 m)","20","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",316645
+"71","Caesalpinia","Caesalpinia sclerocarpa","diameter at breast height (1.3 m)","25","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",329846
+"72","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","24","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",343127
+"73","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","26","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",343131
+"74","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","14","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",343132
+"75","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","17","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",343134
+"76","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","22","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",397258
+"77","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","8","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",397259
+"78","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","18","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",397260
+"79","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",397261
+"80","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","7","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",397262
+"81","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",397263
+"82","Caesalpinia","Caesalpinia platyloba","diameter at breast height (1.3 m)","10","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",438426
+"83","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","14","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",478636
+"84","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","63","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",478637
+"85","Caesalpinia",NA,"diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",478642
+"86","Caesalpinia","Caesalpinia platyloba","diameter at breast height (1.3 m)","8","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",572943
+"87","Caesalpinia","Caesalpinia sclerocarpa","diameter at breast height (1.3 m)","35","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",626847
+"88","Caesalpinia",NA,"diameter at breast height (1.3 m)","9","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",707283
+"89","Caesalpinia","Caesalpinia coriaria","diameter at breast height (1.3 m)","7","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",801703
+"90","Caesalpinia","Caesalpinia coriaria","diameter at breast height (1.3 m)","12","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",801705
+"91","Caesalpinia","Caesalpinia platyloba","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",801706
+"92","Caesalpinia","Caesalpinia platyloba","diameter at breast height (1.3 m)","7","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",801707
+"93","Caesalpinia","Caesalpinia platyloba","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",801708
+"94","Caesalpinia","Caesalpinia platyloba","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",801709
+"95","Caesalpinia","Caesalpinia caladenia","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",815097
+"96","Caesalpinia","Caesalpinia caladenia","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",815098
+"97","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","13","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",815099
+"98","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","12","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",815100
+"99","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","15","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",815101
+"100","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","9","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",815102
+"101","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","14","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",815103
+"102","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",828605
+"103","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","11","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",828606
+"104","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","30","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",828607
+"105","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","7","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",828608
+"106","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",828609
+"107","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","7","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",828610
+"108","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","16","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",828611
+"109","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",828612
+"110","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855801
+"111","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855802
+"112","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855803
+"113","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855804
+"114","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855805
+"115","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855806
+"116","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855807
+"117","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855808
+"118","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855809
+"119","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855810
+"120","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855811
+"121","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855812
+"122","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855813
+"123","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855817
+"124","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","8","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855818
+"125","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855819
+"126","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","40","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855820
+"127","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","15","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855821
+"128","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855822
+"129","Caesalpinia","Caesalpinia platyloba","diameter at breast height (1.3 m)","19","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",855826
+"130","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",950306
+"131","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","22","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",950307
+"132","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1004957
+"133","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","8","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1004958
+"134","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1004959
+"135","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1004960
+"136","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1004961
+"137","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1004962
+"138","Caesalpinia","Caesalpinia coriaria","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1018402
+"139","Caesalpinia","Caesalpinia coriaria","diameter at breast height (1.3 m)","12","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1018403
+"140","Caesalpinia","Caesalpinia coriaria","diameter at breast height (1.3 m)","9","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1018404
+"141","Caesalpinia","Caesalpinia coriaria","diameter at breast height (1.3 m)","8","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1018405
+"142","Caesalpinia","Caesalpinia platyloba","diameter at breast height (1.3 m)","9","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1059171
+"143","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","28","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1099334
+"144","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1099335
+"145","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1113211
+"146","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1113212
+"147","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1113213
+"148","Caesalpinia","Caesalpinia sclerocarpa","diameter at breast height (1.3 m)","21","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1180242
+"149","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1193833
+"150","Caesalpinia","Caesalpinia coriaria","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1207424
+"151","Caesalpinia","Caesalpinia coriaria","diameter at breast height (1.3 m)","18","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1207425
+"152","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","8","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1234454
+"153","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","18","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1234455
+"154","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","14","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1234456
+"155","Caesalpinia","Caesalpinia sclerocarpa","diameter at breast height (1.3 m)","22","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1275237
+"156","Caesalpinia","Caesalpinia sclerocarpa","diameter at breast height (1.3 m)","10","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1356515
+"157","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","18","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1369932
+"158","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","26","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1463965
+"159","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","20","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1463966
+"160","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","10","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1491017
+"161","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","20","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1491018
+"162","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","11","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1491019
+"163","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","9","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1491020
+"164","Caesalpinia","Caesalpinia coriaria","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1545195
+"165","Caesalpinia","Caesalpinia coriaria","diameter at breast height (1.3 m)","26","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1545196
+"166","Caesalpinia","Caesalpinia coriaria","diameter at breast height (1.3 m)","2","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1545197
+"167","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1545203
+"168","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","7","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1545204
+"169","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","12","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1545205
+"170","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1545206
+"171","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","20","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1545207
+"172","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","15","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1545208
+"173","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1545209
+"174","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1545210
+"175","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","22","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1558814
+"176","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","2.5","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1558815
+"177","Caesalpinia","Caesalpinia sclerocarpa","diameter at breast height (1.3 m)","12","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1558816
+"178","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","10","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1612701
+"179","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","6","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1612702
+"180","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1612703
+"181","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","9","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1612704
+"182","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","8","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1612705
+"183","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","20","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1612706
+"184","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","13","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1612708
+"185","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","9","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1612709
+"186","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","11","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1612710
+"187","Caesalpinia","Caesalpinia caladenia","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1653069
+"188","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","12","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1653077
+"189","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","30","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1653078
+"190","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1653079
+"191","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","20","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1653080
+"192","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1653081
+"193","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","9","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1653082
+"194","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1653083
+"195","Caesalpinia","Caesalpinia platyloba","diameter at breast height (1.3 m)","16","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1666379
+"196","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","25","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1720216
+"197","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","3","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1720217
+"198","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","8","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1720219
+"199","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","4","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1720220
+"200","Caesalpinia","Caesalpinia eriostachys","diameter at breast height (1.3 m)","20","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1720221
+"201","Caesalpinia","Caesalpinia sclerocarpa","diameter at breast height (1.3 m)","19","cm",NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1747856
+"202","Caesalpinia","Caesalpinia platyloba","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1752860
+"203","Caesalpinia","Caesalpinia platyloba","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1752861
+"204","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1758269
+"205","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1758270
+"206","Caesalpinia","Caesalpinia coriaria","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1760095
+"207","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1763588
+"208","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1763589
+"209","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1763590
+"210","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1763591
+"211","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1763592
+"212","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1765413
+"213","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1765414
+"214","Caesalpinia","Caesalpinia caladenia","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1768772
+"215","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1770606
+"216","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1772612
+"217","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1776175
+"218","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1776176
+"219","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1778084
+"220","Caesalpinia","Caesalpinia sclerocarpa","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1787229
+"221","Caesalpinia","Caesalpinia sclerocarpa","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1789146
+"222","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1790927
+"223","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1790931
+"224","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1790932
+"225","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1790933
+"226","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1798319
+"227","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1798320
+"228","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1798321
+"229","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1798322
+"230","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1798323
+"231","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1798324
+"232","Caesalpinia","Caesalpinia platyloba","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1804016
+"233","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1809214
+"234","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1809215
+"235","Caesalpinia",NA,"whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1809220
+"236","Caesalpinia","Caesalpinia platyloba","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1821947
+"237","Caesalpinia","Caesalpinia sclerocarpa","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1829206
+"238","Caesalpinia",NA,"whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1839904
+"239","Caesalpinia","Caesalpinia coriaria","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1852774
+"240","Caesalpinia","Caesalpinia coriaria","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1852776
+"241","Caesalpinia","Caesalpinia platyloba","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1852777
+"242","Caesalpinia","Caesalpinia platyloba","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1852778
+"243","Caesalpinia","Caesalpinia platyloba","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1852779
+"244","Caesalpinia","Caesalpinia platyloba","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1852780
+"245","Caesalpinia","Caesalpinia caladenia","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1854560
+"246","Caesalpinia","Caesalpinia caladenia","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1854559
+"247","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1854561
+"248","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1854562
+"249","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1854563
+"250","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1854564
+"251","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1854565
+"252","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1856450
+"253","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1856451
+"254","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1856452
+"255","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1856453
+"256","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1856454
+"257","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1856455
+"258","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1856456
+"259","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1856457
+"260","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860090
+"261","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860091
+"262","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860092
+"263","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860093
+"264","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860094
+"265","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860095
+"266","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860096
+"267","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860098
+"268","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860099
+"269","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860100
+"270","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860101
+"271","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860102
+"272","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860103
+"273","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860107
+"274","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860108
+"275","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860109
+"276","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860110
+"277","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860111
+"278","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860112
+"279","Caesalpinia","Caesalpinia platyloba","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1860116
+"280","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1873078
+"281","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1873079
+"282","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1880575
+"283","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1880576
+"284","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1880577
+"285","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1880578
+"286","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1880579
+"287","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1880580
+"288","Caesalpinia","Caesalpinia coriaria","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1882396
+"289","Caesalpinia","Caesalpinia coriaria","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1882397
+"290","Caesalpinia","Caesalpinia coriaria","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1882398
+"291","Caesalpinia","Caesalpinia coriaria","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1882399
+"292","Caesalpinia","Caesalpinia platyloba","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1887960
+"293","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1893240
+"294","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1893241
+"295","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1895135
+"296","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1895137
+"297","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1895138
+"298","Caesalpinia","Caesalpinia sclerocarpa","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1904202
+"299","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1906085
+"300","Caesalpinia","Caesalpinia coriaria","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1907892
+"301","Caesalpinia","Caesalpinia coriaria","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1907893
+"302","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1911485
+"303","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1911486
+"304","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1911487
+"305","Caesalpinia","Caesalpinia sclerocarpa","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1917144
+"306","Caesalpinia","Caesalpinia sclerocarpa","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1928279
+"307","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1930006
+"308","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1943103
+"309","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1943104
+"310","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1946783
+"311","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1946784
+"312","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1946785
+"313","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1946786
+"314","Caesalpinia","Caesalpinia coriaria","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1954270
+"315","Caesalpinia","Caesalpinia coriaria","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1954271
+"316","Caesalpinia","Caesalpinia coriaria","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1954272
+"317","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1954278
+"318","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1954279
+"319","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1954280
+"320","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1954281
+"321","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1954282
+"322","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1954283
+"323","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1954284
+"324","Caesalpinia","Caesalpinia pulcherrima","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1954286
+"325","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1956036
+"326","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1956037
+"327","Caesalpinia","Caesalpinia sclerocarpa","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1956038
+"328","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1963155
+"329","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1963156
+"330","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1963157
+"331","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1963158
+"332","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1963159
+"333","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1963160
+"334","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1963162
+"335","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1963163
+"336","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1963164
+"337","Caesalpinia","Caesalpinia caladenia","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1968544
+"338","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1968556
+"339","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1968557
+"340","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1968558
+"341","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1968559
+"342","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1968561
+"343","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1968562
+"344","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1968563
+"345","Caesalpinia","Caesalpinia platyloba","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1970352
+"346","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1977586
+"347","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1977587
+"348","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1977589
+"349","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1977590
+"350","Caesalpinia","Caesalpinia eriostachys","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1977591
+"351","Caesalpinia","Caesalpinia sclerocarpa","whole plant growth form","tree",NA,NA,19.5,-105.05,NA,NA,"James S. MIller",NA,"Mexico",NA,NA,"public",1981376
+"352","Caesalpinia","Caesalpinia caladenia","seed length","0.0772","mm",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3141738
+"353","Caesalpinia","Caesalpinia coriaria","seed mass","6","mg",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3141752
+"354","Caesalpinia","Caesalpinia coriaria","whole plant height","12","m","max height",19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3141760
+"355","Caesalpinia","Caesalpinia gaumeri","seed length","9.337","mm",NA,20.0846,-89.51128,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Yucatan",NA,"public",3141761
+"356","Caesalpinia","Caesalpinia sclerocarpa","seed mass","6","mg",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3141768
+"357","Caesalpinia","Caesalpinia caladenia","seed mass","11","mg",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3953234
+"358","Caesalpinia","Caesalpinia caladenia","whole plant height","8","m","max height",19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3953242
+"359","Caesalpinia","Caesalpinia coriaria","seed length","0.059","mm",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3953247
+"360","Caesalpinia","Caesalpinia eriostachys","seed mass","12","mg",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3953251
+"361","Caesalpinia","Caesalpinia eriostachys","whole plant height","13","m","max height",19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3953252
+"362","Caesalpinia","Caesalpinia eriostachys","seed length","0.226","mm",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3953253
+"363","Caesalpinia","Caesalpinia platyloba","seed length","0.233","mm",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3953255
+"364","Caesalpinia","Caesalpinia platyloba","seed mass","12","mg",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3953257
+"365","Caesalpinia","Caesalpinia platyloba","whole plant height","7","m","max height",16.664,-95.01425,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Oaxaca",NA,"public",3953259
+"366","Caesalpinia","Caesalpinia platyloba","whole plant height","12","m","max height",19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3953261
+"367","Caesalpinia","Caesalpinia platyloba","leaf dry mass per leaf fresh mass","0.5","mg.g-1",NA,16.664,-95.01425,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Oaxaca",NA,"public",3953262
+"368","Caesalpinia","Caesalpinia pulcherrima","seed mass","11","mg",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3953265
+"369","Caesalpinia","Caesalpinia pulcherrima","whole plant height","6","m","max height",19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3953267
+"370","Caesalpinia","Caesalpinia pulcherrima","seed length","0.094","mm",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3953268
+"371","Caesalpinia","Caesalpinia sclerocarpa","whole plant height","20","m","max height",19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3953271
+"372","Caesalpinia","Caesalpinia sclerocarpa","seed length","0.0588","mm",NA,19.54092,-105.0083,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Jalisco",NA,"public",3953272
+"373","Caesalpinia","Caesalpinia gaumeri","leaf dry mass per leaf fresh mass","468.4","mg.g-1",NA,20.0846,-89.51128,NA,"http://datadryad.org/resource/doi:10.5061/dryad.d87v7","Letcher SG","susan.letcher@purchase.edu","Mexico","Yucatan",NA,"public",3953286
+"374","Caesalpinia","Caesalpinia gaumeri","leaf area per leaf dry mass","12.472","m2.kg-1",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4289116
+"375","Caesalpinia","Caesalpinia gaumeri","leaf photosynthetic rate per leaf area","12.1","Âµmol.m-2.s-1",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4289117
+"376","Caesalpinia","Caesalpinia gaumeri","leaf stomatal conductance for H2O per leaf area","262","mol.H2O.m-2.s-1",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4289118
+"377","Caesalpinia","Caesalpinia gaumeri","leaf nitrogen content per leaf area","0.00199326491","kg.m-2",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4289119
+"378","Caesalpinia","Caesalpinia gaumeri","leaf nitrogen content per leaf dry mass","24.86","mg.g-1",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4289120
+"379","Caesalpinia","Caesalpinia gaumeri","leaf photosynthetic rate per leaf dry mass","0.1509112","Âµmol.g-1.s-1",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4289121
+"380","Caesalpinia","Caesalpinia gaumeri","leaf carbon content per leaf nitrogen content","10.734",NA,NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4289122
+"381","Caesalpinia","Caesalpinia mollis","leaf area per leaf dry mass","9.31","m2.kg-1",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4289123
+"382","Caesalpinia","Caesalpinia mollis","leaf stomatal conductance for H2O per leaf area","472","mol.H2O.m-2.s-1",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4289124
+"383","Caesalpinia","Caesalpinia mollis","leaf nitrogen content per leaf area","0.00251772288","kg.m-2",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4289125
+"384","Caesalpinia","Caesalpinia mollis","leaf nitrogen content per leaf dry mass","23.44","mg.g-1",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4289126
+"385","Caesalpinia","Caesalpinia mollis","leaf photosynthetic rate per leaf area","19.133","Âµmol.m-2.s-1",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4289127
+"386","Caesalpinia","Caesalpinia mollis","leaf photosynthetic rate per leaf dry mass","0.17812823","Âµmol.g-1.s-1",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4289128
+"387","Caesalpinia","Caesalpinia mollis","leaf carbon content per leaf nitrogen content","10.734",NA,NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4289129
+"388","Caesalpinia","Caesalpinia yucatanensis","leaf photosynthetic rate per leaf area","15.88","Âµmol.m-2.s-1",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4291278
+"389","Caesalpinia","Caesalpinia yucatanensis","leaf photosynthetic rate per leaf dry mass","0.12276828","Âµmol.g-1.s-1",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4291279
+"390","Caesalpinia","Caesalpinia yucatanensis","leaf stomatal conductance for H2O per leaf area","537","mol.H2O.m-2.s-1",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4298174
+"391","Caesalpinia","Caesalpinia yucatanensis","leaf nitrogen content per leaf area","0.00248831171","kg.m-2",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4298175
+"392","Caesalpinia","Caesalpinia yucatanensis","leaf nitrogen content per leaf dry mass","19.2371378","mg.g-1",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4298176
+"393","Caesalpinia","Caesalpinia yucatanensis","leaf area per leaf dry mass","7.731","m2.kg-1",NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4298177
+"394","Caesalpinia","Caesalpinia yucatanensis","leaf carbon content per leaf nitrogen content","10.734",NA,NA,21.15,-89.82,4,"http://datadryad.org/resource/doi:10.5061/dryad.j42m7.2","Maire V","vmaire@gmail.com","Mexico","Yucatan",NA,"public",4298178
+"395","Caesalpinia","Caesalpinia pulcherrima","diameter at breast height (1.3 m)","22.606","cm",NA,18.370859,-64.749955,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",7536777
+"396","Caesalpinia","Caesalpinia pulcherrima","whole plant height","7.0104","m",NA,18.370859,-64.749955,NA,NA,"Greg Reams",NA,"United States",NA,NA,"public",19649026
