@@ -1,0 +1,352 @@
+---
+title: "hill_calculation"
+author: "Timothy Terlizzi"
+date: "2024-07-18"
+output: html_document
+---
+
+# Hill numbers Context
+This study uses Hill numbers to calculate the diversity of the pollen taxa for each of the smoothed timesteps. Hill numbers vary based on the variable q with the three most common indices being q=0, q=1, and q=2. The code below calculates the three levels of q for both the taxonomic diversity formulas outlined in Chao et al., 2014 as well as the functional diversity formulas in Chiu and Chao, 2014. These calculations enabled us to plot the diversity over time for each site within the figure_script.Rmd file. We opted to calculate both taxonomic and functional diversity to compare the outputs and determine how the two differ from one another. Taxonomic diversity focuses on the number and abundances of species while functional diversity uses the range of traits to create a distance matrix and weighs species based on their abundances and traits. In this case, the species are the identified pollen taxa, but fossil specimen could be another example. 
+
+# Libraries and packages
+These are the packages used in this file
+```{r Packages}
+library("dplyr")
+library("gower")
+library("ggplot2")
+```
+
+# Taxonomic Diversity Calculations
+Taxonomic diversity focuses on the number and abundances of taxa. The three taxonomic hill numbers we used are q=0, q=1, and q=2. q=0 is equivalent to species richness (a count of the number of species present). q=1 is equivalent to the common Shannon diversity index (each species is weighed by its relative abundance). q=2 is equivalent to the Simpsons diversity index (each species is weighed by the square of its relative abundance, essential is the diversity of common species). All three are in the same unit of 'effective number of species.' A value of x effective number of species is equivalent to an assemblage of x equally abundant species. All Hill numbers use the same base formula, however this code uses different formulas for each value of q, but each formula is a rewritten version of the base formula outlined in Chao et al., 2014. 
+
+### Importing data
+This code is to read in the smoothed composite datasheet we generated using the code in the smthdata_v2_Brewer.rmd file.
+
+```{r File Import, echo=TRUE}
+tot.sm<-read.csv("./composite/NAAll_5000.csv") #importing the smoothed composite dataset for all 23 sites from the composite folder within the working directory
+
+#creating a site column with the name of the site for each sample; removing the numbers from the Sample column leaving just the site name
+tot.sm$site<-gsub("[^a-zA-Z]", "", tot.sm$Sample)
+
+```
+
+### Hill number calculations
+The below code was used to calculate the taxonomic hill numbers at q=0, 1, and 2. These diversity estimates use the smoothed relative abundance values calculated using the weighted mean interpolation methods in the smthdata_v2_Brewer.rmd file.
+
+```{r Taxonomic Hill Calculations, echo=TRUE, message=FALSE}
+#creating a new dataframe with the three hill numbers as three new columns
+hill<-tot.sm %>%
+  #filtering out empty rows as they produce errors in the diversity calculations; we only use columns 3:148 because these are the columns containing the taxa and relative abundances
+  filter(rowSums(!is.na(.[3:144])) != 0) %>%
+    #creating a q0 column with the formula for q=0, formulas modified from Chao et al., 2014; the formula for q=0 is essentially just richness, so we are counting the number of species that are not 0 or NA
+    mutate(q0 = rowSums(.[3:144] !=0, na.rm=T), 
+           #creating a q1 column with the formula for q=1; the formula for q=1 is undefined so we use the below formula which is equivalent
+           q1 = exp(-rowSums(.[3:144]*log(.[3:144]), na.rm=T)), 
+           #creating a q2 column with the formula for q=2; this is the only formula using the base hill number formula
+           q2 = (rowSums(.[3:144]^2, na.rm=T))^(-1))
+
+#merging the hill dataframe with the original tot.sm dataframe to add back in the temporal gaps removed during the hill number calculations
+tot.sm<-tot.sm %>%
+  left_join(hill) 
+```
+
+# Functional Diversity Calculations
+Our functional diversity estimates use the distance based Hill numbers described in Chiu and Chao, 2014. These diversity estimates use the taxa trait averages calculated in the bien_trait_collection.Rmd file to create a distance matrix that is then used in the diversity calculations. The distance matrix is made using Gower distances in order to use both continuous and categorical variables. The distance between categorical variables is either a 0 for the same or 1 for different. 
+
+### Distance Matrix Generation
+This code is used to create 10000 distance matrices based on the 10000 mean trait values created by the monte carlo resampling. These distance matrices do not need to be run to create the functional diversity estimates. Only run this code to create the monte carlo plots to display the variance in the functional diversity estimates.
+```{r}
+taxa.list<-read.csv("./composite/master_taxa_list_v4.csv", na.strings = "")
+means.traits<-list() #create list for the dataframes
+myfiles = list.files(path="./monte_avgs", pattern="*.csv", full.names=TRUE) #store the names of all of the .csv files within the taxa_traits folder in the working directory
+
+#for each row in the taxa list, import the csv's from the taxa_traits folder
+for (n in 1:nrow(taxa.list)){
+  means.traits[[n]]<-read.csv(myfiles[n], na.strings = "") 
+}
+
+dist.mat<-list()
+
+for (j in 1:10000){
+d<-data.frame()
+
+monte_pull <- means.traits %>%
+  sapply(., "[", sample(nrow(.[[1]]), 1),) %>%
+  t(.) %>%
+  data.frame() %>%
+  mutate_at(c('Specific.Leaf.Area', 'Leaf.Lifespan', 'Max.Plant.Height', 'Max.Plant.Longevity', 'Seed.Mass'), as.numeric)
+
+for (i in 1:length(means.traits)){
+  d[i, 1:nrow(taxa.list)]<-gower_dist(monte_pull[i,], monte_pull[1:nrow(taxa.list),])
+}
+
+d[is.na(d)]<-1 #replacing any NA values with a 1 (maximum distance)
+
+dist.mat[[j]]<-d
+}
+```
+
+The code below is used to generate the distance matrix used in the diversity calculations.
+```{r}
+#importing the trait averages for each taxon used in the distance matrix calculations from the composite folder of the working directory. This spreadsheet was generated in the bien_trait_collection.Rmd file. 
+traits.tot<-read.csv("./composite/master_trait_data.csv", na.strings = "")
+
+#creating an empty dataframe to be turned into a distance matrix
+d<-data.frame()
+
+#looping through each row (taxon) of the trait.tot dataframe and taking the gower distance of the the 7 selected traits (columns 2,4,6,8,10,12, and 13), pairing the index taxon with all of the taxa including the current indexed taxon. 
+for (i in 1:nrow(traits.tot)){
+  d[i,1:nrow(traits.tot)]<-gower_dist(traits.tot[i,c(2,4,6,8,10,12,13)], traits.tot[1:nrow(traits.tot),c(2,4,6,8,10,12,13)])
+}
+d[is.na(d)]<-1 #replacing any NA values with a 1 (maximum distance)
+
+write.csv(d,"./composite/dist_matrix.csv", row.name=T) #saving the distance matrix as dist_matrix.csv within the composite folder of the working directory
+```
+
+### Functional hill number formulas
+The code below is used to define three functional for each of the three orders of q in the functional Hill numbers. The functions are then used to calculate q=0, q=1, and q=2 of the functional Hill numbers and add them to the tot.sm dataframe. 
+
+#the q=0 function is defined below
+funq0<-function(x){return(sum(((((as.numeric(x) %o% as.numeric(x)) %>% *using the %o% (outer) function to multiply each value by every other value*
+  replace(., .==0, NA) %>% *replacing any 0's with NA to exclude taxa not present in the sample*
+  
+  *to only use the distance values of the taxa present in the sample, all non-NA values are replaced with a 1 and multiplied by the distance matrix. The resulting dataframe of distance measures and NA values is divided by the distance matrix times the proportion matrix generated by the outer function*
+  replace(., !is.na(.), 1)) * d) / (d*(as.numeric(x) %o% as.numeric(x))) %>% 
+                                    sum(na.rm=T)), *the resulting dataframe is summed to create the Q (Rao's Quadratic Entropy) value in the original Chiu and Chao, 2014 formula*
+  na.rm=T)^(0.5))} *the sum is raised to the power of 0.5*
+
+#as with the taxonomic Hill numbers, q=1 is undefined so we use an alternate formula that is equivalent
+funq1<-function(x){return(exp(-sum((((as.numeric(x) %o% as.numeric(x)) %>% *the next 4 lines are identical to q=0 with the exception of taking the exp() of the -sum of the next five lines*
+  replace(., .==0, NA) %>%
+  replace(., !is.na(.), 1)) * d) / (d*(as.numeric(x) %o% as.numeric(x))) %>%
+                                    sum(na.rm=T) * 
+    (as.numeric(x) %o% as.numeric(x)* *Q is multiplied by the proportion matrix produced by the outer function*
+     log(as.numeric(x) %o% as.numeric(x))), *then the result is multiplied by the log of another proportion matrix*
+  na.rm=T)/2))} *the sum is then divided by 2 before the exponential (exp) is taken*
+
+#The q=2 function is the same as the q=0 with the added line 95
+funq2<-function(x){return(sum(((((as.numeric(x) %o% as.numeric(x)) %>% 
+  replace(., .==0, NA) %>%
+  replace(., !is.na(.), 1)) * d) / (d*(as.numeric(x) %o% as.numeric(x))) %>%
+                                    sum(na.rm=T) *
+    (as.numeric(x) %o% as.numeric(x))^2), *Q is multiplied by a proportion matrix made with the outer function with each cell being squared*
+  na.rm=T)^(-1/2))} *the sum is raised to the power of -1/2*
+  
+```{r}
+#the q=0 function is defined below
+funq0<-function(x){return(sum(((((as.numeric(x) %o% as.numeric(x)) %>% 
+  replace(., .==0, NA) %>% 
+  replace(., !is.na(.), 1)) * d) / (d*(as.numeric(x) %o% as.numeric(x))) %>% 
+                                sum(na.rm=T)), 
+  na.rm=T)^(0.5))}
+
+#as with the taxonomic Hill numbers, q=1 is undefined so we use an alternate formula that is equivalent
+funq1<-function(x){return(exp(-sum((((as.numeric(x) %o% as.numeric(x)) %>% 
+  replace(., .==0, NA) %>%
+  replace(., !is.na(.), 1)) * d) / (d*(as.numeric(x) %o% as.numeric(x))) %>%
+                                    sum(na.rm=T) * 
+    (as.numeric(x) %o% as.numeric(x)* 
+     log(as.numeric(x) %o% as.numeric(x))), 
+  na.rm=T)/2))}
+
+#The q=2 function is the same as the q=0 with the added line 95
+funq2<-function(x){return(sum(((((as.numeric(x) %o% as.numeric(x)) %>% 
+  replace(., .==0, NA) %>%
+  replace(., !is.na(.), 1)) * d) / (d*(as.numeric(x) %o% as.numeric(x))) %>%
+                                    sum(na.rm=T) *
+    (as.numeric(x) %o% as.numeric(x))^2), 
+  na.rm=T)^(-1/2))} 
+
+#to calculate the actual Hill numbers, all empty rows are filtered out, sorted alphabetically and then the nontaxa columns are moved to the front. Taxa are alphabetically so the order is the same as the distance matrix (d)
+```
+
+```{r}
+fhill<-tot.sm %>%
+  filter(rowSums(!is.na(.[3:144])) != 0) %>%
+  select(sort(names(.))) %>%
+  select(site, Sample, YrBP, q0, q1, q2, everything()) %>%
+  mutate(fq0 = .[7:148] %>% #creating a new column called fq0
+           split(., row(.)) %>% #columns 7:152 (the taxa) are split by row meaning the below function is applied to each row rather than individual cells
+           lapply(., funq0) %>% #lapply applied the q=0 function (funq0) to each row
+           unlist() %>% #unlist() is used to remove the format of the output (single number) so as.numeric can be applied
+           as.numeric(), #converting the output into a numeric value
+         fq1 = .[7:148] %>% #the same is done for q=1 except for using the q=1 function (funq1)
+           split(., row(.)) %>%
+           lapply(., funq1) %>%
+           unlist() %>%
+           as.numeric(),
+         fq2 = .[7:148] %>% #the same is done for q=2 except for using the q=2 function (funq2)
+           split(., row(.)) %>%
+           lapply(., funq2) %>%
+           unlist() %>%
+           as.numeric())
+
+tot.sm<-tot.sm %>% #the filtered data frame with the Hill numbers is joined with the unfiltered tot.sm
+  left_join(fhill)
+
+write.csv(tot.sm,"./composite/hill_master.csv", row.names = F) #the full dataframe with the functional Hill numbers (tot.sm) is saved as hill_master.csv in the composite folder of the working directory.
+```
+
+#Monte Carlo Functional Diversity
+The below code is to recalculate the functional diversity 100 times (could be done up to 10000 times( using the simulated monte carlo data set and the same formulas define above. *This code takes a very long time to run*
+```{r}
+fun_hill_sim<-list()
+
+for (i in 1:100){#length(dist.mat)){
+  d<-dist.mat[[i]]
+  fun.tot<-data.frame()
+  
+fhill<-tot.sm %>%
+  filter(rowSums(!is.na(.[3:150])) != 0) %>%
+  select(sort(names(.))) %>%
+  select(site, Sample, YrBP, q0, q1, q2, everything()) %>%
+  mutate(fq0 = .[7:154] %>% #creating a new column called fq0
+           split(., row(.)) %>% #columns 7:154 (the taxa) are split by row meaning the below function is applied to each row rather than individual cells
+           lapply(., funq0) %>% #lapply applied the q=0 function (funq0) to each row
+           unlist() %>% #unlist() is used to remove the format of the output (single number) so as.numeric can be applied
+           as.numeric(), #converting the output into a numeric value
+         fq1 = .[7:154] %>% #the same is done for q=1 except for using the q=1 function (funq1)
+           split(., row(.)) %>%
+           lapply(., funq1) %>%
+           unlist() %>%
+           as.numeric(),
+         fq2 = .[7:154] %>% #the same is done for q=2 except for using the q=2 function (funq2)
+           split(., row(.)) %>%
+           lapply(., funq2) %>%
+           unlist() %>%
+           as.numeric())
+
+fun.tot<-tot.sm %>% #the filtered data frame with the Hill numbers is joined with the unfiltered tot.sm
+  left_join(fhill)
+
+fun_hill_sim[[i]]<-fun.tot[c(1:2,151,155:157)]
+}
+
+#save file as .RData to make dataset easier to access
+saveRDS(fun_hill_sim, file="./composite/functional_simulation.RData")
+```
+
+#Monte Carlo Plots
+```{r}
+reg<-data.frame(site=unique(fun_hill_sim[[1]]$site), region=c(4,5,5,5,2,6,2,3,1,4,3,5,1,2,5,1,3,2,5,3,5,6,7,5,5,6,1,4,1))
+
+#assigning the region number to each row of tot.sm based on the site name
+for (i in 1:length(fun_hill_sim)){
+  
+  q.avgs<-data.frame(matrix(ncol = 4, nrow = 0))
+colnames(q.avgs)<-c("Region", "fq0.m", "fq1.m", "fq2.m")
+
+  for (j in 1:nrow(reg)){
+    for (k in 1:nrow(fun_hill_sim[[i]])){
+      if (reg$site[j]==fun_hill_sim[[i]]$site[k]){
+        fun_hill_sim[[i]]$Region[k]<-reg$region[j]
+      }
+    }
+  }
+  #classifying the regions numbers as characters to prevent issues when   plotting
+  fun_hill_sim[[i]]$Region<-as.character(fun_hill_sim[[i]]$Region)
+  fun_hill_sim[[i]]<-fun_hill_sim[[i]] %>%
+  mutate(KyrBP = .$YrBP/1000)
+  
+  fun_hill_sim[[i]]$fq0[770:774]<-NA
+  fun_hill_sim[[i]]$fq1[770:774]<-NA
+  fun_hill_sim[[i]]$fq2[770:774]<-NA
+  
+  for (g in 1:7){
+  q.avg <- fun_hill_sim[[i]] %>%
+    filter(.$Region == g) %>% #filtering to only include samples from region i
+    #creating average columns for each order q
+    mutate(fq0.m = mean(.$fq0, na.rm=T),
+           fq1.m = mean(.$fq1, na.rm=T),
+           fq2.m = mean(.$fq2, na.rm=T))
+  q.avgs<-rbind(q.avg[c(1,9:11)], q.avgs) #stacking all of the region averages together to rebuild the original dataframe
+}
+
+fun_hill_sim[[i]] <- fun_hill_sim[[i]] %>% #merging the dataframe with the averages by the original tot.sm dataframe via the Region column
+  left_join(q.avgs)
+}
+```
+
+```{r}
+#Here we create a dataframe called dat_text that has two columns, label and Region, the Region column is numbered 1 through 7 in line with region numbers in tot.sm. The label column contains the abbreviations for each region to be added to the plot
+dat_text <- data.frame(
+  label= c("ARCT", "GL", "NW", "SE", "IMW", "MEX", "YUC"),
+  Region= c(1, 2, 3, 4, 5, 6, 7)
+)
+
+#the two dataframes created below are for labeling the MIS on the plots. The x values are the year mid-points for each stage. The label is the name for each stage. The region is set to only 1 because the labels will only appear on the region 1 plot. The other dataframe only appears on the region 2 plot. They are separated so the cool even MIS are labeled on region 1 and the warm odd MIS are labeled on region 2. 
+mis_lab_1 <- data.frame(
+  label = c("MIS 2", "MIS 4", "MIS 5b", "MIS 5d", "MIS 6"),
+  x = c(20.35, 64, 83, 111.25, 140),
+  Region = c(1, 1, 1, 1, 1)
+)
+
+mis_lab_2 <- data.frame(
+  label = c("MIS 1", "MIS 3", "MIS 5a", "MIS 5c", "MIS 5e"),
+  x = c(5.85, 43, 74.5, 97.25, 123),
+  Region = c(2, 2, 2, 2, 2)
+)
+```
+
+```{r}
+monte.plot<-ggplot(bind_rows(fun_hill_sim, .id="data_frame"), aes(KyrBP, (fq2-fq2.m)/fq2.m)) +
+  geom_rect(aes(xmin=11.7, xmax=29, ymin=-Inf, ymax=Inf), fill="#D2D2D2") + #MIS2
+  geom_rect(aes(xmin=57, xmax=71, ymin=-Inf, ymax=Inf), fill="#D2D2D2") + #MIS4
+  geom_rect(aes(xmin=78, xmax=88, ymin=-Inf, ymax=Inf), fill="#D2D2D2") + #MIS5b
+  geom_rect(aes(xmin=106.5, xmax=116, ymin=-Inf, ymax=Inf), fill="#D2D2D2") + #MIS5d
+  geom_rect(aes(xmin=130, xmax=Inf, ymin=-Inf, ymax=Inf), fill="#D2D2D2") + #MIS6
+  geom_hline(yintercept = 0, color="#5a5a5a", linetype=5, linewidth=0.25) +
+  geom_line(data=bind_rows(fun_hill_sim, .id="data_frame"), mapping=aes(group=interaction(data_frame, site)), col="black", na.rm=T, alpha=1, linewidth=0.3)+
+   theme_linedraw() + 
+  theme(
+    strip.text.x = element_blank(),
+    axis.title = element_text(size=13, family = "sans"),
+    plot.title = element_text(size=15, family = "sans", face = "bold.italic", margin = margin(b=10)),
+    panel.grid = element_blank(), 
+    panel.spacing = unit(-0.01, "lines"),
+    panel.border = element_rect(colour = "black", fill=NA, size=0.25)
+    )+
+  scale_x_reverse(limits=c(150,0), n.breaks = 12) + 
+  #smoothing the taxonomic q=1 for all sites
+  #geom_smooth(mapping=aes(KyrBP, fq0, group=data_frame), method="gam", na.rm=T, col="#e4851b", linewidth=0.25, level=0.95, alpha=0.63) +
+  labs(y = "Normalized Functional Diversity relative to Mean", x = "Age (cal ka BP)", title="fq=2") + 
+  facet_wrap(~Region, nrow=4, ncol=2) +
+  geom_text(
+    data = dat_text,
+    mapping = aes(x = 150, y = 0.8, label = label), #y value is different due to different y axis range
+    hjust="left",
+    vjust="bottom",
+    fontface="bold",
+    family="sans",
+    size=4
+  ) + 
+  geom_text(
+    data = mis_lab_1,
+    mapping = aes(x = x, y = 1.2, label = label), #y value is different due to the q=1 having a different range of y values than q=0
+    hjust="middle",
+    vjust="top",
+    fontface = "bold",
+    family="sans",
+    size=3
+  ) +
+  geom_text(
+    data = mis_lab_2,
+    mapping = aes(x = x, y = 1.2, label = label),
+    hjust="middle",
+    vjust="top",
+    fontface = "bold",
+    family="sans",
+    size=3
+  ) + 
+  coord_cartesian(ylim=c(-0.75, 1), clip="off") #max value of functional q=1 + 1. The max has 1 added to it to make the y axis labels cleaner to read
+
+ggsave("./supplemental plots/fq2_monte.pdf", monte.plot, width=7, height=7.5, units = "in", device="pdf", dpi = 1000) #saving the plot as a jpeg file 
+
+monte.plot
+```
+
+```{r}
+plot(fun_hill_sim[[1]] %>% filter(.$site=="pete") %>% .$YrBP, ((fun_hill_sim[[1]] %>% filter(.$site=="pete") %>% .$fq0 - fun_hill_sim[[1]] %>% filter(.$site=="pete") %>% .$fq0.m) / fun_hill_sim[[1]] %>% filter(.$site=="pete") %>% .$fq0.m), type="l", ylim = c(-0.75,2))
+for(i in 1:length(fun_hill_sim)){
+lines(fun_hill_sim[[i]] %>% filter(.$site=="pete") %>% .$YrBP, ((fun_hill_sim[[i]] %>% filter(.$site=="pete") %>% .$fq0 - fun_hill_sim[[i]] %>% filter(.$site=="pete") %>% .$fq0.m) / fun_hill_sim[[i]] %>% filter(.$site=="pete") %>% .$fq0.m))}
+```
